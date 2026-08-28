@@ -1,26 +1,40 @@
 {
   "meta": {
-    "title": "丽池公园大池塘 (Estanque Grande del Retiro)",
-    "description": "丽池公园大池塘的完整旅游指南。了解这一马德里的标志性景点、位置和游览信息。"
+    "title": "Estanque Grande del Retiro (马德里) - 游客指南与位置",
+    "description": "探索西班牙马德里自治区马德里的标志性景点——丽池公园大池塘（Estanque Grande del Retiro）。查看位置地图、开放信息、附近的阿尔方索十二世纪念碑及旅行建议。"
   },
   "header": {
     "home": "首页",
     "gallery": "图库",
     "reviews": "评价",
     "map": "地图",
+    "faq": "常问问题",
     "backToHome": "返回首页"
   },
   "hero": {
-    "title": "丽池公园大池塘",
-    "subtitle": "旅游胜地 · 马德里",
-    "rating": "4.7",
-    "reviewCount": "34,569 条评价",
+    "title": "Estanque Grande del Retiro (马德里)",
+    "subtitle": "旅游胜地 · 马德里 · 马德里自治区 · 西班牙",
+    "rating": "4.8",
+    "reviewCount": "35,360 条评价",
     "type": "旅游胜地",
-    "openMaps": "在Google地图上查看位置"
+    "openMaps": "在 Google 地图上查看"
+  },
+  "breadcrumb": {
+    "label": "地理归属层级",
+    "items": [
+      "Estanque Grande del Retiro（丽池公园大池塘）",
+      "马德里（Madrid）",
+      "马德里自治区（Comunidad de Madrid）",
+      "西班牙（España）"
+    ]
   },
   "intro": {
-    "title": "探索丽池公园大池塘",
-    "description": "丽池公园大池塘（Estanque Grande del Retiro）是西班牙马德里丽池公园中最具标志性的景点之一。位于市中心，这个池塘提供轻松的氛围，非常适合散步、划船和户外活动。这里是当地人和游客都喜爱的地方。",
+    "title": "关于 Estanque Grande del Retiro",
+    "description": "欢迎来到 <strong>Estanque Grande del Retiro</strong>，通常被俗称为核心的「<strong>Estanque del Retiro（丽池池塘）</strong>」。坐落于 <strong>西班牙</strong> <strong>马德里自治区</strong> <strong>马德里</strong> 市中心，这一目的地是旅客造访该地区时的核心旅游枢纽之一。丽池公园大池塘（Estanque Grande del Retiro）是西班牙马德里丽池公园中最具标志性的景点之一。位于市中心，这个池塘提供轻松的氛围，非常适合散步、划船和户外活动。这里是当地人和游客都喜爱的地方。",
+    "nearbyCluster": {
+      "title": "丽池池塘（Estanque del Retiro）周边地标与景点集群",
+      "description": "在游览 <strong>Estanque Grande del Retiro（丽池公园大池塘）</strong> 时，旅客可便捷地探索周边历史地标与兴趣点，包括 <strong>阿尔方索十二世纪念碑（Monumento a Alfonso XII）</strong> 与 <strong>丽池公园（Parque del Retiro）</strong> 两处核心地标。"
+    },
     "visitGuide": {
       "title": "游览建议",
       "items": [
@@ -30,61 +44,97 @@
       ]
     },
     "alsoKnownAs": {
-      "title": "亮点",
+      "title": "核心亮点",
       "items": [
-        "阿尔方索十二世纪念碑 (Monumento a Alfonso XII)",
-        "划船体验",
-        "木质亭台",
-        "丰富的植被"
+        "阿尔方索十二世纪念碑（Monumento a Alfonso XII）",
+        "划船体验（Paseos en barca）",
+        "木质亭台（Aldeas de madera）",
+        "丰富的植被生态"
       ]
     }
   },
   "knowledge": {
-    "title": "关于丽池公园大池塘",
+    "title": "Estanque Grande del Retiro 的历史与意义",
     "sections": [
       {
         "id": "history",
-        "title": "历史背景",
-        "content": "丽池公园大池塘建于17世纪腓力四世统治时期。最初是为皇室设计的休闲场所。随着时间的推移，它成为马德里主要的休闲景点之一。"
+        "title": "Estanque Grande del Retiro 的历史与意义",
+        "content": "丽池公园大池塘（Estanque Grande del Retiro）建于 <strong>1634 至 1635 年</strong>，由当时的建筑大师 <em>Cristóbal de Aguilera（克里斯托瓦尔·德·阿吉莱拉）</em> 主持施工，是腓力四世（Felipe IV）时期权臣奥利瓦雷斯伯爵-公爵（Conde Duque de Olivares）下令为王室营造的「布恩丽池宫（Buen Retiro）」皇家园林中极少数保存至今的遗存。水域自建成起即为可通航的皇家内湖，原池塘中心设有一座椭圆的林木葱郁的岛屿，王室成员与朝臣从此处登船泛舟，或登岛观赏露天戏剧演出。"
+      },
+      {
+        "id": "dimensions",
+        "title": "形体尺度与规格参数",
+        "content": "Estanque Grande del Retiro 为一矩形蓄水大盆，尺度约为 <strong>长 250 米 × 宽 125 米</strong>。四周（除东侧安放阿尔方索十二世纪念碑的立面外）均以石砌基座配铁质围栏封闭；东北角为今日的船只储藏室与公共登船码头（Embarcadero）所在地。"
       },
       {
         "id": "layout",
-        "title": "地理与分区",
-        "content": "池塘位于丽池公园内，靠近马德里市中心。园区规划包括人行步道、长椅、休息区和南端雄伟的阿尔方索十二世纪念碑。"
+        "title": "马德里丽池池塘（Estanque del Retiro）的位置与游览方式",
+        "content": "池塘坐落于丽池公园（Parque del Retiro）腹地，行政上属于 Retiro 区 Jerónimos 街区，紧邻马德里市中心。今日的整体结构成型于 1819 年费尔南多七世（Fernando VII）主导的园林改造以及 1922 年落成的阿尔方索十二世纪念碑；空间上由三件标志性构筑物共同构成——东侧的阿尔方索十二世纪念碑、北侧的公共登船码头、南侧的埃及喷泉（Fuente Egipcia）。"
+      },
+      {
+        "id": "reforms",
+        "title": "历次改造：从椭圆形湖心岛到纪念碑",
+        "content": "西班牙独立战争（Guerra de la Independencia / Peninsular War）后，丽池园林遭到严重破坏。1819 年费尔南多七世委任御用建筑师 <em>Isidro González Velázquez（伊西德罗·冈萨雷斯·贝拉斯克斯）</em> 主持多项改造：埃及喷泉（Fuente Egipcia）+两侧水车亭、东侧登船码头，以及未能实施的「中央巨型赫拉克勒斯（Hércules）立柱」方案。1867 年池塘对外承租，首次向公众开放划船通航，配套餐饮服务随即兴起。1917 年于东北角新建北岸登船码头；旧码头拆除后，原址于 1922 年落成 <strong>阿尔方索十二世纪念碑（Monumento a Alfonso XII）</strong>，是该池塘历史上最具决定性的空间干预。"
+      },
+      {
+        "id": "hydraulic",
+        "title": "水工系统与特构喷泉",
+        "content": "除主水面外，整个水利综合体还包括南端的 <strong>埃及喷泉（Fuente Egipcia）</strong>（由 Isidro González Velázquez 为费尔南多七世设计）。从历史记载看，池塘原配备六座水车：短边各一、长边各二，以砖石结构串联；并开凿了可通船的 <em>Canal del Mallo（马略渠）</em> 向南延伸，衔接另一座多叶形池塘及其附属小岛——近旁即原圣安东尼奥·德·洛斯·葡萄牙人小礼拜堂（Ermita de San Antonio de los Portugueses）遗址。2003 年，马德里市政厅完成了池塘历史上规模最大的一次综合修复、清淤与景观提升工程。"
       },
       {
         "id": "culture",
         "title": "文化意义",
-        "content": "作为西班牙首都最受欢迎的场所之一，池塘经常举办文化活动、节日和户外活动，是当地社区重要的聚会点。"
+        "content": "作为西班牙首都人气最高的公共空间之一，池塘至今持续承办水上活动、文艺演出与家庭式漫步；作为马德里市政厅 Patrimonio y Paisaje（遗产与景观）部门登记在册的「Fountain / Estanque / Lámina de agua（喷泉 / 池塘 / 水体）」级单体，它是城市等级最高的文化遗产活态资产之一。"
+      },
+      {
+        "id": "landmarks",
+        "title": "丽池池塘（Estanque del Retiro）周边地标与景点集群",
+        "content": "围绕 Estanque Grande del Retiro 的重要文化地标包括：东侧的阿尔方索十二世纪念碑、南侧的埃及喷泉（Fuente Egipcia）、北侧的公共登船码头、丽池公园内的水晶宫（Palacio de Cristal）、布恩丽池宫展厅（Casón del Buen Retiro），以及作为马德里「城市绿肺」的丽池公园步行道与园林系统本身。"
       },
       {
         "id": "biodiversity",
-        "title": "生态与植物",
-        "content": "池塘周边拥有令人印象深刻的植物种类，包括众多观赏树木和野生植物。许多鸟类在此栖息，使其成为城市生物多样性的重要避难所。"
+        "title": "生态与植物群落",
+        "content": "池塘四周覆盖极具多样性的植物层，包括大量观赏树种与自然化的野生地被。多种鸟类在此栖息繁衍，使其成为马德里市中心极具生态价值的城市生物多样性庇护所之一。"
       },
       {
         "id": "facilities",
-        "title": "游乐与运动设施",
-        "content": "在池塘周边可以找到多个木质亭台、休息区和各种小亭，提供饮品和小吃，让您在探索大自然之余享受便捷的服务。"
+        "title": "游乐设施与登船码头",
+        "content": "近岸地带分布有木质平台、休息区与小卖部；东北角的登船码头是目前划船服务的主入口。自 1867 年向公众开放租赁以来，泛舟池塘一直是 Estanque Grande 最具代表性的城市游憩活动之一。"
       }
     ]
   },
   "basicInfo": {
-    "title": "基础信息",
-    "officialName": "正式名称",
+    "title": "基础信息与文化遗产登记卡",
+    "officialName": "官方全称",
     "officialNameValue": "Estanque Grande del Retiro",
     "type": "景点类型",
-    "typeValue": "旅游胜地",
-    "country": "国家",
-    "countryValue": "西班牙",
-    "city": "城市",
-    "cityValue": "马德里",
-    "googleRating": "谷歌评分",
-    "googleRatingValue": "4.7 (34,569)",
-    "address": "地址",
-    "addressValue": "P.º de Colombia, 2, Retiro, 28016 Madrid, Spain",
+    "typeValue": "旅游胜地（Tourist Attraction）· 喷泉 / 池塘 / 景观水体",
+    "typology": "文化遗产登记类型",
+    "typologyValue": "Fuente / Estanque / Lámina de agua（喷泉 / 池塘 / 水体）",
+    "ownership": "资产权属",
+    "ownershipValue": "市属公有（马德里市政厅 / Ayuntamiento de Madrid）",
+    "yearBuilt": "建造年份",
+    "yearBuiltValue": "1634 – 1635 年（首席营造师：Cristóbal de Aguilera）",
+    "architectMaster": "营造 / 改造主持者",
+    "architectMasterValue": "Cristóbal de Aguilera（1634 始建）；1819 改造：Isidro González Velázquez",
+    "dimensions": "平面尺度（约）",
+    "dimensionsValue": "250 米 × 125 米（矩形盆体）",
+    "district": "行政区 / 街区",
+    "districtValue": "Retiro 区 · Jerónimos 街区",
+    "country": "所在国家",
+    "countryValue": "西班牙（España / Spain）",
+    "city": "所在城市",
+    "cityValue": "马德里（Madrid）",
+    "googleRating": "Google 评分",
+    "googleRatingValue": "4.8（35,360 条评价）",
+    "address": "物理地址",
+    "addressValue": "P.º de Colombia, 2, Retiro, 28016 Madrid, España（园区内又名 P.º del Estanque）",
+    "telephone": "联系电话",
+    "telephoneValue": "+34 915 744 024",
     "plusCode": "Plus Code",
-    "plusCodeValue": "C888+VC Madrid, Spain"
+    "plusCodeValue": "C888+VC Madrid, España",
+    "rehabilitationYear": "最近一次大型修复",
+    "rehabilitationYearValue": "2003 年——综合修复 / 清淤 / 景观提升（马德里市政厅实施）"
   },
   "hours": {
     "title": "开放时间",
@@ -255,19 +305,41 @@
     ]
   },
   "mapSection": {
-    "title": "地图位置",
-    "subtitle": "P.º de Colombia, 2, Retiro, 28016 Madrid, Spain",
-    "openMaps": "在Google地图上查看位置"
+    "title": "马德里丽池池塘（Estanque del Retiro）的位置与游览方式",
+    "subtitle": "P.º de Colombia, 2, Retiro, 28016 Madrid, España · 丽池区（Retiro）· 赫罗尼莫斯街区（Jerónimos）",
+    "openMaps": "在 Google 地图上打开位置",
+    "officialTourismPortal": "关于景点开放及区域旅游的官方最新资讯，请查阅马德里市政厅官方旅游门户（esmadrid.com）。",
+    "officialTourismLinkLabel": "西班牙 / 马德里自治区 · 官方旅游门户（esmadrid.com）",
+    "officialHeritagePortal": "马德里市政厅 Patrimonio y Paisaje（遗产与景观）官方登记卡：包含权威历史档案、可下载 PDF 完整版记录及 Estanque Grande del Retiro 官方馆藏影像。",
+    "officialHeritageLinkLabel": "文化遗产官方登记卡 · Estanque Grande del Retiro（patrimonioypaisaje.madrid.es）"
+  },
+  "faq": {
+    "title": "常问问题（FAQ）",
+    "subtitle": "关于 Estanque Grande del Retiro 最常见问题的权威解答",
+    "items": [
+      {
+        "question": "Estanque Grande del Retiro 位于哪里？",
+        "answer": "Estanque Grande del Retiro（丽池公园大池塘）位于西班牙马德里自治区马德里市丽池区（Retiro）哥伦比亚大道（P.º de Colombia）2 号，邮编 28016。水域坐落于马德里市中心最具代表性的绿地——丽池公园（Parque del Retiro）内部。"
+      },
+      {
+        "question": "参观丽池公园大池塘是否需要购票？",
+        "answer": "是的，Estanque Grande del Retiro（丽池公园大池塘）是丽池公园内的公共开放空间，全年 24 小时免费向公众开放。公园无门票，也无闭园时段限制。"
+      },
+      {
+        "question": "Estanque Grande del Retiro 附近有哪些核心地标？",
+        "answer": "丽池公园大池塘周边的核心地标包括其南端的阿尔方索十二世纪念碑（Monumento a Alfonso XII）与作为马德里最重要「城市绿肺」之一的丽池公园（Parque del Retiro）本体。相邻的文化地标还包括水晶宫（Palacio de Cristal）与布恩丽池宫展厅（Casón del Buen Retiro）。"
+      }
+    ]
   },
   "footer": {
-    "brandName": "丽池公园大池塘",
-    "brandSubtitle": "旅游胜地 · 马德里",
-    "rights": "© 2026 丽池公园大池塘独立旅游研究协会 · 保留所有权利。",
+    "brandName": "Estanque Grande del Retiro · 丽池公园大池塘",
+    "brandSubtitle": "旅游胜地 · 马德里 · 马德里自治区 · 西班牙",
+    "rights": "© 2026 Estanque Grande del Retiro 丽池公园大池塘独立旅游研究协会 · 非营利公益科普 · 保留所有权利。",
     "privacy": "隐私政策",
     "terms": "服务条款",
     "cookies": "Cookie 设置",
-    "officialResourcesTitle": "相关资源与资讯",
-    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+    "officialResourcesTitle": "官方资源与机构资讯",
+    "disclaimer": "本网站为独立第三方非营利旅游研究项目，专注于公益性质的信息科普与学术性内容传播。本站与任何政府机构或官方管理部门均无行政隶属或商业合作关系。"
   },
   "privacy": {
     "title": "隐私政策",
@@ -325,7 +397,7 @@
     "saved": "设置已保存！"
   },
   "officialManagement": {
-    "title": "关于丽池公园大池塘",
-    "text": "丽池公园大池塘是西班牙马德里的一个重要旅游景点，是城市自然与休闲完美结合的典范。该区域由马德里市政府及相关绿化与环境管理部门共同进行生态保护与日常管理。"
+    "title": "官方管理权属与市政遗产属性",
+    "text": "Estanque Grande del Retiro（丽池公园大池塘）为马德里市政厅<strong>市属文化遗产资产</strong>，由 Patrimonio y Paisaje（遗产与景观）专项署负责登记与日常养护，在马德里「纪念碑及独特建筑名录」中被登记为「Fuente / Estanque / Lámina de agua（喷泉 / 池塘 / 水体）」单体（登记号 #2a58091d）。1634-1635 年由 Cristóbal de Aguilera 主持营造，1819 年由 Isidro González Velázquez 主持近代化改造；最近一次综合修复（清淤 + 景观提升）由市政厅联合 Artes Conde Duque 与 IMES S.A. 于 2003 年完成。"
   }
 }

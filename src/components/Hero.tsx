@@ -1,4 +1,5 @@
 import { useTranslations } from 'next-intl';
+import { GALLERY_HERO } from '@/constants/gallery';
 
 export default function Hero() {
   const t = useTranslations('hero');
@@ -8,9 +9,12 @@ export default function Hero() {
       {/* Background image */}
       <div className="absolute inset-0">
         <img
-          src="/gallery/estanque-grande-del-retiro (1).jpg"
-          alt="Estanque Grande del Retiro"
+          src={GALLERY_HERO}
+          alt="Estanque Grande del Retiro - Main view in Madrid, Spain"
           className="w-full h-full object-cover"
+          loading="eager"
+          fetchPriority="high"
+          decoding="async"
         />
         <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
       </div>

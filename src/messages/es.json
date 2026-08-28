@@ -1,26 +1,40 @@
 {
   "meta": {
-    "title": "Estanque Grande del Retiro",
-    "description": "Guía completa del Estanque Grande del Retiro en Madrid. Conoce este lugar turístico, su ubicación, información de visita y consejos de viaje."
+    "title": "Estanque Grande del Retiro (Madrid) - Guía del Visitante y Ubicación",
+    "description": "Descubre el Estanque Grande del Retiro, el icónico estanque de Madrid, Comunidad de Madrid, España. Consulta su ubicación en el mapa, horarios, el Monumento a Alfonso XII cercano y consejos de viaje."
   },
   "header": {
     "home": "Inicio",
     "gallery": "Galería",
     "reviews": "Reseñas",
     "map": "Mapa",
+    "faq": "FAQ",
     "backToHome": "Volver al Inicio"
   },
   "hero": {
-    "title": "Estanque Grande del Retiro",
-    "subtitle": "Lugar turístico · Madrid",
-    "rating": "4.7",
-    "reviewCount": "34,569 reseñas",
+    "title": "Estanque Grande del Retiro (Madrid)",
+    "subtitle": "Lugar turístico · Madrid · Comunidad de Madrid · España",
+    "rating": "4.8",
+    "reviewCount": "35,360 reseñas",
     "type": "Lugar turístico",
     "openMaps": "Ver en Google Maps"
   },
+  "breadcrumb": {
+    "label": "Jerarquía Geográfica",
+    "items": [
+      "Estanque Grande del Retiro",
+      "Madrid",
+      "Comunidad de Madrid",
+      "España"
+    ]
+  },
   "intro": {
-    "title": "Descubre el Estanque Grande del Retiro",
-    "description": "El Estanque Grande del Retiro es uno de los lugares más emblemáticos del Parque del Retiro en Madrid, España. Situado en el corazón de la ciudad, este estanque ofrece un ambiente relajante, perfecto para pasear, disfrutar de un paseo en barca y actividades al aire libre. Es un lugar favorito tanto para los locales como para los turistas.",
+    "title": "Sobre el Estanque Grande del Retiro",
+    "description": "Bienvenido al <strong>Estanque Grande del Retiro</strong>, reconocido universalmente como el <strong>Estanque del Retiro</strong> central. Ubicado en el corazón de <strong>Madrid</strong>, <strong>Comunidad de Madrid</strong>, <strong>España</strong>, este destino constituye uno de los ejes turísticos primordiales para quienes visitan la región. El Estanque Grande del Retiro es uno de los lugares más emblemáticos del Parque del Retiro en Madrid, España. Situado en el corazón de la ciudad, este estanque ofrece un ambiente relajante, perfecto para pasear, disfrutar de un paseo en barca y actividades al aire libre. Es un lugar favorito tanto para los locales como para los turistas.",
+    "nearbyCluster": {
+      "title": "Entorno y Atracciones Cercanas al Estanque del Retiro",
+      "description": "Al visitar el <strong>Estanque Grande del Retiro</strong>, los viajeros pueden explorar con facilidad los hitos históricos y puntos de interés circundantes, entre los que destacan el <strong>Monumento a Alfonso XII</strong> y el <strong>Parque del Retiro</strong>."
+    },
     "visitGuide": {
       "title": "Consejos de Visita",
       "items": [
@@ -40,51 +54,87 @@
     }
   },
   "knowledge": {
-    "title": "Sobre el Estanque Grande del Retiro",
+    "title": "Historia e Importancia del Estanque Grande del Retiro",
     "sections": [
       {
         "id": "history",
-        "title": "Antecedentes Históricos",
-        "content": "El Estanque Grande del Retiro fue construido en el siglo XVII durante el reinado de Felipe IV. Originalmente fue diseñado como un lugar de recreo para la realeza. Con el tiempo, se convirtió en uno de los principales atractivos recreativos de Madrid."
+        "title": "Historia y Significado del Estanque Grande del Retiro",
+        "content": "El Estanque Grande del Retiro fue erigido entre 1634 y 1635 por el maestro de obras Cristóbal de Aguilera, por encargo del valido Conde Duque de Olivares para el rey Felipe IV. Forma parte de los escasos vestigios que se conservan de la importantísima posesión real del Buen Retiro, creada a partir de 1632 como espacio de recreo palaciego. Es lago navegable desde sus orígenes y contaba originalmente con una hermosa isla ovalada arbolada en el centro, en la que desembarcaban caballeros y damas para sus paseos náuticos y representaciones teatrales."
+      },
+      {
+        "id": "dimensions",
+        "title": "Dimensiones y Especificaciones Formales",
+        "content": "El Estanque Grande presenta un gran vaso de planta rectangular de aproximadamente <strong>250 metros de longitud por 125 metros de anchura</strong>. Se encuentra cerrado en todas sus orientaciones por reja metálica colocada sobre pedestales de piedra, excepto en el lado oriental donde se sitúa el Monumento a Alfonso XII. En el ángulo noreste se ubican los almacenes de embarcaciones y el embarcadero actual."
       },
       {
         "id": "layout",
-        "title": "Geografía y Distribución",
-        "content": "El estanque está situado en el Parque del Retiro, cerca del centro de Madrid. Su diseño incluye paseos peatonales, bancos, áreas de descanso y el imponente Monumento a Alfonso XII en su extremo sur."
+        "title": "Ubicación y Cómo Visitar el Estanque del Retiro en Madrid",
+        "content": "El estanque está situado en el corazón del Parque del Retiro, dentro del distrito de Retiro y el barrio de Jerónimos, cerca del centro de Madrid. Su diseño estructural data fundamentalmente de las reformas de Fernando VII (1819) y del monumento inaugurado en 1922, y cuenta con tres piezas singulares: el Monumento a Alfonso XII en la cabecera oriental, el embarcadero al norte y la Fuente Egipcia al sur."
+      },
+      {
+        "id": "reforms",
+        "title": "Reformas Históricas: De la Isla Ovalada al Monumento",
+        "content": "Tras el estado en que quedaron los jardines a raíz de la Guerra de la Independencia, Fernando VII encargó en 1819 a su arquitecto Isidro González Velázquez diversas obras de mejora: la Fuente Egipcia —flanqueada por dos pabellones para norias—, el embarcadero oriental y otros proyectos no ejecutados como una colosal columna central rematada en Hércules. En 1867 el uso se arrendó para abrir la navegación al público, con servicios hosteleros adyacentes. Finalmente, en 1917 se construyó el nuevo embarcadero norte y, en la ubicación del antiguo, se erigió el <strong>Monumento a Alfonso XII</strong>, inaugurado en 1922 como la intervención más relevante de la historia del estanque."
+      },
+      {
+        "id": "hydraulic",
+        "title": "Sistema Hidráulico y Fuentes Singulares",
+        "content": "Además de la lámina de agua principal, el complejo cuenta con la <strong>Fuente Egipcia</strong> emplazada en el extremo sur, diseñada por Isidro González Velázquez dentro del programa de reformas de Fernando VII. Históricamente el estanque contaba con seis norias —una en cada lado menor y dos en los mayores— unidas por cerramiento de fábrica, así como el navegable <em>Canal del Mallo</em>, que en dirección sur comunicaba con otro estanque polilobulado y su isla, próximos a la ermita de San Antonio de los Portugueses. En 2003 se ejecutó una importante rehabilitación, limpieza y acondicionamiento integral del estanque."
       },
       {
         "id": "culture",
         "title": "Importancia Cultural",
-        "content": "Como uno de los lugares más populares de la capital española, el estanque alberga frecuentemente eventos culturales, festivales y actividades al aire libre, siendo un punto de encuentro importante para la comunidad local."
+        "content": "Como uno de los lugares más populares de la capital española, el estanque sigue acogiendo actividades náuticas, eventos culturales y paseos familiares. Su condición de bien municipal —registrado en el inventario de Patrimonio y Paisaje del Ayuntamiento de Madrid como fuente, estanque y lámina de agua singular— lo convierte en un activo cultural de primer orden para la ciudad."
+      },
+      {
+        "id": "landmarks",
+        "title": "Monumentos y Atracciones Alrededor del Estanque del Retiro",
+        "content": "Entre los hitos adyacentes destacan el Monumento a Alfonso XII (lado oriental), la Fuente Egipcia (sur), el embarcadero (norte), el Palacio de Cristal, el Casón del Buen Retiro y la red de paseos y jardines del Parque del Retiro, uno de los espacios verdes más valorados de Madrid."
       },
       {
         "id": "biodiversity",
         "title": "Ecología y Flora",
-        "content": "El entorno del estanque alberga una impresionante variedad de especies vegetales, incluyendo numerosos árboles ornamentales y flora espontánea. Muchas especies de aves encuentran refugio aquí, convirtiéndolo en un importante refugio urbano para la biodiversidad."
+        "content": "El entorno del estanque acoge una impresionante variedad de especies vegetales, entre ellas numerosos árboles ornamentales y flora espontánea. Varias especies de aves encuentran aquí refugio, constituyendo un importante refugio urbano para la biodiversidad madrileña."
       },
       {
         "id": "facilities",
-        "title": "Instalaciones Recreativas",
-        "content": "En los alrededores del estanque se pueden encontrar múltiples terrazas de madera, áreas de descanso y varios quioscos que ofrecen bebidas y tentempiés, permitiéndote disfrutar de servicios convenientes mientras exploras la naturaleza."
+        "title": "Instalaciones Recreativas y Embarcadero",
+        "content": "En sus alrededores existen terrazas de madera, áreas de descanso, quioscos de bebidas y el embarcadero de la esquina noreste. Desde 1867 la navegación pública de alquiler es una de las actividades más emblemáticas del Estanque Grande."
       }
     ]
   },
   "basicInfo": {
-    "title": "Información Básica",
+    "title": "Información Básica y Ficha Patrimonial",
     "officialName": "Nombre Oficial",
     "officialNameValue": "Estanque Grande del Retiro",
     "type": "Tipo de Atracción",
-    "typeValue": "Lugar turístico",
+    "typeValue": "Lugar turístico · Fuente / Estanque / Lámina de agua",
+    "typology": "Tipología Patrimonial",
+    "typologyValue": "Fuente, Estanque, Lámina de agua",
+    "ownership": "Propiedad",
+    "ownershipValue": "Municipal (Ayuntamiento de Madrid)",
+    "yearBuilt": "Año de Construcción",
+    "yearBuiltValue": "1634 – 1635 (Maestro de obras: Cristóbal de Aguilera)",
+    "architectMaster": "Autor / Maestro de Obras",
+    "architectMasterValue": "Cristóbal de Aguilera (1634). Reformas 1819: Isidro González Velázquez",
+    "dimensions": "Dimensiones Aproximadas",
+    "dimensionsValue": "250 m × 125 m (planta rectangular)",
+    "district": "Distrito / Barrio",
+    "districtValue": "Retiro · Jerónimos",
     "country": "País",
     "countryValue": "España",
     "city": "Ciudad",
     "cityValue": "Madrid",
     "googleRating": "Valoración Google",
-    "googleRatingValue": "4.7 (34,569)",
+    "googleRatingValue": "4.8 (35,360)",
     "address": "Dirección",
-    "addressValue": "P.º de Colombia, 2, Retiro, 28016 Madrid, Spain",
+    "addressValue": "P.º de Colombia, 2, Retiro, 28016 Madrid, España (P.º del Estanque, Parque del Retiro)",
+    "telephone": "Teléfono",
+    "telephoneValue": "+34 915 744 024",
     "plusCode": "Plus Code",
-    "plusCodeValue": "C888+VC Madrid, Spain"
+    "plusCodeValue": "C888+VC Madrid, España",
+    "rehabilitationYear": "Última Rehabilitación",
+    "rehabilitationYearValue": "2003 — Rehabilitación, limpieza y acondicionamiento (Ayuntamiento de Madrid)"
   },
   "hours": {
     "title": "Horario de Visita",
@@ -255,19 +305,41 @@
     ]
   },
   "mapSection": {
-    "title": "Ubicación en el Mapa",
-    "subtitle": "P.º de Colombia, 2, Retiro, 28016 Madrid, Spain",
-    "openMaps": "Ver en Google Maps"
+    "title": "Ubicación y Cómo Visitar el Estanque del Retiro en Madrid",
+    "subtitle": "P.º de Colombia, 2, Retiro, 28016 Madrid, España · Distrito Retiro · Barrio Jerónimos",
+    "openMaps": "Ver en Google Maps",
+    "officialTourismPortal": "Para actualizaciones oficiales e información turística regional, consulte el Portal Oficial de Turismo del Ayuntamiento de Madrid.",
+    "officialTourismLinkLabel": "España / Comunidad de Madrid · Portal Oficial de Turismo (esmadrid.com)",
+    "officialHeritagePortal": "Ficha patrimonial oficial del Ayuntamiento de Madrid (Patrimonio y Paisaje): datos históricos, ficha PDF y galería de imágenes institucionales del Estanque Grande del Retiro.",
+    "officialHeritageLinkLabel": "Ficha Patrimonial Oficial · Estanque Grande del Retiro (patrimonioypaisaje.madrid.es)"
+  },
+  "faq": {
+    "title": "Preguntas Frecuentes (FAQ)",
+    "subtitle": "Respuestas a las consultas más habituales sobre el Estanque Grande del Retiro",
+    "items": [
+      {
+        "question": "¿Dónde se encuentra el Estanque Grande del Retiro?",
+        "answer": "El Estanque Grande del Retiro se encuentra en el P.º de Colombia, 2, Retiro, 28016 Madrid, Comunidad de Madrid, España. Se ubica dentro del Parque del Retiro, uno de los espacios verdes más emblemáticos del centro de Madrid."
+      },
+      {
+        "question": "¿Es gratuita la visita al Estanque Grande del Retiro?",
+        "answer": "Sí, el Estanque Grande del Retiro es un espacio público ubicado dentro del Parque del Retiro y su visita es gratuita durante todo el año. El acceso al parque está abierto las 24 horas del día."
+      },
+      {
+        "question": "¿Qué monumentos destacan cerca del Estanque Grande del Retiro?",
+        "answer": "Cerca del Estanque Grande del Retiro destacan el Monumento a Alfonso XII en su extremo sur y el propio Parque del Retiro, uno de los pulmones verdes más importantes de Madrid. También se encuentran próximos el Palacio de Cristal y el Casón del Buen Retiro."
+      }
+    ]
   },
   "footer": {
     "brandName": "Estanque Grande del Retiro",
-    "brandSubtitle": "Lugar turístico · Madrid",
+    "brandSubtitle": "Lugar turístico · Madrid · Comunidad de Madrid · España",
     "rights": "© 2026 Estanque Grande del Retiro Asociación Independiente de Investigación Turística · Todos los derechos reservados.",
     "privacy": "Política de Privacidad",
     "terms": "Términos de Servicio",
     "cookies": "Configuración de Cookies",
-    "officialResourcesTitle": "Recursos Relacionados e Información",
-    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros. No estamos afiliados con el gobierno local ni con ninguna otra agencia oficial."
+    "officialResourcesTitle": "Recursos Oficiales e Información Institucional",
+    "disclaimer": "Este sitio web es un proyecto independiente de información turística de terceros, orientado a la investigación y difusión pública sin ánimo de lucro. No estamos afiliados con el gobierno local ni con ninguna otra agencia oficial."
   },
   "privacy": {
     "title": "Política de Privacidad",
@@ -325,7 +397,7 @@
     "saved": "¡Preferencias guardadas!"
   },
   "officialManagement": {
-    "title": "Sobre el Estanque Grande del Retiro",
-    "text": "El Estanque Grande del Retiro es un importante lugar turístico urbano en Madrid, España, siendo un ejemplo perfecto de la combinación de naturaleza con recreación urbana. El área es gestionada conjuntamente para la protección ecológica y las operaciones diarias por el Ayuntamiento de Madrid y los departamentos relacionados de paisajismo y medio ambiente."
+    "title": "Gestión Oficial y Propiedad Municipal",
+    "text": "El Estanque Grande del Retiro es un bien de <strong>propiedad municipal</strong> gestionado por el Área de Patrimonio y Paisaje del Ayuntamiento de Madrid, catalogado como Fuente, Estanque y Lámina de agua singular dentro del inventario monumental de la ciudad. Construido en 1634-1635 por Cristóbal de Aguilera y reformado en 1819 por Isidro González Velázquez, se encuentra inscrito en el registro oficial de Monumentos y Edificios Singulares de Madrid (ficha #2a58091d). Su última rehabilitación integral de limpieza y acondicionamiento tuvo lugar en 2003, bajo la dirección municipal de Artes Conde Duque e IMES S.A."
   }
 }

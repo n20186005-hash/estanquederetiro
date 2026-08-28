@@ -2,10 +2,19 @@
 
 import { useTranslations, useMessages } from 'next-intl';
 
+function encodeRelative(src: string) {
+  if (!src.startsWith('/')) return src;
+  const slashIdx = src.lastIndexOf('/');
+  const head = src.slice(0, slashIdx + 1);
+  const tail = src.slice(slashIdx + 1);
+  return `${head}${encodeURIComponent(tail)}`;
+}
+
 export default function PhotoSpotsSection() {
   const t = useTranslations('photoSpots');
   const messages = useMessages() as any;
-  const spots = (messages?.photoSpots?.spots || []) as Array<{ title: string; description: string; image?: string; location?: string }>;
+  const rawSpots = (messages?.photoSpots?.spots || []) as Array<{ title: string; description: string; image?: string; location?: string }>;
+  const spots = rawSpots.map((s) => s.image ? { ...s, image: encodeRelative(s.image) } : s);
 
   return (
     <section className="section-padding">
@@ -47,7 +56,12 @@ function PhotoSpotCard({ title, description, image, location, index }: { title: 
         style={{ background: 'linear-gradient(135deg, var(--bg-secondary), var(--bg-tertiary))' }}
       >
         {image ? (
-          <img src={image} alt={title} className="w-full h-full object-cover transition-transform hover:scale-105" loading="lazy" />
+          <img
+            src={image}
+            alt={`${title} - Photo spot near Estanque Grande del Retiro, Madrid`}
+            className="w-full h-full object-cover transition-transform hover:scale-105"
+            loading="lazy"
+          />
         ) : (
           <div className="text-center">
             <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" strokeWidth="1.5" className="mx-auto mb-2 opacity-50">

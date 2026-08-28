@@ -34,12 +34,11 @@ export default function InfoSection() {
                     {section.title}
                   </h3>
                 </div>
-                <p
+                <div
                   className="text-lg leading-relaxed ml-14"
                   style={{ color: 'var(--text-secondary)' }}
-                >
-                  {section.content}
-                </p>
+                  dangerouslySetInnerHTML={{ __html: section.content }}
+                />
               </div>
             </div>
           ))}

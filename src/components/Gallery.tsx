@@ -2,24 +2,25 @@
 
 import { useTranslations, useMessages } from 'next-intl';
 import { useState, useCallback } from 'react';
+import { GALLERY_IMAGES } from '@/constants/gallery';
 
 const photos = [
-  { src: '/gallery/estanque-grande-del-retiro (1).jpg', alt: 'Estanque Grande del Retiro Photo 1' },
-  { src: '/gallery/estanque-grande-del-retiro (2).jpg', alt: 'Estanque Grande del Retiro Photo 2' },
-  { src: '/gallery/estanque-grande-del-retiro (3).jpg', alt: 'Estanque Grande del Retiro Photo 3' },
-  { src: '/gallery/estanque-grande-del-retiro (4).jpg', alt: 'Estanque Grande del Retiro Photo 4' },
-  { src: '/gallery/estanque-grande-del-retiro (5).jpg', alt: 'Estanque Grande del Retiro Photo 5' },
-  { src: '/gallery/estanque-grande-del-retiro (6).jpg', alt: 'Estanque Grande del Retiro Photo 6' },
-  { src: '/gallery/estanque-grande-del-retiro (7).jpg', alt: 'Estanque Grande del Retiro Photo 7' },
-  { src: '/gallery/estanque-grande-del-retiro (8).jpg', alt: 'Estanque Grande del Retiro Photo 8' },
-  { src: '/gallery/estanque-grande-del-retiro (9).jpg', alt: 'Estanque Grande del Retiro Photo 9' },
-  { src: '/gallery/estanque-grande-del-retiro (10).jpg', alt: 'Estanque Grande del Retiro Photo 10' },
-  { src: '/gallery/estanque-grande-del-retiro (11).jpg', alt: 'Estanque Grande del Retiro Photo 11' },
-  { src: '/gallery/estanque-grande-del-retiro (12).jpg', alt: 'Estanque Grande del Retiro Photo 12' },
-  { src: '/gallery/estanque-grande-del-retiro (13).jpg', alt: 'Estanque Grande del Retiro Photo 13' },
-  { src: '/gallery/estanque-grande-del-retiro (14).jpg', alt: 'Estanque Grande del Retiro Photo 14' },
-  { src: '/gallery/estanque-grande-del-retiro (15).jpg', alt: 'Estanque Grande del Retiro Photo 15' },
-  { src: '/gallery/estanque-grande-del-retiro (17).jpg', alt: 'Estanque Grande del Retiro Photo 16' },
+  { src: GALLERY_IMAGES[1], alt: 'Estanque Grande del Retiro - Main pond view in Madrid, Spain' },
+  { src: GALLERY_IMAGES[2], alt: 'Monumento a Alfonso XII - Monument to Alfonso XII near Estanque del Retiro' },
+  { src: GALLERY_IMAGES[3], alt: 'Wooden pavilions near Estanque Grande del Retiro in Retiro Park' },
+  { src: GALLERY_IMAGES[4], alt: 'Abundant vegetation and ornamental trees around Estanque del Retiro' },
+  { src: GALLERY_IMAGES[5], alt: 'Rest areas surrounding Estanque Grande del Retiro' },
+  { src: GALLERY_IMAGES[6], alt: 'Summer view of Estanque Grande del Retiro, Madrid' },
+  { src: GALLERY_IMAGES[7], alt: 'Autumn foliage around Estanque del Retiro, Retiro Park' },
+  { src: GALLERY_IMAGES[8], alt: 'Winter landscape of Estanque Grande del Retiro' },
+  { src: GALLERY_IMAGES[9], alt: 'Spring flowers near Estanque del Retiro in Madrid' },
+  { src: GALLERY_IMAGES[10], alt: 'Park benches along Estanque Grande del Retiro perimeter' },
+  { src: GALLERY_IMAGES[11], alt: 'Ornamental trees and greenery of Retiro Park' },
+  { src: GALLERY_IMAGES[12], alt: 'Sunset over Estanque Grande del Retiro, Madrid' },
+  { src: GALLERY_IMAGES[13], alt: 'Quiet morning at Estanque del Retiro, Madrid' },
+  { src: GALLERY_IMAGES[14], alt: 'Abundant nature and biodiversity near Estanque Grande del Retiro' },
+  { src: GALLERY_IMAGES[15], alt: 'Diverse flora species around Estanque del Retiro' },
+  { src: GALLERY_IMAGES[17], alt: 'Panoramic park landscape of Retiro, Madrid' },
 ];
 
 export default function Gallery() {

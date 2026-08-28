@@ -1,26 +1,40 @@
 {
   "meta": {
-    "title": "Estanque Grande del Retiro",
-    "description": "Complete guide to Estanque Grande del Retiro in Madrid. Learn about this tourist attraction, its location, visiting information, and travel tips."
+    "title": "Estanque Grande del Retiro (Madrid) - Visitor Guide & Location",
+    "description": "Discover Estanque Grande del Retiro, the iconic landmark in Madrid, Community of Madrid, Spain. View location map, opening details, nearby Monument to Alfonso XII, and travel tips."
   },
   "header": {
     "home": "Home",
     "gallery": "Gallery",
     "reviews": "Reviews",
     "map": "Map",
+    "faq": "FAQ",
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Estanque Grande del Retiro",
-    "subtitle": "Tourist Attraction · Madrid",
-    "rating": "4.7",
-    "reviewCount": "34,569 reviews",
+    "title": "Estanque Grande del Retiro (Madrid)",
+    "subtitle": "Tourist Attraction · Madrid · Community of Madrid · Spain",
+    "rating": "4.8",
+    "reviewCount": "35,360 reviews",
     "type": "Tourist Attraction",
     "openMaps": "View on Google Maps"
   },
+  "breadcrumb": {
+    "label": "Geographic Hierarchy",
+    "items": [
+      "Estanque Grande del Retiro",
+      "Madrid",
+      "Community of Madrid",
+      "Spain"
+    ]
+  },
   "intro": {
-    "title": "Discover Estanque Grande del Retiro",
-    "description": "The Estanque Grande del Retiro is one of the most iconic landmarks in Madrid's Retiro Park, Spain. Located in the heart of the city, this pond offers a relaxing atmosphere, perfect for strolling, enjoying a boat ride, and outdoor activities. It is a favorite spot for both locals and tourists.",
+    "title": "About Estanque Grande del Retiro",
+    "description": "Welcome to <strong>Estanque Grande del Retiro</strong>, widely recognized as the central <strong>Estanque del Retiro</strong>. Located in the heart of <strong>Madrid</strong>, <strong>Community of Madrid</strong>, <strong>Spain</strong>, this destination serves as a primary hub for travelers visiting the region. The Estanque Grande del Retiro is one of the most iconic landmarks in Madrid's Retiro Park, Spain. Located in the heart of the city, this pond offers a relaxing atmosphere, perfect for strolling, enjoying a boat ride, and outdoor activities. It is a favorite spot for both locals and tourists.",
+    "nearbyCluster": {
+      "title": "Landmarks & Attractions Around Estanque del Retiro",
+      "description": "When visiting <strong>Estanque Grande del Retiro</strong>, visitors can easily explore surrounding historical landmarks and points of interest, including the <strong>Monument to Alfonso XII</strong> and <strong>Retiro Park</strong>."
+    },
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
@@ -40,51 +54,87 @@
     }
   },
   "knowledge": {
-    "title": "About Estanque Grande del Retiro",
+    "title": "History & Significance of Estanque Grande del Retiro",
     "sections": [
       {
         "id": "history",
-        "title": "Historical Background",
-        "content": "The Estanque Grande del Retiro was built in the 17th century during the reign of Philip IV. Originally designed as a recreational area for the royalty. Over time, it became one of the main recreational attractions in Madrid."
+        "title": "History & Significance of Estanque Grande del Retiro",
+        "content": "The Estanque Grande del Retiro was erected between 1634 and 1635 by the master builder Cristóbal de Aguilera, commissioned by the Count-Duke of Olivares for King Philip IV. It is one of the few surviving vestiges of the immensely important royal estate of the Buen Retiro, established from 1632 onward as a palatial recreational complex. Navigable since its origins, it originally featured a beautiful, wooded oval island at its centre, where courtiers and ladies disembarked for nautical promenades and open-air theatrical performances."
+      },
+      {
+        "id": "dimensions",
+        "title": "Dimensions & Formal Specifications",
+        "content": "The Estanque Grande is a large rectangular basin of approximately <strong>250 metres in length by 125 metres in width</strong>. All four sides are enclosed by iron railings set upon stone pedestals, except on the eastern front where the Monument to Alfonso XII stands. The north-eastern corner houses the boat stores and the present-day landing stage."
       },
       {
         "id": "layout",
-        "title": "Geography & Layout",
-        "content": "The pond is located in Retiro Park, near the center of Madrid. The layout includes pedestrian walkways, benches, rest areas, and the imposing Monument to Alfonso XII at its southern end."
+        "title": "Location & How to Visit Estanque del Retiro in Madrid",
+        "content": "The pond sits at the heart of Retiro Park, within the Retiro district and Jerónimos neighbourhood, close to the centre of Madrid. Its present structural form dates essentially from the 1819 reforms under Ferdinand VII and the monument inaugurated in 1922, and features three emblematic pieces: the Monument to Alfonso XII on the eastern head, the northern landing stage and the Egyptian Fountain on the south side."
+      },
+      {
+        "id": "reforms",
+        "title": "Historical Reforms: From the Oval Island to the Monument",
+        "content": "After the damage inflicted upon the gardens during the Peninsular War, Ferdinand VII commissioned his architect Isidro González Velázquez in 1819 to design several improvements: the Egyptian Fountain flanked by two water-wheel pavilions, the eastern landing stage, and unexecuted projects such as a colossal central column topped by a statue of Hercules. In 1867 the pond was leased and opened to public navigation, with adjacent catering services drawing a steady public. Finally, a new northern jetty was built in 1917; the old eastern landing stage was demolished and replaced on its site by the <strong>Monument to Alfonso XII</strong>, inaugurated in 1922 as the most decisive intervention in the history of the pond."
+      },
+      {
+        "id": "hydraulic",
+        "title": "Hydraulic System & Singular Fountains",
+        "content": "Beyond the main sheet of water, the complex includes the <strong>Egyptian Fountain</strong> (Fuente Egipcia) placed at the southern extremity, designed by Isidro González Velázquez as part of Ferdinand VII's reform programme. Historically the pond was served by six water wheels — one on each shorter side and two on each longer side — joined by masonry enclosures, plus the navigable <em>Canal del Mallo</em>, which ran south to a further polylobed pond and island near the former hermitage of San Antonio de los Portugueses. In 2003 a comprehensive rehabilitation, cleaning and refurbishment of the Estanque del Retiro was carried out by the City Council."
       },
       {
         "id": "culture",
         "title": "Cultural Significance",
-        "content": "As one of the most popular places in the Spanish capital, the pond frequently hosts cultural events, festivals, and outdoor activities, being an important meeting point for the local community."
+        "content": "As one of the most popular public spaces of the Spanish capital, the pond still hosts nautical activities, cultural events and family promenades. Its status as a municipal heritage asset — registered in the inventory of Patrimonio y Paisaje of Madrid City Council as a singular fountain, pond and sheet of water — makes it a first-tier cultural landmark for the city."
+      },
+      {
+        "id": "landmarks",
+        "title": "Landmarks & Attractions Around Estanque del Retiro",
+        "content": "Among the adjacent landmarks stand out the Monument to Alfonso XII (east side), the Egyptian Fountain (south), the landing stage (north), the Palacio de Cristal (Crystal Palace), the Casón del Buen Retiro, and the extensive network of walks and gardens of Retiro Park itself, one of Madrid's most valued green spaces."
       },
       {
         "id": "biodiversity",
         "title": "Ecology & Flora",
-        "content": "The surroundings of the pond host an impressive variety of plant species, including numerous ornamental trees and spontaneous flora. Many bird species find shelter here, making it an important urban refuge for biodiversity."
+        "content": "The pond's surroundings host an impressive variety of plant species, including numerous ornamental trees and spontaneous flora. Several bird species find shelter here, making it an important urban refuge for Madrid's biodiversity."
       },
       {
         "id": "facilities",
-        "title": "Recreation & Sports Facilities",
-        "content": "Around the pond, you can find multiple wooden pavilions, rest areas, and several kiosks offering drinks and snacks, allowing you to enjoy convenient services while exploring nature."
+        "title": "Recreational Facilities & Boat Landing Stage",
+        "content": "The immediate surroundings include wooden terraces, rest areas, refreshment kiosks and the landing stage at the north-east corner. Public row-boat hire has been one of the Estanque Grande's most emblematic activities since 1867."
       }
     ]
   },
   "basicInfo": {
-    "title": "Basic Information",
+    "title": "Basic Information & Heritage Record",
     "officialName": "Official Name",
     "officialNameValue": "Estanque Grande del Retiro",
     "type": "Attraction Type",
-    "typeValue": "Tourist Attraction",
+    "typeValue": "Tourist Attraction · Fountain / Pond / Sheet of Water",
+    "typology": "Heritage Typology",
+    "typologyValue": "Fuente, Estanque, Lámina de agua (Fountain, Pond, Sheet of Water)",
+    "ownership": "Ownership",
+    "ownershipValue": "Municipal (Madrid City Council / Ayuntamiento de Madrid)",
+    "yearBuilt": "Year of Construction",
+    "yearBuiltValue": "1634 – 1635 (Master Builder: Cristóbal de Aguilera)",
+    "architectMaster": "Author / Master Builder",
+    "architectMasterValue": "Cristóbal de Aguilera (1634). 1819 Reforms: Isidro González Velázquez",
+    "dimensions": "Approximate Dimensions",
+    "dimensionsValue": "250 m × 125 m (rectangular basin)",
+    "district": "District / Neighbourhood",
+    "districtValue": "Retiro · Jerónimos",
     "country": "Country",
     "countryValue": "Spain",
     "city": "City",
     "cityValue": "Madrid",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.7 (34,569)",
+    "googleRatingValue": "4.8 (35,360)",
     "address": "Address",
-    "addressValue": "P.º de Colombia, 2, Retiro, 28016 Madrid, Spain",
+    "addressValue": "P.º de Colombia, 2, Retiro, 28016 Madrid, Spain (P.º del Estanque, Retiro Park)",
+    "telephone": "Telephone",
+    "telephoneValue": "+34 915 744 024",
     "plusCode": "Plus Code",
-    "plusCodeValue": "C888+VC Madrid, Spain"
+    "plusCodeValue": "C888+VC Madrid, Spain",
+    "rehabilitationYear": "Last Major Rehabilitation",
+    "rehabilitationYearValue": "2003 — Comprehensive rehabilitation, cleaning & refurbishment (Madrid City Council)"
   },
   "hours": {
     "title": "Visiting Hours",
@@ -255,19 +305,41 @@
     ]
   },
   "mapSection": {
-    "title": "Map Location",
-    "subtitle": "P.º de Colombia, 2, Retiro, 28016 Madrid, Spain",
-    "openMaps": "View on Google Maps"
+    "title": "Location & How to Visit Estanque del Retiro in Madrid",
+    "subtitle": "P.º de Colombia, 2, Retiro, 28016 Madrid, Spain · Retiro District · Jerónimos Neighbourhood",
+    "openMaps": "View on Google Maps",
+    "officialTourismPortal": "For official updates and regional tourism information, visit the Official Tourism Portal of the Madrid City Council.",
+    "officialTourismLinkLabel": "Spain / Community of Madrid · Official Tourism Portal (esmadrid.com)",
+    "officialHeritagePortal": "Official heritage record by the Madrid City Council (Patrimonio y Paisaje): authoritative historical data, downloadable PDF record and institutional image gallery of the Estanque Grande del Retiro.",
+    "officialHeritageLinkLabel": "Official Heritage Record · Estanque Grande del Retiro (patrimonioypaisaje.madrid.es)"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions (FAQ)",
+    "subtitle": "Answers to the most common questions about Estanque Grande del Retiro",
+    "items": [
+      {
+        "question": "Where is Estanque Grande del Retiro located?",
+        "answer": "Estanque Grande del Retiro is located at P.º de Colombia, 2, Retiro, 28016 Madrid, Community of Madrid, Spain. It sits within Retiro Park, one of the most iconic green spaces in central Madrid."
+      },
+      {
+        "question": "Is Estanque Grande del Retiro free to visit?",
+        "answer": "Yes, Estanque Grande del Retiro is a public space within Retiro Park and is free to visit year-round. The park itself is open 24 hours a day."
+      },
+      {
+        "question": "What landmarks are near Estanque Grande del Retiro?",
+        "answer": "Key landmarks near Estanque Grande del Retiro include the Monument to Alfonso XII at its southern end and Retiro Park itself, one of Madrid's most important green lungs. The Palacio de Cristal (Crystal Palace) and the Casón del Buen Retiro are also nearby."
+      }
+    ]
   },
   "footer": {
     "brandName": "Estanque Grande del Retiro",
-    "brandSubtitle": "Tourist Attraction · Madrid",
+    "brandSubtitle": "Tourist Attraction · Madrid · Community of Madrid · Spain",
     "rights": "© 2026 Estanque Grande del Retiro Independent Tourism Research Association · All Rights Reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Related Resources & Information",
-    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+    "officialResourcesTitle": "Official Resources & Institutional Information",
+    "disclaimer": "This website is an independent third-party tourism information project, dedicated to non-profit public research and dissemination. We are not affiliated with the local government or any other official agencies."
   },
   "privacy": {
     "title": "Privacy Policy",
@@ -325,7 +397,7 @@
     "saved": "Preferences saved!"
   },
   "officialManagement": {
-    "title": "About Estanque Grande del Retiro",
-    "text": "Estanque Grande del Retiro is a major tourist attraction in Madrid, Spain, being a perfect example of combining nature with urban recreation. The area is jointly managed for ecological protection and daily operations by the Madrid City Council and related landscaping and environmental departments."
+    "title": "Official Stewardship & Municipal Ownership",
+    "text": "Estanque Grande del Retiro is a <strong>municipally owned</strong> heritage asset managed by the Patrimonio y Paisaje (Heritage and Landscape) area of Madrid City Council, catalogued as a singular Fountain, Pond and Sheet of Water within the city's official monumental inventory. Built in 1634–1635 by Cristóbal de Aguilera and reformed in 1819 by Isidro González Velázquez, it is registered in Madrid's official record of Monuments and Singular Buildings (record #2a58091d). Its most recent comprehensive rehabilitation, cleaning and refurbishment was delivered in 2003 by the Municipal Directorate under Artes Conde Duque and IMES S.A."
   }
 }
