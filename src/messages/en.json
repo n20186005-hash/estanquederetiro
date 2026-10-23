@@ -15,7 +15,7 @@
     "title": "Estanque Grande del Retiro (Madrid)",
     "subtitle": "Tourist Attraction · Madrid · Community of Madrid · Spain",
     "rating": "4.8",
-    "reviewCount": "35,360 reviews",
+    "reviewCount": "35,807 reviews",
     "type": "Tourist Attraction",
     "openMaps": "View on Google Maps"
   },
@@ -48,7 +48,7 @@
       "items": [
         "Monument to Alfonso XII",
         "Boat rides",
-        "Wooden pavilions",
+        "Wooden kiosks",
         "Abundant vegetation"
       ]
     }
@@ -126,9 +126,9 @@
     "city": "City",
     "cityValue": "Madrid",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.8 (35,360)",
+    "googleRatingValue": "4.8 (35,807)",
     "address": "Address",
-    "addressValue": "P.º de Colombia, 2, Retiro, 28016 Madrid, Spain (P.º del Estanque, Retiro Park)",
+    "addressValue": "P.º de Colombia, 2, Retiro, 28009 Madrid, Spain (P.º del Estanque, Retiro Park)",
     "telephone": "Telephone",
     "telephoneValue": "+34 915 744 024",
     "plusCode": "Plus Code",
@@ -137,15 +137,16 @@
     "rehabilitationYearValue": "2003 — Comprehensive rehabilitation, cleaning & refurbishment (Madrid City Council)"
   },
   "hours": {
-    "title": "Visiting Hours",
-    "park": "Site Access",
-    "parkTime": "Open year-round (24 hours a day)",
-    "bestTime": "Best Time to Visit",
-    "bestTimeSpring": "Spring: Pleasant weather and blooming season",
-    "bestTimeSummer": "Summer: Sunny days, ideal for boat rides",
-    "bestTimeAutumn": "Autumn: Beautiful foliage and relaxing atmosphere",
-    "bestTimeWinter": "Winter: Picturesque winter landscapes",
-    "tip": "The park is open 24/7, accessible at any time of the day."
+    "title": "Opening Hours",
+    "parkTitle": "Retiro Park opening hours",
+    "winterLabel": "October – March",
+    "winterTime": "06:00 – 22:00",
+    "summerLabel": "April – September",
+    "summerTime": "06:00 – 00:00",
+    "boatTitle": "Boat hire",
+    "boatTime": "Approx. 10:00 – 18:30 (longer in summer)",
+    "boatNote": "Navigation usually runs spring to autumn. Times and opening can vary with weather or municipal management; check official channels.",
+    "tip": "The park or parts of it may close temporarily during storms or other adverse weather."
   },
   "tickets": {
     "title": "Admission Information",
@@ -155,6 +156,39 @@
     "parkingPrice": "Parking available nearby (paid)",
     "guided": "Guided Tours",
     "guidedPrice": "Self-guided"
+  },
+  "boat": {
+    "title": "Boat Rides on the Great Pond",
+    "subtitle": "Prices, booking & boarding point",
+    "priceWeekday": "Weekdays",
+    "priceWeekdayValue": "€6 per boat (45 min, max. 4 people)",
+    "priceWeekend": "Weekends & public holidays",
+    "priceWeekendValue": "€8 per boat (45 min, max. 4 people)",
+    "bookingTitle": "How to book",
+    "bookingText": "You can hire on site at the Great Pond boarding point, or book through the Madrid Móvil app and the Madrid City Council sports-booking portal. Booking ahead is recommended on weekends and holidays.",
+    "dockTitle": "Where to board",
+    "dockText": "The official boarding point is at the northeast end of the pond, by Paseo de Colombia. From Retiro (line 2) or Ibiza (line 9) metro stations it is a short walk through the park.",
+    "note": "Prices and hours per municipal tourism information (October 2026). Navigation depends on water conditions and weather; confirm before your visit.",
+    "cta": "View on Google Maps"
+  },
+  "topicLinks": {
+    "title": "Guides & Articles",
+    "subtitle": "Go deeper on Retiro Pond: boats, hours, how to get there and more.",
+    "barcas-retiro": "Boat Rides",
+    "horarios": "Opening Hours & Seasons",
+    "como-llegar": "How to Get There",
+    "mapa": "Pond Map",
+    "monumento-alfonso-xii": "Alfonso XII Monument",
+    "palacio-cristal": "Crystal Palace",
+    "donde-comer": "Where to Eat Nearby",
+    "tapas-barrio-ibiza": "Ibiza District Tapas",
+    "ruta-una-hora": "One-Hour Route",
+    "planes-con-ninos": "Visiting with Kids"
+  },
+  "topicPage": {
+    "home": "Back to home",
+    "faq": "Frequently asked questions",
+    "related": "More guides"
   },
   "transport": {
     "title": "How to Get Here",
@@ -198,8 +232,8 @@
         "image": "/gallery/estanque-grande-del-retiro-2.jpg"
       },
       {
-        "title": "Wooden Pavilions",
-        "description": "The picturesque wooden pavilions offer a relaxing frame for group photos or portraits.",
+        "title": "Wooden kiosks & terraces",
+        "description": "The wooden kiosks and waterside terraces offer a relaxing frame for group photos or portraits.",
         "location": "In the park",
         "image": "/gallery/estanque-grande-del-retiro-3.jpg"
       },
@@ -242,7 +276,7 @@
     "captions": [
       "Pond view",
       "Monument to Alfonso XII",
-      "Wooden pavilions",
+      "Wooden kiosks",
       "Rest areas",
       "Abundant vegetation",
       "Summer views",
@@ -263,7 +297,11 @@
   },
   "reviews": {
     "title": "Visitor Reviews",
+    "reviewsLabel": "reviews",
     "declaration": "Visitor feedback can be viewed via Google Maps.",
+    "asOf": "Figures collected in October 2026.",
+    "ratingSnapshot": "4.8",
+    "reviewCountSnapshot": "35,807",
     "moreReviews": "View more reviews on Google Maps",
     "items": [
       {
@@ -306,7 +344,7 @@
   },
   "mapSection": {
     "title": "Location & How to Visit Estanque del Retiro in Madrid",
-    "subtitle": "P.º de Colombia, 2, Retiro, 28016 Madrid, Spain · Retiro District · Jerónimos Neighbourhood",
+    "subtitle": "P.º de Colombia, 2, Retiro, 28009 Madrid, Spain · Retiro District · Jerónimos Neighbourhood",
     "openMaps": "View on Google Maps",
     "officialTourismPortal": "For official updates and regional tourism information, visit the Official Tourism Portal of the Madrid City Council.",
     "officialTourismLinkLabel": "Spain / Community of Madrid · Official Tourism Portal (esmadrid.com)",
@@ -319,15 +357,15 @@
     "items": [
       {
         "question": "Where is Estanque Grande del Retiro located?",
-        "answer": "Estanque Grande del Retiro is located at P.º de Colombia, 2, Retiro, 28016 Madrid, Community of Madrid, Spain. It sits within Retiro Park, one of the most iconic green spaces in central Madrid."
+        "answer": "Estanque Grande del Retiro is located at P.º de Colombia, 2, Retiro, 28009 Madrid, Community of Madrid, Spain. It sits within Retiro Park, one of the most iconic green spaces in central Madrid."
       },
       {
         "question": "Is Estanque Grande del Retiro free to visit?",
-        "answer": "Yes, Estanque Grande del Retiro is a public space within Retiro Park and is free to visit year-round. The park itself is open 24 hours a day."
+        "answer": "Yes, Estanque Grande del Retiro is a public space within Retiro Park and is free to visit year-round. Retiro Park opens 06:00–22:00 (Oct–Mar) and 06:00–00:00 (Apr–Sep)."
       },
       {
         "question": "What landmarks are near Estanque Grande del Retiro?",
-        "answer": "Key landmarks near Estanque Grande del Retiro include the Monument to Alfonso XII at its southern end and Retiro Park itself, one of Madrid's most important green lungs. The Palacio de Cristal (Crystal Palace) and the Casón del Buen Retiro are also nearby."
+        "answer": "Key landmarks near Estanque Grande del Retiro include the Monument to Alfonso XII on its eastern side and Retiro Park itself, one of Madrid's most important green lungs. The Palacio de Cristal (Crystal Palace) and the Casón del Buen Retiro are also nearby."
       }
     ]
   },
@@ -399,5 +437,9 @@
   "officialManagement": {
     "title": "Official Stewardship & Municipal Ownership",
     "text": "Estanque Grande del Retiro is a <strong>municipally owned</strong> heritage asset managed by the Patrimonio y Paisaje (Heritage and Landscape) area of Madrid City Council, catalogued as a singular Fountain, Pond and Sheet of Water within the city's official monumental inventory. Built in 1634–1635 by Cristóbal de Aguilera and reformed in 1819 by Isidro González Velázquez, it is registered in Madrid's official record of Monuments and Singular Buildings (record #2a58091d). Its most recent comprehensive rehabilitation, cleaning and refurbishment was delivered in 2003 by the Municipal Directorate under Artes Conde Duque and IMES S.A."
+  },
+  "disclaimerHome": {
+    "title": "Notice",
+    "text": "An independent, non-profit, third-party travel-information website. We are not affiliated with the Madrid City Council or the park's operating entity."
   }
 }

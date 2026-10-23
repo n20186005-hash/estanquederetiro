@@ -15,7 +15,7 @@
     "title": "Estanque Grande del Retiro (马德里)",
     "subtitle": "旅游胜地 · 马德里 · 马德里自治区 · 西班牙",
     "rating": "4.8",
-    "reviewCount": "35,360 条评价",
+    "reviewCount": "35,807 条评价",
     "type": "旅游胜地",
     "openMaps": "在 Google 地图上查看"
   },
@@ -48,7 +48,7 @@
       "items": [
         "阿尔方索十二世纪念碑（Monumento a Alfonso XII）",
         "划船体验（Paseos en barca）",
-        "木质亭台（Aldeas de madera）",
+        "木质售货亭（Quioscos de madera）",
         "丰富的植被生态"
       ]
     }
@@ -126,9 +126,9 @@
     "city": "所在城市",
     "cityValue": "马德里（Madrid）",
     "googleRating": "Google 评分",
-    "googleRatingValue": "4.8（35,360 条评价）",
+    "googleRatingValue": "4.8（35,807 条评价）",
     "address": "物理地址",
-    "addressValue": "P.º de Colombia, 2, Retiro, 28016 Madrid, España（园区内又名 P.º del Estanque）",
+    "addressValue": "P.º de Colombia, 2, Retiro, 28009 Madrid, España（园区内又名 P.º del Estanque）",
     "telephone": "联系电话",
     "telephoneValue": "+34 915 744 024",
     "plusCode": "Plus Code",
@@ -138,14 +138,15 @@
   },
   "hours": {
     "title": "开放时间",
-    "park": "景区开放",
-    "parkTime": "全年开放（24小时）",
-    "bestTime": "最佳游览时间",
-    "bestTimeSpring": "春季：气候宜人，花卉盛开",
-    "bestTimeSummer": "夏季：阳光明媚，适合划船",
-    "bestTimeAutumn": "秋季：美丽的秋叶，放松的氛围",
-    "bestTimeWinter": "冬季：风景如画的冬日景观",
-    "tip": "公园全天候开放，任何时间都可以访问。"
+    "parkTitle": "丽池公园开放时间",
+    "winterLabel": "10 月 – 3 月",
+    "winterTime": "06:00 – 22:00",
+    "summerLabel": "4 月 – 9 月",
+    "summerTime": "06:00 – 00:00",
+    "boatTitle": "划船时段",
+    "boatTime": "约 10:00 – 18:30（夏季延长）",
+    "boatNote": "划船通常自春季至秋季开放，具体时段与开航受天气及市政管理影响，请以官方渠道为准。",
+    "tip": "遇暴风雨等恶劣天气，公园或部分区域可能临时关闭。"
   },
   "tickets": {
     "title": "门票信息",
@@ -155,6 +156,39 @@
     "parkingPrice": "附近有停车位（付费）",
     "guided": "导游服务",
     "guidedPrice": "自助游览"
+  },
+  "boat": {
+    "title": "大池塘划船：价格、预约与码头",
+    "subtitle": "票价、预约方式与登船点",
+    "priceWeekday": "工作日",
+    "priceWeekdayValue": "每船 6 欧元（45 分钟，最多 4 人）",
+    "priceWeekend": "周末及法定节假日",
+    "priceWeekendValue": "每船 8 欧元（45 分钟，最多 4 人）",
+    "bookingTitle": "如何预约",
+    "bookingText": "可在大池塘码头现场租船，也可通过 Madrid Móvil 手机应用与马德里市政体育预约平台预订。周末与节假日建议提前预约。",
+    "dockTitle": "在哪里登船",
+    "dockText": "官方码头位于池塘东北端、哥伦比亚大道（Paseo de Colombia）一侧。从 Retiro 站（2 号线）或 Ibiza 站（9 号线）地铁出站后，步行穿过公园即可到达。",
+    "note": "价格与时段依据市政旅游信息（2026 年 10 月）。航行受水质与天气影响，出发前请以官方渠道为准。",
+    "cta": "在 Google 地图上查看"
+  },
+  "topicLinks": {
+    "title": "指南与文章",
+    "subtitle": "深入了解丽池公园大池塘：划船、开放时间、如何到达等。",
+    "barcas-retiro": "划船游览",
+    "horarios": "开放时间与季节",
+    "como-llegar": "如何到达",
+    "mapa": "池塘地图",
+    "monumento-alfonso-xii": "阿尔方索十二世纪念碑",
+    "palacio-cristal": "水晶宫",
+    "donde-comer": "附近用餐",
+    "tapas-barrio-ibiza": "伊比萨区 Tapas",
+    "ruta-una-hora": "一小时路线",
+    "planes-con-ninos": "亲子游览"
+  },
+  "topicPage": {
+    "home": "返回首页",
+    "faq": "常见问题",
+    "related": "更多指南"
   },
   "transport": {
     "title": "交通指南",
@@ -198,9 +232,9 @@
         "image": "/gallery/estanque-grande-del-retiro-2.jpg"
       },
       {
-        "title": "木质亭台",
-        "description": "风景如画的木质亭台为团体照或肖像照提供了轻松的框架。",
-        "location": "公园内",
+        "title": "木质售货亭与露台",
+        "description": "木质售货亭与水岸露台为团体照或肖像照提供了轻松的框架。",
+        "location": "池塘东北岸",
         "image": "/gallery/estanque-grande-del-retiro-3.jpg"
       },
       {
@@ -242,7 +276,7 @@
     "captions": [
       "池塘景观",
       "阿尔方索十二世纪念碑",
-      "木质亭台",
+      "木质售货亭",
       "休息区",
       "丰富的植被",
       "夏日景色",
@@ -263,7 +297,11 @@
   },
   "reviews": {
     "title": "游客评价",
+    "reviewsLabel": "条评价",
     "declaration": "评价信息可通过Google地图查看。",
+    "asOf": "数据收集于 2026 年 10 月。",
+    "ratingSnapshot": "4.8",
+    "reviewCountSnapshot": "35,807",
     "moreReviews": "在Google地图上查看更多评价",
     "items": [
       {
@@ -306,7 +344,7 @@
   },
   "mapSection": {
     "title": "马德里丽池池塘（Estanque del Retiro）的位置与游览方式",
-    "subtitle": "P.º de Colombia, 2, Retiro, 28016 Madrid, España · 丽池区（Retiro）· 赫罗尼莫斯街区（Jerónimos）",
+    "subtitle": "P.º de Colombia, 2, Retiro, 28009 Madrid, España · 丽池区（Retiro）· 赫罗尼莫斯街区（Jerónimos）",
     "openMaps": "在 Google 地图上打开位置",
     "officialTourismPortal": "关于景点开放及区域旅游的官方最新资讯，请查阅马德里市政厅官方旅游门户（esmadrid.com）。",
     "officialTourismLinkLabel": "西班牙 / 马德里自治区 · 官方旅游门户（esmadrid.com）",
@@ -319,15 +357,15 @@
     "items": [
       {
         "question": "Estanque Grande del Retiro 位于哪里？",
-        "answer": "Estanque Grande del Retiro（丽池公园大池塘）位于西班牙马德里自治区马德里市丽池区（Retiro）哥伦比亚大道（P.º de Colombia）2 号，邮编 28016。水域坐落于马德里市中心最具代表性的绿地——丽池公园（Parque del Retiro）内部。"
+        "answer": "Estanque Grande del Retiro（丽池公园大池塘）位于西班牙马德里自治区马德里市丽池区（Retiro）哥伦比亚大道（P.º de Colombia）2 号，邮编 28009。水域坐落于马德里市中心最具代表性的绿地——丽池公园（Parque del Retiro）内部。"
       },
       {
         "question": "参观丽池公园大池塘是否需要购票？",
-        "answer": "是的，Estanque Grande del Retiro（丽池公园大池塘）是丽池公园内的公共开放空间，全年 24 小时免费向公众开放。公园无门票，也无闭园时段限制。"
+        "answer": "是的，Estanque Grande del Retiro（丽池公园大池塘）是丽池公园内的公共开放空间，全年免费向公众开放。丽池公园开放时间：10 月至 3 月 06:00–22:00，4 月至 9 月 06:00–00:00；划船另有独立时段。"
       },
       {
         "question": "Estanque Grande del Retiro 附近有哪些核心地标？",
-        "answer": "丽池公园大池塘周边的核心地标包括其南端的阿尔方索十二世纪念碑（Monumento a Alfonso XII）与作为马德里最重要「城市绿肺」之一的丽池公园（Parque del Retiro）本体。相邻的文化地标还包括水晶宫（Palacio de Cristal）与布恩丽池宫展厅（Casón del Buen Retiro）。"
+        "answer": "丽池公园大池塘周边的核心地标包括其东侧的阿尔方索十二世纪念碑（Monumento a Alfonso XII）与作为马德里最重要「城市绿肺」之一的丽池公园（Parque del Retiro）本体。相邻的文化地标还包括水晶宫（Palacio de Cristal）与布恩丽池宫展厅（Casón del Buen Retiro）。"
       }
     ]
   },
@@ -399,5 +437,9 @@
   "officialManagement": {
     "title": "官方管理权属与市政遗产属性",
     "text": "Estanque Grande del Retiro（丽池公园大池塘）为马德里市政厅<strong>市属文化遗产资产</strong>，由 Patrimonio y Paisaje（遗产与景观）专项署负责登记与日常养护，在马德里「纪念碑及独特建筑名录」中被登记为「Fuente / Estanque / Lámina de agua（喷泉 / 池塘 / 水体）」单体（登记号 #2a58091d）。1634-1635 年由 Cristóbal de Aguilera 主持营造，1819 年由 Isidro González Velázquez 主持近代化改造；最近一次综合修复（清淤 + 景观提升）由市政厅联合 Artes Conde Duque 与 IMES S.A. 于 2003 年完成。"
+  },
+  "disclaimerHome": {
+    "title": "免责声明",
+    "text": "本站为独立的非官方、非营利的第三方旅游科普网站，与马德里市政厅及景点运营机构无任何隶属关系。"
   }
 }

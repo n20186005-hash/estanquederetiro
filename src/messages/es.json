@@ -15,7 +15,7 @@
     "title": "Estanque Grande del Retiro (Madrid)",
     "subtitle": "Lugar turístico · Madrid · Comunidad de Madrid · España",
     "rating": "4.8",
-    "reviewCount": "35,360 reseñas",
+    "reviewCount": "35,807 reseñas",
     "type": "Lugar turístico",
     "openMaps": "Ver en Google Maps"
   },
@@ -48,7 +48,7 @@
       "items": [
         "Monumento a Alfonso XII",
         "Paseos en barca",
-        "Aldeas de madera",
+        "Quioscos de madera",
         "Vegetación abundante"
       ]
     }
@@ -126,9 +126,9 @@
     "city": "Ciudad",
     "cityValue": "Madrid",
     "googleRating": "Valoración Google",
-    "googleRatingValue": "4.8 (35,360)",
+    "googleRatingValue": "4.8 (35,807)",
     "address": "Dirección",
-    "addressValue": "P.º de Colombia, 2, Retiro, 28016 Madrid, España (P.º del Estanque, Parque del Retiro)",
+    "addressValue": "P.º de Colombia, 2, Retiro, 28009 Madrid, España (P.º del Estanque, Parque del Retiro)",
     "telephone": "Teléfono",
     "telephoneValue": "+34 915 744 024",
     "plusCode": "Plus Code",
@@ -137,15 +137,16 @@
     "rehabilitationYearValue": "2003 — Rehabilitación, limpieza y acondicionamiento (Ayuntamiento de Madrid)"
   },
   "hours": {
-    "title": "Horario de Visita",
-    "park": "Acceso al Parque",
-    "parkTime": "Abierto todo el año (24 horas al día)",
-    "bestTime": "Mejor Época para Visitar",
-    "bestTimeSpring": "Primavera: Clima agradable y floración",
-    "bestTimeSummer": "Verano: Días soleados, ideal para paseos en barca",
-    "bestTimeAutumn": "Otoño: Hermosas hojas otoñales y ambiente relajante",
-    "bestTimeWinter": "Invierno: Paisajes invernales pintorescos",
-    "tip": "El parque está abierto las 24 horas del día, accesible en cualquier momento."
+    "title": "Horario de visita",
+    "parkTitle": "Horario del Parque del Retiro",
+    "winterLabel": "Octubre – marzo",
+    "winterTime": "06:00 – 22:00",
+    "summerLabel": "Abril – septiembre",
+    "summerTime": "06:00 – 00:00",
+    "boatTitle": "Alquiler de barcas",
+    "boatTime": "Aprox. 10:00 – 18:30 (más largo en verano)",
+    "boatNote": "La navegación suele funcionar de primavera a otoño. Los horarios y la apertura pueden variar por meteorología o gestión municipal; consulta los canales oficiales.",
+    "tip": "El parque o zonas pueden cerrarse temporalmente por tormentas u otros fenómenos meteorológicos adversos."
   },
   "tickets": {
     "title": "Información de Entrada",
@@ -155,6 +156,39 @@
     "parkingPrice": "Estacionamiento disponible cerca (de pago)",
     "guided": "Visitas Guiadas",
     "guidedPrice": "Autoguiado"
+  },
+  "boat": {
+    "title": "Paseos en barca por el Estanque Grande",
+    "subtitle": "Precios, reserva y embarcadero",
+    "priceWeekday": "Entre semana",
+    "priceWeekdayValue": "6 € la barca (45 min, máx. 4 personas)",
+    "priceWeekend": "Fines de semana y festivos",
+    "priceWeekendValue": "8 € la barca (45 min, máx. 4 personas)",
+    "bookingTitle": "Cómo reservar",
+    "bookingText": "Puedes alquilar in situ en el embarcadero del Estanque Grande, o reservar a través de la app Madrid Móvil y del portal de reservas deportivas del Ayuntamiento de Madrid. Se recomienda reservar con antelación los fines de semana y festivos.",
+    "dockTitle": "Dónde embarcar",
+    "dockText": "El embarcadero oficial está en el extremo noreste del estanque, junto al Paseo de Colombia. Desde las estaciones de metro Retiro (línea 2) o Ibiza (línea 9) es un paseo corto por el parque.",
+    "note": "Precios y horarios según información turística municipal (octubre 2026). La navegación depende del estado del agua y la meteorología; confirma antes de tu visita.",
+    "cta": "Ver en Google Maps"
+  },
+  "topicLinks": {
+    "title": "Guías y artículos",
+    "subtitle": "Profundiza en el Estanque del Retiro: barcas, horarios, cómo llegar y más.",
+    "barcas-retiro": "Paseos en barca",
+    "horarios": "Horarios y temporadas",
+    "como-llegar": "Cómo llegar",
+    "mapa": "Mapa del estanque",
+    "monumento-alfonso-xii": "Monumento a Alfonso XII",
+    "palacio-cristal": "Palacio de Cristal",
+    "donde-comer": "Dónde comer cerca",
+    "tapas-barrio-ibiza": "Tapas en el barrio de Ibiza",
+    "ruta-una-hora": "Ruta de una hora",
+    "planes-con-ninos": "Visita con niños"
+  },
+  "topicPage": {
+    "home": "Volver al inicio",
+    "faq": "Preguntas frecuentes",
+    "related": "Más guías"
   },
   "transport": {
     "title": "Cómo Llegar",
@@ -198,9 +232,9 @@
         "image": "/gallery/estanque-grande-del-retiro-2.jpg"
       },
       {
-        "title": "Aldeas de Madera",
-        "description": "Las pintorescas aldeas de madera ofrecen un marco relajante para fotos de grupo o retratos.",
-        "location": "En el parque",
+        "title": "Quioscos y terrazas de madera",
+        "description": "Los quioscos de madera y las terrazas junto al agua ofrecen un marco relajante para fotos de grupo o retratos.",
+        "location": "Orilla noreste del estanque",
         "image": "/gallery/estanque-grande-del-retiro-3.jpg"
       },
       {
@@ -242,7 +276,7 @@
     "captions": [
       "Vista del estanque",
       "Monumento a Alfonso XII",
-      "Aldeas de madera",
+      "Quioscos de madera",
       "Áreas de descanso",
       "Vegetación abundante",
       "Vistas de verano",
@@ -263,7 +297,11 @@
   },
   "reviews": {
     "title": "Reseñas de Visitantes",
+    "reviewsLabel": "reseñas",
     "declaration": "Los comentarios de los visitantes se pueden ver a través de Google Maps.",
+    "asOf": "Datos recopilados en octubre de 2026.",
+    "ratingSnapshot": "4.8",
+    "reviewCountSnapshot": "35,807",
     "moreReviews": "Ver más reseñas en Google Maps",
     "items": [
       {
@@ -306,7 +344,7 @@
   },
   "mapSection": {
     "title": "Ubicación y Cómo Visitar el Estanque del Retiro en Madrid",
-    "subtitle": "P.º de Colombia, 2, Retiro, 28016 Madrid, España · Distrito Retiro · Barrio Jerónimos",
+    "subtitle": "P.º de Colombia, 2, Retiro, 28009 Madrid, España · Distrito Retiro · Barrio Jerónimos",
     "openMaps": "Ver en Google Maps",
     "officialTourismPortal": "Para actualizaciones oficiales e información turística regional, consulte el Portal Oficial de Turismo del Ayuntamiento de Madrid.",
     "officialTourismLinkLabel": "España / Comunidad de Madrid · Portal Oficial de Turismo (esmadrid.com)",
@@ -319,15 +357,15 @@
     "items": [
       {
         "question": "¿Dónde se encuentra el Estanque Grande del Retiro?",
-        "answer": "El Estanque Grande del Retiro se encuentra en el P.º de Colombia, 2, Retiro, 28016 Madrid, Comunidad de Madrid, España. Se ubica dentro del Parque del Retiro, uno de los espacios verdes más emblemáticos del centro de Madrid."
+        "answer": "El Estanque Grande del Retiro se encuentra en el P.º de Colombia, 2, Retiro, 28009 Madrid, Comunidad de Madrid, España. Se ubica dentro del Parque del Retiro, uno de los espacios verdes más emblemáticos del centro de Madrid."
       },
       {
         "question": "¿Es gratuita la visita al Estanque Grande del Retiro?",
-        "answer": "Sí, el Estanque Grande del Retiro es un espacio público ubicado dentro del Parque del Retiro y su visita es gratuita durante todo el año. El acceso al parque está abierto las 24 horas del día."
+        "answer": "Sí, el Estanque Grande del Retiro es un espacio público ubicado dentro del Parque del Retiro y su visita es gratuita durante todo el año. El parque abre de 06:00 a 22:00 (oct–mar) y de 06:00 a 00:00 (abr–sep)."
       },
       {
         "question": "¿Qué monumentos destacan cerca del Estanque Grande del Retiro?",
-        "answer": "Cerca del Estanque Grande del Retiro destacan el Monumento a Alfonso XII en su extremo sur y el propio Parque del Retiro, uno de los pulmones verdes más importantes de Madrid. También se encuentran próximos el Palacio de Cristal y el Casón del Buen Retiro."
+        "answer": "Cerca del Estanque Grande del Retiro destacan el Monumento a Alfonso XII en su lado este y el propio Parque del Retiro, uno de los pulmones verdes más importantes de Madrid. También se encuentran próximos el Palacio de Cristal y el Casón del Buen Retiro."
       }
     ]
   },
@@ -399,5 +437,9 @@
   "officialManagement": {
     "title": "Gestión Oficial y Propiedad Municipal",
     "text": "El Estanque Grande del Retiro es un bien de <strong>propiedad municipal</strong> gestionado por el Área de Patrimonio y Paisaje del Ayuntamiento de Madrid, catalogado como Fuente, Estanque y Lámina de agua singular dentro del inventario monumental de la ciudad. Construido en 1634-1635 por Cristóbal de Aguilera y reformado en 1819 por Isidro González Velázquez, se encuentra inscrito en el registro oficial de Monumentos y Edificios Singulares de Madrid (ficha #2a58091d). Su última rehabilitación integral de limpieza y acondicionamiento tuvo lugar en 2003, bajo la dirección municipal de Artes Conde Duque e IMES S.A."
+  },
+  "disclaimerHome": {
+    "title": "Aviso",
+    "text": "Sitio web independiente sin ánimo de lucro de información turística de terceros. No estamos afiliados con el Ayuntamiento de Madrid ni con la entidad gestora del parque."
   }
 }
