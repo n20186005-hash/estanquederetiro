@@ -16,10 +16,16 @@ interface Place {
   title: Localized;
   history: Localized;
   tips: Localized;
+  features: Localized;
+  walk: Localized;
+  photoSpot: Localized;
+  question: Localized;
+  answer: Localized;
   address: string;
   station: string;
   next: string;
   photo: PlacePhoto;
+  walkPhoto?: PlacePhoto & { src: string };
 }
 
 export const nearbyPlaces: Place[] = rawPlaces;
@@ -61,14 +67,21 @@ export function getVisitInfo(slug: string, locale: TopicLocale) {
     ? [place.title.es, place.address, place.station]
     : legacyLocations[slug] ?? pond;
   const access = getAccess(slug, locale);
+  const destination = `${name}, ${address.endsWith(', Madrid') ? address : address + ', Madrid'}`;
 
   return {
     ...access,
     ...(areaGuides.includes(slug) ? areaAccess[locale] : {}),
     address: `${address.endsWith(', Madrid') ? address : address + ', Madrid'}`,
     station: stations[station],
-    map: name === pond[0] ? pondMap : mapsLink(`${name}, ${address}, Madrid`),
-    reviewMap: pondGuides.includes(slug) ? pondMap : mapsLink(`${name}, ${address}, Madrid`),
+    map: name === pond[0] ? pondMap : mapsLink(destination),
+    reviewMap: pondGuides.includes(slug) ? pondMap : mapsLink(destination),
+    walkingMap: `https://www.google.com/maps/dir/?${new URLSearchParams({
+      api: '1',
+      origin: `Metro ${station}, Madrid`,
+      destination,
+      travelmode: 'walking',
+    })}`,
     pondRating: pondGuides.includes(slug),
     areaGuide: areaGuides.includes(slug),
   };

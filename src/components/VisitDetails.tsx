@@ -4,7 +4,15 @@ import { getVisitInfo } from '@/lib/nearby';
 import type { TopicLocale } from '@/lib/topics';
 import { visitLabels } from '@/lib/visit';
 
-export default async function VisitDetails({ slug, locale }: { slug: string; locale: TopicLocale }) {
+export default async function VisitDetails({
+  slug,
+  locale,
+  showManagement = true,
+}: {
+  slug: string;
+  locale: TopicLocale;
+  showManagement?: boolean;
+}) {
   const labels = visitLabels[locale];
   const visit = getVisitInfo(slug, locale);
   const basic = visit.pondRating ? await getTranslations({ locale, namespace: 'basicInfo' }) : null;
@@ -16,11 +24,13 @@ export default async function VisitDetails({ slug, locale }: { slug: string; loc
 
   return (
     <div className="space-y-8">
-      <section className="rounded-2xl p-6" style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}>
-        <h2 className="font-display text-2xl font-semibold mb-2">{labels.about}</h2>
-        <p style={{ color: 'var(--text-secondary)' }}>{visit.manager}</p>
-        <a className="inline-block mt-3 underline underline-offset-4" style={{ color: 'var(--accent)' }} href={visit.source}>{labels.official}</a>
-      </section>
+      {showManagement && (
+        <section className="rounded-2xl p-6" style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}>
+          <h2 className="font-display text-2xl font-semibold mb-2">{labels.about}</h2>
+          <p style={{ color: 'var(--text-secondary)' }}>{visit.manager}</p>
+          <a className="inline-block mt-3 underline underline-offset-4" style={{ color: 'var(--accent)' }} href={visit.source}>{labels.official}</a>
+        </section>
+      )}
       <section>
         <h2 className="font-display text-2xl font-semibold mb-4">{labels.info}</h2>
         <dl className="divide-y rounded-2xl px-5" style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}>
@@ -41,17 +51,17 @@ export default async function VisitDetails({ slug, locale }: { slug: string; loc
           <MapPin size={17} aria-hidden="true" /> {labels.map}
         </a>
       </section>
-      <section>
-          <h2 className="font-display text-2xl font-semibold mb-3">{labels.reviews}</h2>
-          {basic ? (
-            <p className="flex items-center gap-2 mb-3" style={{ color: 'var(--text-secondary)' }}>
-              <Star size={17} aria-hidden="true" style={{ color: 'var(--accent)' }} />
-              Estanque Grande del Retiro · Google Maps {basic('googleRatingValue')}
-            </p>
-          ) : (
-            <p className="mb-3" style={{ color: 'var(--text-secondary)' }}>{visit.areaGuide ? labels.venueReviews : labels.reviewLink}</p>
-          )}
-          <a className="underline underline-offset-4" style={{ color: 'var(--accent)' }} href={visit.reviewMap}>{labels.readReviews}</a>
+      <section id="visitor-reviews">
+        <h2 className="font-display text-2xl font-semibold mb-3">{labels.reviews}</h2>
+        {basic ? (
+          <p className="flex items-center gap-2 mb-3" style={{ color: 'var(--text-secondary)' }}>
+            <Star size={17} aria-hidden="true" style={{ color: 'var(--accent)' }} />
+            Estanque Grande del Retiro · Google Maps {basic('googleRatingValue')}
+          </p>
+        ) : (
+          <p className="mb-3" style={{ color: 'var(--text-secondary)' }}>{visit.areaGuide ? labels.venueReviews : labels.reviewLink}</p>
+        )}
+        <a className="underline underline-offset-4" style={{ color: 'var(--accent)' }} href={visit.reviewMap}>{labels.readReviews}</a>
       </section>
     </div>
   );

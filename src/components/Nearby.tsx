@@ -1,5 +1,5 @@
 import Image from 'next/image';
-import { ArrowRight, MapPin } from 'lucide-react';
+import { ArrowRight, MapPin, Star } from 'lucide-react';
 import { getNearby, getVisitInfo, nearbyPlaces } from '@/lib/nearby';
 import type { TopicLocale } from '@/lib/topics';
 import { visitLabels } from '@/lib/visit';
@@ -44,28 +44,63 @@ export function NearbyPage({ place, locale }: { place: (typeof nearbyPlaces)[num
           <div className="relative w-full max-w-5xl mx-auto px-5 sm:px-8 py-10">
             <a href={`/${locale}#nearby`} className="inline-block mb-6 text-sm underline underline-offset-4">{labels.nearby}</a>
             <h1 className="font-display text-4xl sm:text-6xl font-semibold mb-4">{title}</h1>
-            <a href={visit.map} className="inline-flex items-center gap-2 text-sm underline underline-offset-4">
-              <MapPin size={18} aria-hidden="true" /> {visit.address}
-            </a>
+            <p className="max-w-3xl text-base sm:text-lg mb-4 leading-relaxed">{place.history[locale]}</p>
+            <p className="text-sm mb-3">{labels.hours} · {visit.hours}</p>
+            <div className="flex flex-wrap gap-x-5 gap-y-2">
+              <a href={visit.map} className="inline-flex items-center gap-2 text-sm underline underline-offset-4">
+                <MapPin size={18} aria-hidden="true" className="shrink-0" /> {visit.address}
+              </a>
+              <a href="#visitor-reviews" className="inline-flex items-center gap-2 text-sm underline underline-offset-4">
+                <Star size={17} aria-hidden="true" /> {labels.reviews}
+              </a>
+            </div>
           </div>
         </section>
         <div className="max-w-3xl mx-auto px-5 sm:px-8 py-8 sm:py-12 space-y-8">
-          <p><PhotoCredit photo={place.photo} locale={locale} archive={place.slug === 'paseo-de-coches'} /></p>
-          <section>
-            <h2 className="font-display text-2xl font-semibold mb-3">{labels.overview}</h2>
-            <p className="text-lg leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{place.history[locale]}</p>
+          <section id="about" className="rounded-2xl p-6 sm:p-8" style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}>
+            <h2 className="font-display text-2xl sm:text-3xl font-semibold mb-3">{labels.aboutPlace(title)}</h2>
+            <p className="font-medium leading-relaxed">{labels.managedBy(visit.manager)}</p>
+            <p className="mt-3 leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{place.features[locale]}</p>
+            <a className="inline-block mt-4 underline underline-offset-4" style={{ color: 'var(--accent)' }} href={visit.source}>{labels.official}</a>
           </section>
-          <VisitDetails slug={place.slug} locale={locale} />
+          <p><PhotoCredit photo={place.photo} locale={locale} archive={place.slug === 'paseo-de-coches'} /></p>
           <section>
             <h2 className="font-display text-2xl font-semibold mb-3">{labels.plan}</h2>
             <p className="leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{place.tips[locale]}</p>
           </section>
+          <VisitDetails slug={place.slug} locale={locale} showManagement={false} />
+          <section>
+            <h2 className="font-display text-2xl font-semibold mb-3">{labels.walk}</h2>
+            <ol className="list-decimal pl-6 space-y-2 leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
+              <li>{labels.approach(visit.station)}</li>
+              <li>{place.walk[locale]}</li>
+              <li><a href={`/${locale}/${next.slug}`} className="underline underline-offset-4" style={{ color: 'var(--accent)' }}>
+                {labels.next} · {next.title[locale]}
+              </a></li>
+            </ol>
+            <a href={visit.walkingMap} className="inline-block mt-3 underline underline-offset-4" style={{ color: 'var(--accent)' }}>{labels.walkingMap}</a>
+          </section>
+          <section>
+            <h2 className="font-display text-2xl font-semibold mb-3">{labels.photoSpot}</h2>
+            <p className="leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{place.photoSpot[locale]}</p>
+            {place.walkPhoto && (
+              <figure className="mt-4">
+                <Image src={place.walkPhoto.src} alt={title} width={960} height={720} unoptimized className="w-full h-auto rounded-2xl" />
+                <figcaption className="mt-2"><PhotoCredit photo={place.walkPhoto} locale={locale} /></figcaption>
+              </figure>
+            )}
+          </section>
+          <section>
+            <h2 className="font-display text-2xl font-semibold mb-3">{labels.faq}</h2>
+            <details className="rounded-xl p-4" style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}>
+              <summary className="cursor-pointer font-medium">{place.question[locale]}</summary>
+              <p className="mt-3 leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{place.answer[locale]}</p>
+            </details>
+          </section>
           <section className="rounded-2xl p-6" style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}>
-            <h2 className="font-display text-2xl font-semibold mb-3">{labels.next}</h2>
-            <a href={`/${locale}/${next.slug}`} className="inline-flex items-center gap-2 underline underline-offset-4" style={{ color: 'var(--accent)' }}>
-              {next.title[locale]} <ArrowRight size={17} aria-hidden="true" />
+            <a href={`/${locale}#nearby`} className="inline-flex items-center gap-2 underline underline-offset-4">
+              {labels.related} <ArrowRight size={17} aria-hidden="true" />
             </a>
-            <div className="mt-3"><a href={`/${locale}#nearby`} className="underline underline-offset-4">{labels.related}</a></div>
           </section>
           <nav aria-label={title} className="flex gap-5 text-sm">
             {(['es', 'en', 'zh'] as const).map((language) => (

@@ -24,6 +24,31 @@
       "author": "Diego Delso",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "features": {
+      "es": "Ricardo Velázquez Bosco combinó bóvedas de hierro y vidrio con ladrillo bicolor y cerámica de Daniel Zuloaga.",
+      "en": "Ricardo Velázquez Bosco paired iron-and-glass vaults with two-tone brick and Daniel Zuloaga’s ceramics.",
+      "zh": "建筑师里卡多·贝拉斯克斯·博斯科将铁玻璃拱顶、双色砖墙和丹尼尔·苏洛阿加的陶瓷装饰结合在一起。"
+    },
+    "walk": {
+      "es": "Desde la fuente de la Alcachofa, sigue el paseo de Venezuela hacia el pabellón.",
+      "en": "From the Artichoke Fountain, follow Paseo de Venezuela toward the exhibition pavilion.",
+      "zh": "从朝鲜蓟喷泉沿委内瑞拉大道走向展馆。"
+    },
+    "photoSpot": {
+      "es": "Desde la explanada, toma una diagonal que incluya los azulejos y los arcos de entrada.",
+      "en": "From the forecourt, frame the entrance arches and tiles at a diagonal.",
+      "zh": "站在前广场斜拍入口拱门和彩釉砖。"
+    },
+    "question": {
+      "es": "¿Es el mismo edificio que el Palacio de Cristal?",
+      "en": "Is this the same building as the Crystal Palace?",
+      "zh": "它和水晶宫是同一座建筑吗？"
+    },
+    "answer": {
+      "es": "Son dos sedes distintas del Reina Sofía. Aquí el ladrillo y la cerámica dominan la fachada.",
+      "en": "They are separate Reina Sofía venues. Brick and ceramic dominate the façade here.",
+      "zh": "两处都是索菲亚王后艺术中心的展馆，各有独立馆舍。这里主要看砖墙和彩釉砖。"
     }
   },
   {
@@ -51,6 +76,31 @@
       "author": "Luis García ( Zaqarbal )",
       "license": "CC BY-SA 3.0 es",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/es/deed.en"
+    },
+    "features": {
+      "es": "El jardín de comienzos del siglo XX organiza los rosales en cuadros y utiliza pérgolas para las variedades trepadoras.",
+      "en": "The early twentieth-century garden groups roses in beds and trains climbing varieties over pergolas.",
+      "zh": "这座20世纪初的花园用规整花床栽种不同玫瑰，并以花架引导攀援品种。"
+    },
+    "walk": {
+      "es": "Desde la glorieta del Ángel Caído, toma el paseo hacia el lado oriental del parque y busca la verja de la Rosaleda.",
+      "en": "From the Fallen Angel roundabout, head east through the park to the gated rose garden.",
+      "zh": "从堕落天使广场向公园东侧走，找玫瑰园围门。"
+    },
+    "photoSpot": {
+      "es": "Baja el encuadre desde el sendero central para alinear arcos y rosales.",
+      "en": "Lower the camera on the central path to align the arches and rose beds.",
+      "zh": "在主径降低机位，让多重拱架与玫瑰花床形成纵深。"
+    },
+    "question": {
+      "es": "¿Cuándo se ven más flores?",
+      "en": "When are most roses in bloom?",
+      "zh": "什么时候玫瑰开得多？"
+    },
+    "answer": {
+      "es": "La primavera avanzada suele ser buena; el estado de los rosales depende del clima y la poda.",
+      "en": "Late spring is usually a good bet; weather and pruning affect the display.",
+      "zh": "晚春通常适合赏花，实际花况取决于天气和修剪。"
     }
   },
   {
@@ -78,6 +128,31 @@
       "author": "Discasto",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "features": {
+      "es": "Los ejes rectos, setos y pérgolas enmarcan las fuentes. Los patios y el uso del agua evocan jardines andaluces.",
+      "en": "Straight axes, hedges and pergolas frame the fountains. The courtyards and water features recall Andalusian gardens.",
+      "zh": "笔直园路、树篱和花架围绕喷泉布置，庭院与水景带有安达卢西亚园林特征。"
+    },
+    "walk": {
+      "es": "Acércate por la avenida de Menéndez Pelayo y localiza el acceso señalizado al jardín.",
+      "en": "Approach from Avenida de Menéndez Pelayo and find the signed garden entrance.",
+      "zh": "由梅嫩德斯·佩拉约大道一侧接近，找花园入口标识。"
+    },
+    "photoSpot": {
+      "es": "Desde una pérgola, coloca una fuente en el centro y deja visibles los setos laterales.",
+      "en": "From a pergola, centre a fountain and leave the hedges visible on both sides.",
+      "zh": "从花架下拍，让喷泉居中，保留两侧对称树篱。"
+    },
+    "question": {
+      "es": "¿Puedo acercarme a los pavos reales?",
+      "en": "Can I approach the peacocks?",
+      "zh": "可以走近孔雀吗？"
+    },
+    "answer": {
+      "es": "Obsérvalos desde el camino y deja que se alejen por sí solos.",
+      "en": "Watch from the path and give them space to move away.",
+      "zh": "在园路上观察，给孔雀留出自行离开的空间。"
     }
   },
   {
@@ -105,6 +180,31 @@
       "author": "Discasto",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "features": {
+      "es": "Los restos de la antigua Casa de Fieras permiten leer el antiguo parque zoológico dentro de un jardín público actual.",
+      "en": "Remnants of the former zoo make its earlier layout visible within a public garden today.",
+      "zh": "旧动物园残存设施让游客能在如今的公共花园中辨认昔日的空间布局。"
+    },
+    "walk": {
+      "es": "Sigue el paseo de Coches hasta la antigua Casa de Fieras y entra por los caminos junto a la biblioteca.",
+      "en": "Follow the Carriage Drive to the former zoo and take the garden paths beside the library.",
+      "zh": "沿马车大道到旧动物园区域，从图书馆旁的小径进入花园。"
+    },
+    "photoSpot": {
+      "es": "Encuadra los elementos conservados de lado, con el paseo actual al fondo.",
+      "en": "Frame the surviving structures from the side with the present-day path behind them.",
+      "zh": "从侧面对准遗留构筑物，把现在的园路纳入背景。"
+    },
+    "question": {
+      "es": "¿Sigue funcionando la Casa de Fieras?",
+      "en": "Is the old zoo still operating?",
+      "zh": "这里还是动物园吗？"
+    },
+    "answer": {
+      "es": "El antiguo zoo dejó paso a jardines públicos. En el recinto también funciona una biblioteca municipal.",
+      "en": "The former zoo made way for public gardens. The site also houses a municipal library.",
+      "zh": "动物园旧址现为公共花园，区域内还有一座市立图书馆。"
     }
   },
   {
@@ -132,6 +232,31 @@
       "author": "Zarateman",
       "license": "CC0",
       "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    },
+    "features": {
+      "es": "La reutilización de un edificio de la Casa de Fieras permite comparar la envolvente histórica con su función de biblioteca de barrio.",
+      "en": "The library’s reuse of a former zoo building lets you compare its historic exterior with its role as a neighbourhood library.",
+      "zh": "这座街区图书馆利用旧动物园建筑开设，可以对照历史外观和如今的公共阅读功能。"
+    },
+    "walk": {
+      "es": "Desde el metro Ibiza, entra por el lado este del parque y sigue hacia el paseo de Fernán Núñez, 24.",
+      "en": "From Ibiza metro, enter the park from the east and head to Paseo de Fernán Núñez 24.",
+      "zh": "由伊维萨地铁站从东侧入园，前往费尔南·努涅斯大道24号。"
+    },
+    "photoSpot": {
+      "es": "Da unos pasos atrás en el camino exterior para incluir la fachada y el jardín.",
+      "en": "Step back on the outer path to include the façade and the garden.",
+      "zh": "在外部步道退几步，将外立面和花园一起纳入画面。"
+    },
+    "question": {
+      "es": "¿Puedo entrar aunque no vaya a pedir un libro prestado?",
+      "en": "Can I enter without borrowing a book?",
+      "zh": "不借书也可以入馆吗？"
+    },
+    "answer": {
+      "es": "Puedes consultar el horario para una visita de lectura; el préstamo y otros servicios pueden requerir carné.",
+      "en": "Check the hours for a reading visit. Borrowing and some other services may require a card.",
+      "zh": "可按开放时间入馆阅读。借阅及部分服务可能需要读者证。"
     }
   },
   {
@@ -159,6 +284,31 @@
       "author": "Carlos Delgado",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "features": {
+      "es": "Su perfil bajo y alargado todavía distingue la antigua vaquería, reutilizada para exposiciones municipales.",
+      "en": "The former dairy’s low, elongated profile still stands out. The building now hosts municipal exhibitions.",
+      "zh": "旧奶牛房低矮而细长的轮廓仍很醒目，如今这里举办市立展览。"
+    },
+    "walk": {
+      "es": "Desde la orilla norte del Estanque Grande, busca el número 1 del paseo de Colombia.",
+      "en": "From the Great Pond’s north bank, look for number 1 on Paseo de Colombia.",
+      "zh": "从大池北岸走到哥伦比亚大道1号。"
+    },
+    "photoSpot": {
+      "es": "Desde el paseo de Colombia, toma la fachada en horizontal para mostrar sus proporciones.",
+      "en": "Shoot horizontally from Paseo de Colombia to show the building’s proportions.",
+      "zh": "在哥伦比亚大道横构图，表现建筑低而长的比例。"
+    },
+    "question": {
+      "es": "¿Hay una exposición permanente?",
+      "en": "Is there a permanent exhibition?",
+      "zh": "这里有常设展吗？"
+    },
+    "answer": {
+      "es": "La programación cambia. Comprueba qué actividad se celebra y sus condiciones de entrada.",
+      "en": "The programme changes. Check what is on and how admission works.",
+      "zh": "展览和活动会更换，出发前查本期项目和入场安排。"
     }
   },
   {
@@ -186,6 +336,31 @@
       "author": "Felipe Gabaldón",
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    },
+    "features": {
+      "es": "La composición de pequeño pabellón, agua y vegetación pertenece al jardín pintoresco del Reservado de Fernando VII.",
+      "en": "The small pavilion, water and planting are part of Ferdinand VII’s picturesque private garden.",
+      "zh": "小亭、水面与植被组成典型的如画园景，原来是费尔南多七世私人花园的一部分。"
+    },
+    "walk": {
+      "es": "Entra por el sector de O’Donnell y sigue el paseo de Panamá hacia el pequeño estanque.",
+      "en": "Enter near O’Donnell and follow Paseo de Panamá toward the small pool.",
+      "zh": "从奥唐奈街一带入园，沿巴拿马大道走向小池。"
+    },
+    "photoSpot": {
+      "es": "Desde el sendero de la orilla opuesta, encuadra la casita junto con su reflejo.",
+      "en": "From the opposite path, frame the cottage and its reflection together.",
+      "zh": "在对岸步道取景，把小屋和倒影放进同一画面。"
+    },
+    "question": {
+      "es": "¿Se necesita entrar en la casita para verla bien?",
+      "en": "Do I need to go inside to see the main features?",
+      "zh": "必须入内才能看到主要看点吗？"
+    },
+    "answer": {
+      "es": "Los puntos principales se ven desde el sendero exterior alrededor del agua.",
+      "en": "You can see the main features from the path around the water.",
+      "zh": "沿池边外部步道就能看到主要看点。"
     }
   },
   {
@@ -213,6 +388,31 @@
       "author": "Lourdes Cardenal",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "features": {
+      "es": "El montículo, la roca y las aguas forman un paisaje construido del jardín romántico. El desnivel es parte de la composición.",
+      "en": "The mound, rockwork and water form a constructed landscape in the romantic garden. Changes in level are part of the design.",
+      "zh": "人工土丘、叠石与水景构成浪漫主义园林的造景，高低落差本身就是设计的一部分。"
+    },
+    "walk": {
+      "es": "Llega por el paseo de Panamá desde la Casita del Pescador y localiza el sendero al pie de la montaña.",
+      "en": "Follow Paseo de Panamá from the Fisherman’s Cottage to the path at the foot of the hill.",
+      "zh": "从渔人小屋沿巴拿马大道走，找人工山脚的步道。"
+    },
+    "photoSpot": {
+      "es": "Desde el camino inferior, incluye piedras del primer plano para dar escala al montículo.",
+      "en": "From the lower path, include foreground stones to give the mound a sense of scale.",
+      "zh": "在低处步道取景，用前景石块交代山体尺度。"
+    },
+    "question": {
+      "es": "¿Puedo visitar el interior con el parque abierto?",
+      "en": "Can I go inside whenever the park is open?",
+      "zh": "只要公园开放，山内就能参观吗？"
+    },
+    "answer": {
+      "es": "El interior tiene su propio horario. Consulta el acceso antes de subir.",
+      "en": "The interior has separate hours. Check access before heading up.",
+      "zh": "内部另有开放安排，前往前请查市府公告。"
     }
   },
   {
@@ -240,6 +440,31 @@
       "author": "J.L. de Diegp (User:Gato de Madridpedia)",
       "license": "Public domain",
       "licenseUrl": ""
+    },
+    "features": {
+      "es": "El ábside semicircular y los vanos estrechos sirven para reconocer el trazado románico que sobrevivió al traslado desde Ávila.",
+      "en": "The semicircular apse and narrow openings reveal the Romanesque layout that survived the move from Ávila.",
+      "zh": "半圆后殿与狭窄窗洞保留了罗曼式教堂的部分格局，这些遗构由阿维拉迁来。"
+    },
+    "walk": {
+      "es": "Desde la Montaña Artificial, sigue por el sector de O’Donnell hasta los muros de piedra.",
+      "en": "From the Artificial Mountain, follow the paths in the O’Donnell sector to the stone walls.",
+      "zh": "从人工山沿奥唐奈街方向的园内步道走到石墙遗迹。"
+    },
+    "photoSpot": {
+      "es": "Encuadra el ábside de tres cuartos para mostrar la curva y un muro lateral.",
+      "en": "Frame the apse at a three-quarter angle to show both the curve and a side wall.",
+      "zh": "从斜侧面同时拍到后殿弧线和一段侧墙。"
+    },
+    "question": {
+      "es": "¿La ermita se levantó originalmente en el Retiro?",
+      "en": "Was the chapel originally built in Retiro?",
+      "zh": "这座教堂原先就在丽池公园吗？"
+    },
+    "answer": {
+      "es": "Los restos proceden de Ávila. Hoy se visitan desde los caminos exteriores del parque.",
+      "en": "The remains came from Ávila. View them from the surrounding park paths.",
+      "zh": "遗迹原在阿维拉，现在可以在公园步道上从外围参观。"
     }
   },
   {
@@ -267,6 +492,31 @@
       "author": "Diego Delso",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "features": {
+      "es": "El diseño formal se entiende desde su eje: los setos y parterres se repiten a ambos lados de un camino central.",
+      "en": "The design is clearest from the main axis, with hedges and beds repeated on either side of a central path.",
+      "zh": "沿中轴最能看懂法式构图，花坛与树篱在中央园路两侧重复排列。"
+    },
+    "walk": {
+      "es": "Cruza la Puerta de Felipe IV desde Alfonso XII y sigue el camino central hasta el interior del jardín.",
+      "en": "Enter through the Gate of Philip IV from Calle de Alfonso XII and follow the central path into the garden.",
+      "zh": "由阿方索十二世街穿过费利佩四世门，沿中央园路进入花园。"
+    },
+    "photoSpot": {
+      "es": "Gira hacia la puerta desde el interior para encuadrar el eje con la verja al fondo.",
+      "en": "Turn back toward the gate from inside to photograph the axis with the gateway at the far end.",
+      "zh": "走到园内再回望，用入口古门作为中轴构图的远景。"
+    },
+    "question": {
+      "es": "¿Dónde está el ahuehuete?",
+      "en": "Where is the Montezuma cypress?",
+      "zh": "墨西哥落羽杉在哪里？"
+    },
+    "answer": {
+      "es": "Busca el gran tronco cerca del extremo occidental, próximo a la Puerta de Felipe IV.",
+      "en": "Look for the broad trunk near the west end, close to the Gate of Philip IV.",
+      "zh": "在花园西端、费利佩四世门附近找粗壮的树干。"
     }
   },
   {
@@ -294,6 +544,31 @@
       "author": "Malopez 21",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "features": {
+      "es": "La conífera mexicana destaca por su base ancha, su porte irregular y el contraste con el trazado geométrico del Parterre.",
+      "en": "This Mexican conifer stands out for its broad base and irregular shape against the geometry of the Parterre.",
+      "zh": "这种原产墨西哥的针叶树基部宽阔、树形不规则，与法式花园的几何布局形成对照。"
+    },
+    "walk": {
+      "es": "Entra por Felipe IV y permanece cerca del extremo occidental del jardín para localizar el árbol.",
+      "en": "Enter through the Gate of Philip IV and look near the western end of the garden.",
+      "zh": "从费利佩四世门入园，在花园西端一带寻找古树。"
+    },
+    "photoSpot": {
+      "es": "Usa un encuadre vertical desde el camino para incluir base y copa. Para el detalle, fotografía la corteza desde fuera del recinto.",
+      "en": "Use a vertical frame from the path to include trunk and canopy. Photograph bark details from outside the enclosure.",
+      "zh": "在步道上竖拍树干和树冠，拍树皮细节时站在围护范围外。"
+    },
+    "question": {
+      "es": "¿Se puede determinar su edad por el tamaño?",
+      "en": "Can its age be inferred from its size?",
+      "zh": "能从树干粗细判断树龄吗？"
+    },
+    "answer": {
+      "es": "El tamaño permite reconocerlo. Para la cronología, consulta la ficha botánica municipal.",
+      "en": "Its size helps identify it. For its chronology, consult the city’s botanical guide.",
+      "zh": "大小有助于辨认，树龄沿革可查市府植物指南。"
     }
   },
   {
@@ -321,6 +596,31 @@
       "author": "Gorilaenlaniebla",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "features": {
+      "es": "Las alineaciones de árboles y los claros alternan sombra y luz. Este trazado se aprecia mejor caminando que desde una sola vista.",
+      "en": "Rows of trees and open clearings alternate shade and light. The layout is easiest to understand on foot.",
+      "zh": "成列树木与林间空地交替，步行时比站在一个位置更能感受光影变化。"
+    },
+    "walk": {
+      "es": "Desde la puerta de Murillo, toma los caminos hacia el sector suroeste y sigue la señalización del Bosque del Recuerdo.",
+      "en": "Enter at the Murillo gate and follow southwestern paths toward the Forest of Remembrance.",
+      "zh": "从穆里略门进园，沿西南侧园路按纪念林的指示走。"
+    },
+    "photoSpot": {
+      "es": "Párate en la transición entre un claro y el arbolado para capturar ambos espacios.",
+      "en": "Stand where a clearing meets the trees to show both spaces in one frame.",
+      "zh": "在空地与林木交界处取景，同时表现开阔处和树荫。"
+    },
+    "question": {
+      "es": "¿Se puede combinar con un paseo corto?",
+      "en": "Does it work as part of a short walk?",
+      "zh": "适合排进短程散步吗？"
+    },
+    "answer": {
+      "es": "Desde la puerta de Murillo, el jardín y el Bosque del Recuerdo forman dos paradas contiguas.",
+      "en": "The garden and Forest of Remembrance make adjoining stops from the Murillo gate.",
+      "zh": "从穆里略门出发，可连走花园和相邻的纪念林。"
     }
   },
   {
@@ -348,6 +648,31 @@
       "author": "Carlos Delgado",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "features": {
+      "es": "El bronce de Ricardo Bellver gira sobre un pedestal con figuras que se descubren al rodear la pila.",
+      "en": "Ricardo Bellver’s bronze twists above a pedestal whose figures come into view as you circle the basin.",
+      "zh": "里卡多·贝尔韦尔的青铜像在基座上方扭转，绕池才能看清基座各面的雕刻。"
+    },
+    "walk": {
+      "es": "Desde el paseo del Duque de Fernán Núñez, sigue hacia la glorieta que da nombre a la fuente.",
+      "en": "Follow Paseo del Duque de Fernán Núñez to the roundabout named for the fountain.",
+      "zh": "沿费尔南·努涅斯大道走到与喷泉同名的广场。"
+    },
+    "photoSpot": {
+      "es": "Fotografía de perfil desde el borde de la glorieta para separar brazos y alas.",
+      "en": "Shoot in profile from the edge of the plaza to separate the arms and wings in the frame.",
+      "zh": "在广场外沿拍侧面，让手臂和翅膀的轮廓分开。"
+    },
+    "question": {
+      "es": "¿Cuál es el motivo de la escultura?",
+      "en": "What does the sculpture depict?",
+      "zh": "雕像表现的是什么？"
+    },
+    "answer": {
+      "es": "Representa la caída de Lucifer. El cuerpo en torsión es la clave para leer la escena.",
+      "en": "It depicts Lucifer’s fall. The twisted body conveys the movement of the scene.",
+      "zh": "它表现路西法坠落，扭转的身体是理解场景的关键。"
     }
   },
   {
@@ -375,6 +700,31 @@
       "author": "Jim Anzalone from U.S.A.",
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    "features": {
+      "es": "El remate vegetal y las figuras de piedra se leen a distintas alturas. La pieza del Retiro procede del programa monumental del paseo del Prado.",
+      "en": "The carved plant finial and stone figures sit on different levels. The Retiro piece comes from the monumental scheme for Paseo del Prado.",
+      "zh": "顶部植物造型与下层石雕人物分层布置。丽池公园内的这座喷泉源自普拉多大道的纪念性景观建设。"
+    },
+    "walk": {
+      "es": "Baja al extremo sur del Estanque Grande y busca la plaza de Honduras, en dirección a los pabellones.",
+      "en": "Go to the Great Pond’s south end and look for Plaza de Honduras on the way toward the pavilions.",
+      "zh": "走到大池南端，在通往展馆的方向寻找洪都拉斯广场。"
+    },
+    "photoSpot": {
+      "es": "Desde la plaza, toma primero el conjunto y luego acerca el encuadre al remate de alcachofa.",
+      "en": "Photograph the full fountain from the square, then frame the carved artichoke more tightly.",
+      "zh": "在广场先拍喷泉全貌，再拉近拍朝鲜蓟顶部。"
+    },
+    "question": {
+      "es": "¿La fuente de Atocha es esta misma?",
+      "en": "Is the fountain at Atocha this one?",
+      "zh": "阿托查的喷泉是同一座吗？"
+    },
+    "answer": {
+      "es": "La histórica que describe esta guía está en el Retiro. Atocha tiene otra versión en su glorieta.",
+      "en": "This guide is for the historic fountain in Retiro. Atocha has a separate version in its roundabout.",
+      "zh": "本页介绍丽池公园里的历史喷泉。阿托查广场另有一座版本。"
     }
   },
   {
@@ -402,6 +752,31 @@
       "author": "Américo Toledano",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "features": {
+      "es": "Las pequeñas figuras de tortugas se concentran en la parte baja. El conjunto también conserva el nombre de Isabel II.",
+      "en": "The small turtle figures are clustered low on the fountain. The monument is also known as the Isabella II Fountain.",
+      "zh": "小型龟雕集中在喷泉下部，这座喷泉也称伊莎贝尔二世喷泉。"
+    },
+    "walk": {
+      "es": "Desde la Puerta de la Independencia, avanza hacia el Estanque Grande por el paseo de México hasta la plaza de Nicaragua.",
+      "en": "From the Independence Gate, follow Paseo de México toward the Great Pond and Plaza de Nicaragua.",
+      "zh": "从独立门沿墨西哥大道向大池走，到尼加拉瓜广场。"
+    },
+    "photoSpot": {
+      "es": "Fotografía cerca del borde de la pila, a la altura de las tortugas.",
+      "en": "Shoot from beside the basin at the level of the turtles.",
+      "zh": "站在水池外沿，用接近龟雕高度的机位拍细节。"
+    },
+    "question": {
+      "es": "¿Hay tortugas vivas en la fuente?",
+      "en": "Are there live turtles in the fountain?",
+      "zh": "这里的海龟是活的吗？"
+    },
+    "answer": {
+      "es": "El nombre alude a las tortugas esculpidas en la fuente.",
+      "en": "The name refers to the sculpted turtles on the fountain.",
+      "zh": "名称来自喷泉上的龟形雕刻。"
     }
   },
   {
@@ -429,6 +804,31 @@
       "author": "losmininos",
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    "features": {
+      "es": "El vaso de varios lóbulos y la rocalla central son las pistas visibles del antiguo jardín real. Las campanillas dieron nombre al estanque.",
+      "en": "The lobed basin and central rockwork are visible traces of the former royal garden. The pond takes its name from bells that once hung above it.",
+      "zh": "多瓣形池岸和中央叠石让人辨认出旧王家花园的格局。过去曾挂在池心上方的铃铛为水池留下了名字。"
+    },
+    "walk": {
+      "es": "Desde el Parterre, rodea su lado norte y sigue el paseo del Paraguay hasta la barandilla del estanque.",
+      "en": "From the Parterre, round its north side and follow Paseo del Paraguay to the pond railing.",
+      "zh": "从法式花园沿北侧绕行，再沿巴拉圭大道走到水池栏杆。"
+    },
+    "photoSpot": {
+      "es": "Busca un ángulo elevado desde el paseo para mostrar varios lóbulos a la vez.",
+      "en": "Find a slightly elevated angle on the path to show several lobes at once.",
+      "zh": "从步道稍高处取景，让多个瓣形池缘同时入镜。"
+    },
+    "question": {
+      "es": "¿Todavía quedan las campanillas originales?",
+      "en": "Are the original bells still there?",
+      "zh": "原来的铃铛还在吗？"
+    },
+    "answer": {
+      "es": "El nombre recuerda aquella estructura desaparecida. Hoy se observan el vaso y la rocalla.",
+      "en": "The name recalls a vanished structure. The basin and rockwork are visible today.",
+      "zh": "名字纪念已经消失的池心构筑物，如今可观察池岸和叠石。"
     }
   },
   {
@@ -456,6 +856,31 @@
       "author": "Américo Toledano",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "features": {
+      "es": "La fachada historicista y las dos esfinges se distinguen mejor desde el paseo. La fuente se concibió en relación con la lámina de agua del Estanque Grande.",
+      "en": "The historicist façade and twin sphinxes are easiest to see from the path. The fountain was designed as part of the Great Pond’s setting.",
+      "zh": "从步道更容易看清历史主义风格立面和两座狮身人面像。喷泉的设计与旁边的大池水面相呼应。"
+    },
+    "walk": {
+      "es": "Desde la plaza de Honduras, sigue la orilla sur del Estanque Grande en busca del frente de piedra.",
+      "en": "From Plaza de Honduras, follow the Great Pond’s south bank to the stone façade.",
+      "zh": "从洪都拉斯广场沿大池南岸走，寻找石砌立面。"
+    },
+    "photoSpot": {
+      "es": "Toma una foto frontal para mostrar la simetría y otra de lado para distinguir las figuras.",
+      "en": "Start head-on for symmetry and move sideways to distinguish the figures.",
+      "zh": "先从正面拍出对称关系，再到侧面表现雕像轮廓。"
+    },
+    "question": {
+      "es": "¿Dónde se ven mejor las esfinges?",
+      "en": "Where can I see the sphinxes best?",
+      "zh": "在哪里最容易看到两座雕像？"
+    },
+    "answer": {
+      "es": "Desde la orilla sur se distingue el frente completo. Un paso lateral separa las figuras del fondo.",
+      "en": "The south-bank path shows the complete façade. Step sideways to separate the figures from the background.",
+      "zh": "南岸步道上能看到完整立面，向侧边移动可让雕像与背景错开。"
     }
   },
   {
@@ -483,6 +908,31 @@
       "author": "Jose Luis Cernadas Iglesias from Coruña, España",
       "license": "CC BY 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    },
+    "features": {
+      "es": "Los pedestales repetidos convierten la avenida arbolada en una galería de escultura al aire libre. Las figuras se hicieron para el Palacio Real.",
+      "en": "Repeated pedestals turn the tree-lined avenue into an open-air sculpture gallery. The figures were made for the Royal Palace.",
+      "zh": "重复排列的基座把林荫大道变成露天雕塑长廊，雕像原为王宫制作。"
+    },
+    "walk": {
+      "es": "Entra por la Puerta de España y sigue recto por el paseo de la Argentina entre las dos filas de estatuas.",
+      "en": "Enter through Puerta de España and continue along Paseo de la Argentina between the two lines of statues.",
+      "zh": "从西班牙门入园，沿阿根廷大道在两列雕像之间直走。"
+    },
+    "photoSpot": {
+      "es": "Busca una vista longitudinal desde un lateral para evitar bloquear el paso.",
+      "en": "Shoot along the avenue from the side to keep the walking line clear.",
+      "zh": "站在步道一侧沿大道纵向构图，给行人留出通道。"
+    },
+    "question": {
+      "es": "¿Es lo mismo que el paseo de la Argentina?",
+      "en": "Is this the same as Paseo de la Argentina?",
+      "zh": "雕像大道就是阿根廷大道吗？"
+    },
+    "answer": {
+      "es": "Sí, la alineación escultórica da al paseo de la Argentina su nombre popular.",
+      "en": "Yes. The line of sculptures gives Paseo de la Argentina its popular name.",
+      "zh": "是的，阿根廷大道因两旁成列的雕塑而获此俗称。"
     }
   },
   {
@@ -510,6 +960,38 @@
       "author": "LBM1948",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "features": {
+      "es": "La gran anchura del paseo de Fernán Núñez responde a su uso histórico para carruajes. Compara su sección con las sendas vecinas.",
+      "en": "Paseo de Fernán Núñez is unusually wide because it was laid out for carriages. Compare it with the adjacent garden paths.",
+      "zh": "费尔南·努涅斯大道原供马车通行，路面比周围的小径宽，适合现场比较两者尺度。"
+    },
+    "walk": {
+      "es": "Entra desde O’Donnell y recorre el eje hacia el sector de la antigua Casa de Fieras.",
+      "en": "Enter from O’Donnell and follow the avenue toward the former zoo precinct.",
+      "zh": "从奥唐奈街入口进入，沿大道走向旧动物园区域。"
+    },
+    "photoSpot": {
+      "es": "Desde un lateral, usa las hileras de árboles como líneas de fuga.",
+      "en": "From the side, use the rows of trees as leading lines.",
+      "zh": "从大道一侧利用整齐树列形成透视。"
+    },
+    "question": {
+      "es": "¿La foto muestra el paseo actual?",
+      "en": "Does the photo show the avenue today?",
+      "zh": "照片拍的是现在的样子吗？"
+    },
+    "answer": {
+      "es": "La imagen de 1976 es de archivo y documenta el antiguo tráfico rodado.",
+      "en": "The 1976 archive photograph documents the avenue when it carried motor traffic.",
+      "zh": "这是1976年的档案照片，记录了当时汽车仍可走这条道路的景象。"
+    },
+    "walkPhoto": {
+      "src": "/nearby/paseo-de-coches-walk.webp",
+      "source": "https://commons.wikimedia.org/wiki/File:Parque_del_Buen_Retiro,_Madrid_-_misc_2.JPG",
+      "author": "Daderot",
+      "license": "Public domain",
+      "licenseUrl": ""
     }
   },
   {
@@ -537,6 +1019,31 @@
       "author": "Alberto-g-rovi",
       "license": "CC BY 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+    },
+    "features": {
+      "es": "Mariano Benlliure compuso el monumento en torno al contraste entre el caballo, el uniforme del jinete y el pedestal con relieves.",
+      "en": "Mariano Benlliure’s design contrasts the horse and uniformed rider with the reliefs on the pedestal.",
+      "zh": "马里亚诺·贝尼柳雷用骑马者的军装、马的轮廓与基座浮雕构成视觉对比。"
+    },
+    "walk": {
+      "es": "Desde el paseo de Coches, toma la conexión señalizada hacia la plaza de Guatemala.",
+      "en": "From the Carriage Drive, take the connecting path toward Plaza de Guatemala.",
+      "zh": "从马车大道沿连接步道走到危地马拉广场。"
+    },
+    "photoSpot": {
+      "es": "Fotografía al caballo de perfil y luego rodea la base para buscar los relieves.",
+      "en": "Photograph the horse in profile, then circle the base to find the reliefs.",
+      "zh": "先拍马的侧面，再绕基座查看浮雕。"
+    },
+    "question": {
+      "es": "¿Es la estatua ecuestre de Alfonso XII?",
+      "en": "Is this the Alfonso XII equestrian statue?",
+      "zh": "这是阿方索十二世骑马像吗？"
+    },
+    "answer": {
+      "es": "Esta figura retrata a Martínez Campos. El monumento a Alfonso XII se alza junto al Estanque Grande.",
+      "en": "This figure portrays Martínez Campos. The Alfonso XII monument stands beside the Great Pond.",
+      "zh": "这里的人物是马丁内斯·坎波斯。阿方索十二世纪念碑在大池边。"
     }
   },
   {
@@ -564,6 +1071,31 @@
       "author": "Javier Perez Montes",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "features": {
+      "es": "Victorio Macho dispuso la figura reclinada y los relieves junto a un vaso alargado. La horizontalidad es el rasgo que distingue la composición.",
+      "en": "Victorio Macho placed the reclining figure and reliefs next to an elongated basin. The composition is notably horizontal.",
+      "zh": "维克托里奥·马乔用斜卧人物、浮雕和长水池构成低平的横向布局。"
+    },
+    "walk": {
+      "es": "Desde la plaza de Honduras, sigue el paseo de Venezuela y busca la figura reclinada junto al vaso.",
+      "en": "From Plaza de Honduras, follow Paseo de Venezuela and look for the reclining figure by the basin.",
+      "zh": "从洪都拉斯广场沿委内瑞拉大道走，在水池旁寻找斜卧人物像。"
+    },
+    "photoSpot": {
+      "es": "Desde una esquina del vaso, incluye el borde largo y la escultura en la misma diagonal.",
+      "en": "From a corner of the basin, align its long edge and the sculpture on a diagonal.",
+      "zh": "在池角取景，让池边长线和雕像进入同一条对角线。"
+    },
+    "question": {
+      "es": "¿El monumento está dedicado a un militar?",
+      "en": "Does this monument honour a military figure?",
+      "zh": "这座纪念碑纪念的是军人吗？"
+    },
+    "answer": {
+      "es": "Está dedicado a Santiago Ramón y Cajal, conocido por sus investigaciones sobre el sistema nervioso.",
+      "en": "It honours Santiago Ramón y Cajal, known for his research on the nervous system.",
+      "zh": "它纪念以神经系统研究闻名的圣地亚哥·拉蒙-卡哈尔。"
     }
   },
   {
@@ -591,6 +1123,31 @@
       "author": "Carlos Delgado",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "features": {
+      "es": "El paisaje plantado funciona como memorial. La forma del terreno ayuda a entenderlo como conjunto y no como una escultura aislada.",
+      "en": "The planted landscape serves as the memorial. The shape of the ground makes it read as a whole rather than as a single sculpture.",
+      "zh": "纪念本身由地形和成片树木承担，沿边缘看才能理解它作为一个整体的布局。"
+    },
+    "walk": {
+      "es": "Desde la puerta de Murillo, cruza los caminos de los Planteles hasta el memorial.",
+      "en": "Enter through the Murillo gate and follow the Planteles paths to the memorial.",
+      "zh": "从穆里略门进入，穿过普兰特莱斯花园的小径到纪念林。"
+    },
+    "photoSpot": {
+      "es": "Elige una vista amplia desde fuera y evita incluir a personas que estén rindiendo homenaje.",
+      "en": "Choose a wide view from the perimeter and avoid photographing people paying their respects.",
+      "zh": "从外围取广景，避开正在悼念的人。"
+    },
+    "question": {
+      "es": "¿Qué hecho recuerda el bosque?",
+      "en": "What does the forest commemorate?",
+      "zh": "纪念林纪念什么？"
+    },
+    "answer": {
+      "es": "Es un lugar de memoria por las víctimas de los atentados del 11 de marzo de 2004.",
+      "en": "It commemorates the victims of the attacks of 11 March 2004.",
+      "zh": "纪念2004年3月11日袭击的遇难者。"
     }
   },
   {
@@ -618,6 +1175,31 @@
       "author": "Fernando Pascullo",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "features": {
+      "es": "El arco neoclásico diseñado por Sabatini presenta relieves y ornamentos distintos en cada frente. Conviene mirar ambas caras.",
+      "en": "Sabatini’s neoclassical gate has different reliefs and ornaments on its two faces. Compare both sides.",
+      "zh": "萨巴蒂尼设计的新古典主义城门两面各有不同的浮雕和装饰，值得从两边对照。"
+    },
+    "walk": {
+      "es": "Sal del metro Retiro hacia la plaza de la Independencia y recorre su perímetro por los pasos de peatones.",
+      "en": "Exit Retiro metro for Plaza de la Independencia and follow the perimeter using pedestrian crossings.",
+      "zh": "从丽池站出站前往独立广场，沿外围人行道和斑马线绕行。"
+    },
+    "photoSpot": {
+      "es": "Encuadra la puerta desde una acera amplia y usa un plano más cerrado para aislar las esculturas superiores.",
+      "en": "Frame the gate from a broad pavement and use a tighter composition for the sculptures at the top.",
+      "zh": "在宽阔人行道上拍城门全貌，再拉近拍顶部雕刻。"
+    },
+    "question": {
+      "es": "¿Se puede caminar bajo los arcos?",
+      "en": "Can I walk beneath the arches?",
+      "zh": "能走到拱门下面吗？"
+    },
+    "answer": {
+      "es": "El monumento se observa desde las aceras que rodean la glorieta. Utiliza los cruces señalizados.",
+      "en": "View the monument from pavements around the roundabout and use marked crossings.",
+      "zh": "从环岛外围人行道观赏，过街走标线通道。"
     }
   },
   {
@@ -645,6 +1227,31 @@
       "author": "Gryffindor",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "features": {
+      "es": "La verja encuadra el acceso al jardín formal. Al mirar hacia la calle, el eje del jardín continúa visualmente hacia el Casón.",
+      "en": "The iron gate frames the formal garden entrance. Looking out, its axis continues visually toward the Casón.",
+      "zh": "铁艺门框住法式花园入口。从园内向街道望，花园中轴在视觉上延伸到旧舞厅。"
+    },
+    "walk": {
+      "es": "Desde la calle de Felipe IV, cruza Alfonso XII por el paso señalizado y entra por la puerta del Parterre.",
+      "en": "From Calle de Felipe IV, use the marked crossing on Alfonso XII and enter through the Parterre gate.",
+      "zh": "从费利佩四世街经斑马线横过阿方索十二世街，由古门进入法式花园。"
+    },
+    "photoSpot": {
+      "es": "Fotografía desde un lado del umbral para superponer la verja y la fachada del Casón.",
+      "en": "Shoot from beside the threshold to layer the gate and the Casón façade.",
+      "zh": "站在门槛一侧拍，用铁门与旧舞厅立面形成前后层次。"
+    },
+    "question": {
+      "es": "¿Es la entrada de la Puerta de Alcalá?",
+      "en": "Is this the park entrance by Puerta de Alcalá?",
+      "zh": "这是阿尔卡拉门旁边的公园入口吗？"
+    },
+    "answer": {
+      "es": "Esta entrada da al Parterre desde Alfonso XII. Puerta de Alcalá está en la plaza de la Independencia.",
+      "en": "This entrance leads from Alfonso XII into the Parterre. Puerta de Alcalá stands at Plaza de la Independencia.",
+      "zh": "这里从阿方索十二世街通往法式花园。阿尔卡拉门位于独立广场。"
     }
   },
   {
@@ -672,6 +1279,31 @@
       "author": "Daderot",
       "license": "Public domain",
       "licenseUrl": ""
+    },
+    "features": {
+      "es": "La hilera de pequeñas casetas convierte la pendiente en un corredor de librerías. Los rótulos y los libros expuestos forman parte del paisaje de la calle.",
+      "en": "A row of small stalls turns the slope into a booksellers’ corridor. Shop signs and outdoor displays shape the streetscape.",
+      "zh": "小书亭沿斜坡形成一条书市走廊，招牌和临街陈列都是街景的一部分。"
+    },
+    "walk": {
+      "es": "Desde Estación del Arte, acércate al extremo bajo de Claudio Moyano y sube hacia Alfonso XII.",
+      "en": "From Estación del Arte, start at the lower end of Calle de Claudio Moyano and walk uphill toward Alfonso XII.",
+      "zh": "从艺术站到克劳迪奥·莫亚诺街低端，沿坡向阿方索十二世街走。"
+    },
+    "photoSpot": {
+      "es": "Desde abajo, fotografía la sucesión de casetas a lo largo de la pendiente.",
+      "en": "From the lower end, photograph the stalls receding uphill.",
+      "zh": "从低处沿坡向上拍，让成列书亭向远处延伸。"
+    },
+    "question": {
+      "es": "¿Abren todas las casetas a la vez?",
+      "en": "Do all stalls open together?",
+      "zh": "书摊会同时开门吗？"
+    },
+    "answer": {
+      "es": "Cada librero fija su horario, por lo que la oferta visible cambia durante el día.",
+      "en": "Each bookseller sets their hours, so the stalls open for browsing vary.",
+      "zh": "营业时间由各摊主决定，不同时段开放的书摊会有变化。"
     }
   },
   {
@@ -699,6 +1331,31 @@
       "author": "FDV",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "features": {
+      "es": "Los caminos, parterres y terrazas permiten comparar plantas etiquetadas en distintos niveles. El desnivel organiza la propia visita.",
+      "en": "Paths, beds and terraces let you compare labelled plants on different levels. The rise in ground gives the visit its sequence.",
+      "zh": "分层台地通过步道和花坛串联，不同高度陈列带标签的植物；自下而上走最容易看清布局。"
+    },
+    "walk": {
+      "es": "Entra por plaza de Murillo, recorre los primeros parterres y sube por el eje de las terrazas.",
+      "en": "Enter from Plaza de Murillo, walk the lower beds and continue up the main terrace paths.",
+      "zh": "从穆里略广场入园，先走低处花坛，再沿主要步道逐层上行。"
+    },
+    "photoSpot": {
+      "es": "Desde un descanso entre terrazas, fotografía hacia abajo para mostrar la geometría de los parterres.",
+      "en": "From a terrace landing, look downhill to capture the geometry of the beds.",
+      "zh": "在台地间的平台向下拍，展现花坛的几何布局。"
+    },
+    "question": {
+      "es": "¿La entrada al invernadero sigue el horario general?",
+      "en": "Do greenhouses follow the garden’s general hours?",
+      "zh": "温室开放和园区一致吗？"
+    },
+    "answer": {
+      "es": "Consulta con el jardín qué invernaderos se pueden visitar y en qué condiciones.",
+      "en": "Check with the garden for which greenhouses are open and how to enter.",
+      "zh": "请查园方公告，确认具体开放的温室和进入条件。"
     }
   },
   {
@@ -726,6 +1383,31 @@
       "author": "Emilio J. Rodríguez Posada",
       "license": "CC BY-SA 2.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    },
+    "features": {
+      "es": "La fachada de Velázquez permite leer la arquitectura neoclásica de Villanueva. El pórtico y la escalinata ofrecen un punto de partida antes de entrar en las salas.",
+      "en": "The Velázquez façade shows Villanueva’s neoclassical design. Its portico and steps are useful landmarks before heading inside.",
+      "zh": "委拉斯开兹门立面体现比利亚努埃瓦的新古典主义设计，门廊和台阶是入馆前辨认主建筑的地标。"
+    },
+    "walk": {
+      "es": "Desde el paseo del Prado, observa la fachada y gira hacia Ruiz de Alarcón si tu entrada indica ese lado.",
+      "en": "View the façade from Paseo del Prado, then turn toward Ruiz de Alarcón if your ticket directs you there.",
+      "zh": "从普拉多大道看建筑正面，若门票注明从鲁伊斯·德·阿拉尔孔街进馆，再绕到该侧。"
+    },
+    "photoSpot": {
+      "es": "Toma la fachada con el pórtico centrado desde un punto permitido del paseo.",
+      "en": "Use a spot on the promenade to frame the façade with its portico centred.",
+      "zh": "在普拉多大道允许停留处拍正面，让门廊居中。"
+    },
+    "question": {
+      "es": "¿La fachada de Velázquez siempre es el acceso?",
+      "en": "Is the Velázquez façade always the entrance?",
+      "zh": "委拉斯开兹门一定是入馆口吗？"
+    },
+    "answer": {
+      "es": "El museo indica la puerta de acceso en las instrucciones de visita o de reserva.",
+      "en": "Follow the entrance named in the museum’s visitor or booking instructions.",
+      "zh": "按馆方参观说明或预约单所指定的入口走。"
     }
   },
   {
@@ -753,6 +1435,31 @@
       "author": "Rowanwindwhistler",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "features": {
+      "es": "Las torres y la escalinata visibles desde Moreto sitúan la iglesia sobre el entorno del Prado. La iglesia conserva la memoria del antiguo monasterio.",
+      "en": "The towers and staircase visible from Moreto place the church above the Prado precinct. The church recalls the former monastery.",
+      "zh": "从莫雷托街可看教堂双塔与台阶高出普拉多周边地面。教堂延续了旧修道院的历史记忆。"
+    },
+    "walk": {
+      "es": "Desde Ruiz de Alarcón, gira hacia Moreto y acércate a la base de la escalinata.",
+      "en": "From Ruiz de Alarcón, turn onto Moreto and walk to the foot of the staircase.",
+      "zh": "从鲁伊斯·德·阿拉尔孔街转入莫雷托街，走到教堂台阶下。"
+    },
+    "photoSpot": {
+      "es": "Usa el inicio de la escalera como primer plano, dejando libre el acceso al culto.",
+      "en": "Use the foot of the steps as foreground while keeping the worship entrance clear.",
+      "zh": "用台阶作为前景，同时给进出教堂的人留出通道。"
+    },
+    "question": {
+      "es": "¿Se puede entrar durante una celebración?",
+      "en": "Can I visit during a service?",
+      "zh": "举行礼拜时能入内参观吗？"
+    },
+    "answer": {
+      "es": "Respeta el culto. Si se está celebrando, puedes ver el exterior y volver después.",
+      "en": "Respect worship. View the exterior and return after the service.",
+      "zh": "礼拜期间可先看外观，结束后再按堂区安排参观。"
     }
   },
   {
@@ -780,6 +1487,31 @@
       "author": "Fernando",
       "license": "CC BY-SA 4.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    },
+    "features": {
+      "es": "El antiguo salón de baile conserva su condición de pieza del palacio desaparecido. Hoy su fachada oriental dialoga con el eje del Parterre.",
+      "en": "The former ballroom survives from the largely vanished palace. Its east façade faces the axis of the Parterre.",
+      "zh": "旧舞厅是大部分已不存的丽池宫遗构，其东立面与法式花园中轴相对。"
+    },
+    "walk": {
+      "es": "Sal del Parterre por Felipe IV, cruza Alfonso XII por el paso y mira hacia la fachada del Casón.",
+      "en": "Leave the Parterre through Felipe IV, cross Alfonso XII at the marked crossing and look toward the Casón façade.",
+      "zh": "走出费利佩四世门，经斑马线穿过阿方索十二世街，正对旧舞厅立面。"
+    },
+    "photoSpot": {
+      "es": "Desde la acera del parque, busca un encuadre frontal con toda la fachada.",
+      "en": "From the park-side pavement, find a frontal view of the entire façade.",
+      "zh": "在靠公园一侧的人行道拍摄对面的完整正立面。"
+    },
+    "question": {
+      "es": "¿La entrada general del Prado da acceso al Casón?",
+      "en": "Does general Prado admission include access to the Casón?",
+      "zh": "普拉多普通门票能进旧舞厅吗？"
+    },
+    "answer": {
+      "es": "Consulta por separado la programación de visitas guiadas y las condiciones de la biblioteca.",
+      "en": "Check the Casón’s guided visits and library access separately.",
+      "zh": "请单独核对旧舞厅的导览安排和图书馆入内条件。"
     }
   },
   {
@@ -807,6 +1539,31 @@
       "author": "Luis García ( Zaqarbal )",
       "license": "GFDL",
       "licenseUrl": "http://www.gnu.org/copyleft/fdl.html"
+    },
+    "features": {
+      "es": "Los interiores de época reúnen piezas en contexto: muebles, tejidos y cerámicas ayudan a leer cómo se organizaban las habitaciones.",
+      "en": "Period interiors set objects in context: furniture, fabrics and ceramics show how rooms were arranged.",
+      "zh": "历史陈设把家具、织物和陶瓷放在具体居室情境里，能看懂不同年代房间的布置方式。"
+    },
+    "walk": {
+      "es": "Desde Cibeles, sube hacia Montalbán y busca el portal del número 12.",
+      "en": "From Cibeles, walk uphill toward Calle de Montalbán and look for the entrance at number 12.",
+      "zh": "从西贝莱斯广场步行上坡到蒙塔尔班街，找12号入口。"
+    },
+    "photoSpot": {
+      "es": "Desde la acera opuesta, fotografía la fachada antes de consultar las reglas de imagen del museo.",
+      "en": "Photograph the façade from the pavement opposite, then check the museum’s indoor photography rules.",
+      "zh": "可先从街对面拍外观，入馆后按馆方摄影规则操作。"
+    },
+    "question": {
+      "es": "¿Hay solo cerámica en la colección?",
+      "en": "Is the collection limited to ceramics?",
+      "zh": "馆藏只有陶瓷吗？"
+    },
+    "answer": {
+      "es": "También incluye textiles, muebles y otros objetos de uso cotidiano de distintas épocas.",
+      "en": "It also includes textiles, furniture and everyday objects from different periods.",
+      "zh": "还有纺织品、家具和不同时期的日用器物。"
     }
   },
   {
@@ -834,6 +1591,31 @@
       "author": "Carlos Delgado",
       "license": "CC BY-SA 3.0",
       "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    },
+    "features": {
+      "es": "La fachada del antiguo Palacio de Comunicaciones reúne torres y ornamentación sobre la plaza. El edificio alberga hoy usos municipales y culturales.",
+      "en": "Towers and ornament on the former communications palace overlook the square. The building now houses municipal and cultural functions.",
+      "zh": "原通信宫的塔楼与装饰立面面向西贝莱斯广场，如今建筑兼作市政办公和文化活动空间。"
+    },
+    "walk": {
+      "es": "Sal de Banco de España hacia Cibeles y utiliza los cruces señalizados para llegar al número 1 de la plaza.",
+      "en": "Exit Banco de España for Cibeles and use marked crossings to reach number 1 on the square.",
+      "zh": "从西班牙银行站出站往西贝莱斯广场，经斑马线到广场1号。"
+    },
+    "photoSpot": {
+      "es": "Desde la acera de enfrente, usa un plano amplio para incluir las torres y el frente completo.",
+      "en": "From the opposite pavement, use a wide frame to include the towers and the full façade.",
+      "zh": "从对侧人行道用广角同时拍到塔楼和完整正面。"
+    },
+    "question": {
+      "es": "¿El mirador funciona como las salas de exposición?",
+      "en": "Does the lookout operate like the exhibition galleries?",
+      "zh": "观景台和展厅的开放安排一样吗？"
+    },
+    "answer": {
+      "es": "CentroCentro publica condiciones separadas para el mirador, las exposiciones y otras actividades.",
+      "en": "CentroCentro lists separate conditions for the lookout, exhibitions and other activities.",
+      "zh": "CentroCentro 分别公布观景台、展览及其他活动的开放和入场条件。"
     }
   }
 ]
