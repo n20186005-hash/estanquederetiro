@@ -133,14 +133,14 @@ const venues: Record<string, Access> = {
   },
   'real-jardin-botanico': {
     manager: ['Real Jardín Botánico (CSIC)', 'Royal Botanical Garden (CSIC)', '西班牙国家研究委员会皇家植物园'],
-    hours: ['El cierre varía según el mes. Consulta el horario del jardín.', 'Closing times vary by month. Check the garden calendar.', '闭园时间随月份变化，以园方日历为准。'],
-    admission: ['Entrada de pago con excepciones publicadas por el jardín.', 'Ticketed entry, with exceptions listed by the garden.', '一般需购票，免费时段和人群以园方说明为准。'],
+    hours: ['Abre a las 10:00. Cierra a las 18:00 de noviembre a febrero, a las 19:00 en marzo y octubre, a las 20:00 en abril y septiembre, y a las 21:00 de mayo a agosto. Consulta los cierres especiales.', 'Opens at 10:00. Closes at 18:00 November–February, 19:00 in March and October, 20:00 in April and September, and 21:00 May–August. Check special closures.', '每日通常 10:00 开园。11–2 月 18:00 闭园，3 月和 10 月 19:00，4 月和 9 月 20:00，5–8 月 21:00。特殊闭园日请查园方日历。'],
+    admission: ['Entrada general al jardín: 4 €. Algunas exposiciones llevan suplemento. Consulta reducciones y gratuidades.', 'Standard garden admission: €4. Some exhibitions carry a surcharge. Check reduced and free admission.', '花园普通票 €4，部分展览另收费。优惠票和免费入场条件请查园方说明。'],
     source: 'https://rjb.csic.es/',
   },
   'museo-del-prado': {
     manager: ['Museo Nacional del Prado', 'Museo Nacional del Prado', '普拉多国家博物馆'],
-    hours: ['Consulta el calendario de visita y los horarios especiales.', 'Check the visitor calendar and holiday hours.', '参观前查看馆方日历与节日开放时间。'],
-    admission: ['Entrada de pago con franjas gratuitas según el museo.', 'Ticketed entry with free slots listed by the museum.', '一般需购票，馆方另公布免费入场时段。'],
+    hours: ['Lunes a sábado 10:00–20:00. Domingos y festivos 10:00–19:00. Consulta cierres y horarios especiales.', 'Monday–Saturday 10:00–20:00. Sundays and public holidays 10:00–19:00. Check closures and special hours.', '周一至周六 10:00–20:00，周日及公共假日通常为 10:00–19:00。闭馆日及缩短开放日请查馆方日历。'],
+    admission: ['Entrada general: 15 €. El museo publica tarifas reducidas y franjas gratuitas.', 'Standard admission: €15. The museum lists reduced prices and free time slots.', '普通票 €15。优惠票与免费入场时段由馆方公布。'],
     source: 'https://www.museodelprado.es/visita-el-museo',
   },
   'san-jeronimo-el-real': {
@@ -157,9 +157,9 @@ const venues: Record<string, Access> = {
   },
   'museo-de-artes-decorativas': {
     manager: ['Ministerio de Cultura · Museo Nacional de Artes Decorativas', 'Ministry of Culture · National Museum of Decorative Arts', '西班牙文化部国家装饰艺术博物馆'],
-    hours: ['Consulta el horario oficial y las salas abiertas.', 'Check official hours and open galleries.', '参观前核对馆方开放时间和展厅。'],
+    hours: ['Martes a sábado 09:30–15:00. Domingos y festivos de apertura 10:00–15:00. Algunos jueves 17:00–20:00. Consulta cierres y salas abiertas.', 'Tuesday–Saturday 09:30–15:00. Sundays and public holidays when open 10:00–15:00. Selected Thursdays 17:00–20:00. Check closures and galleries.', '周二至周六 09:30–15:00，周日及开放的节假日 10:00–15:00，部分周四加开 17:00–20:00。参观前请核对闭馆日及开放展厅。'],
     admission: ['Consulta tarifas, gratuidades y exposiciones en el museo.', 'Check museum ticket prices, exemptions and exhibitions.', '票价、免费安排与展览以馆方公布为准。'],
-    source: 'https://www.cultura.gob.es/mnartesdecorativas/visita/horarios-y-tarifas.html',
+    source: 'https://www.cultura.gob.es/mnartesdecorativas/visita/horario-tarifas.html',
   },
   'palacio-de-cibeles': {
     manager: ['Ayuntamiento de Madrid · CentroCentro', 'Madrid City Council · CentroCentro', '马德里市政府与 CentroCentro 文化中心'],

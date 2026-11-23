@@ -1,11 +1,13 @@
 import Image from 'next/image';
-import { ArrowRight, MapPin, Star } from 'lucide-react';
+import { ArrowRight, MapPin, Star, TrainFront } from 'lucide-react';
+import type { ReactNode } from 'react';
+import { guideLabels, nearbyStays, placeKinds, suggestedDuration } from '@/lib/nearby-guide';
 import { getNearby, getVisitInfo, nearbyPlaces } from '@/lib/nearby';
 import type { TopicLocale } from '@/lib/topics';
 import { visitLabels } from '@/lib/visit';
 import Footer from './Footer';
 import PhotoCredit from './PhotoCredit';
-import VisitDetails from './VisitDetails';
+
 
 export function NearbyLinks({ locale }: { locale: TopicLocale }) {
   const labels = visitLabels[locale];
@@ -30,11 +32,29 @@ export function NearbyLinks({ locale }: { locale: TopicLocale }) {
   );
 }
 
+function GuideSection({ title, id, children }: { title: string; id?: string; children: ReactNode }) {
+  return (
+    <section id={id} className="scroll-mt-8">
+      <h2 className="font-display text-2xl sm:text-3xl font-semibold mb-3">{title}</h2>
+      <div className="space-y-3 leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{children}</div>
+    </section>
+  );
+}
+
 export function NearbyPage({ place, locale }: { place: (typeof nearbyPlaces)[number]; locale: TopicLocale }) {
   const labels = visitLabels[locale];
+  const guide = guideLabels[locale];
   const title = place.title[locale];
   const visit = getVisitInfo(place.slug, locale);
   const next = getNearby(place.next)!;
+  const rows = [
+    [guide.name, place.title.es],
+    [guide.type, placeKinds[place.kind][locale]],
+    [guide.management, visit.manager],
+    [labels.address, visit.address],
+    [labels.metro, visit.station],
+    [guide.visitTime, suggestedDuration(place.slug, place.kind, locale)],
+  ];
   return (
     <>
       <main style={{ background: 'var(--bg-primary)' }}>
@@ -44,33 +64,60 @@ export function NearbyPage({ place, locale }: { place: (typeof nearbyPlaces)[num
           <div className="relative w-full max-w-5xl mx-auto px-5 sm:px-8 py-10">
             <a href={`/${locale}#nearby`} className="inline-block mb-6 text-sm underline underline-offset-4">{labels.nearby}</a>
             <h1 className="font-display text-4xl sm:text-6xl font-semibold mb-4">{title}</h1>
-            <p className="max-w-3xl text-base sm:text-lg mb-4 leading-relaxed">{place.history[locale]}</p>
+            <p className="max-w-3xl text-base sm:text-lg mb-4 leading-relaxed">{place.tagline[locale]}</p>
             <p className="text-sm mb-3">{labels.hours} · {visit.hours}</p>
             <div className="flex flex-wrap gap-x-5 gap-y-2">
               <a href={visit.map} className="inline-flex items-center gap-2 text-sm underline underline-offset-4">
                 <MapPin size={18} aria-hidden="true" className="shrink-0" /> {visit.address}
               </a>
               <a href="#visitor-reviews" className="inline-flex items-center gap-2 text-sm underline underline-offset-4">
-                <Star size={17} aria-hidden="true" /> {labels.reviews}
+                <Star size={17} aria-hidden="true" /> {guide.reviews}
               </a>
             </div>
           </div>
         </section>
         <div className="max-w-3xl mx-auto px-5 sm:px-8 py-8 sm:py-12 space-y-8">
+          <p><PhotoCredit photo={place.photo} locale={locale} archive={place.slug === 'paseo-de-coches'} /></p>
+          <GuideSection title={guide.intro} id="introduction">
+            <p>{place.history[locale]}</p>
+          </GuideSection>
+          <GuideSection title={labels.plan} id="visit-tips">
+            <p>{place.tips[locale]}</p>
+          </GuideSection>
+          <GuideSection title={guide.highlights} id="highlights">
+            <p>{place.features[locale]}</p>
+          </GuideSection>
           <section id="about" className="rounded-2xl p-6 sm:p-8" style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}>
             <h2 className="font-display text-2xl sm:text-3xl font-semibold mb-3">{labels.aboutPlace(title)}</h2>
             <p className="font-medium leading-relaxed">{labels.managedBy(visit.manager)}</p>
-            <p className="mt-3 leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{place.features[locale]}</p>
             <a className="inline-block mt-4 underline underline-offset-4" style={{ color: 'var(--accent)' }} href={visit.source}>{labels.official}</a>
           </section>
-          <p><PhotoCredit photo={place.photo} locale={locale} archive={place.slug === 'paseo-de-coches'} /></p>
-          <section>
-            <h2 className="font-display text-2xl font-semibold mb-3">{labels.plan}</h2>
-            <p className="leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{place.tips[locale]}</p>
-          </section>
-          <VisitDetails slug={place.slug} locale={locale} showManagement={false} />
-          <section>
-            <h2 className="font-display text-2xl font-semibold mb-3">{labels.walk}</h2>
+          <GuideSection title={labels.info} id="basic-info">
+            <dl className="divide-y rounded-2xl px-5" style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}>
+              {rows.map(([label, value]) => (
+                <div key={label} className="grid gap-1 py-3 sm:grid-cols-[12rem_1fr]" style={{ borderColor: 'var(--border-color)' }}>
+                  <dt className="font-semibold" style={{ color: 'var(--text-primary)' }}>{label}</dt>
+                  <dd>{value}</dd>
+                </div>
+              ))}
+            </dl>
+          </GuideSection>
+          <GuideSection title={labels.hours} id="opening-hours">
+            <p>{visit.hours}</p>
+          </GuideSection>
+          <GuideSection title={labels.tickets} id="admission">
+            <p>{visit.admission}</p>
+          </GuideSection>
+          <GuideSection title={labels.transit} id="transport">
+            <p className="flex items-center gap-2">
+              <TrainFront size={18} aria-hidden="true" className="shrink-0" /> {labels.approach(visit.station)}
+            </p>
+            <a href={visit.walkingMap} className="underline underline-offset-4" style={{ color: 'var(--accent)' }}>{labels.walkingMap}</a>
+          </GuideSection>
+          <GuideSection title={guide.experience} id="experience">
+            <p>{place.discovery[locale]}</p>
+          </GuideSection>
+          <GuideSection title={labels.walk} id="walking-route">
             <ol className="list-decimal pl-6 space-y-2 leading-relaxed" style={{ color: 'var(--text-secondary)' }}>
               <li>{labels.approach(visit.station)}</li>
               <li>{place.walk[locale]}</li>
@@ -78,25 +125,37 @@ export function NearbyPage({ place, locale }: { place: (typeof nearbyPlaces)[num
                 {labels.next} · {next.title[locale]}
               </a></li>
             </ol>
-            <a href={visit.walkingMap} className="inline-block mt-3 underline underline-offset-4" style={{ color: 'var(--accent)' }}>{labels.walkingMap}</a>
-          </section>
-          <section>
-            <h2 className="font-display text-2xl font-semibold mb-3">{labels.photoSpot}</h2>
-            <p className="leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{place.photoSpot[locale]}</p>
+          </GuideSection>
+          <GuideSection title={guide.notice} id="visit-notice">
+            <p>{place.notice[locale]}</p>
+            <h3 className="font-semibold" style={{ color: 'var(--text-primary)' }}>{labels.faq}</h3>
+            <details className="rounded-xl p-4" style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}>
+              <summary className="cursor-pointer font-medium" style={{ color: 'var(--text-primary)' }}>{place.question[locale]}</summary>
+              <p className="mt-3">{place.answer[locale]}</p>
+            </details>
+          </GuideSection>
+          <GuideSection title={labels.photoSpot} id="photo-spots">
+            <p>{place.photoSpot[locale]}</p>
             {place.walkPhoto && (
               <figure className="mt-4">
                 <Image src={place.walkPhoto.src} alt={title} width={960} height={720} unoptimized className="w-full h-auto rounded-2xl" />
                 <figcaption className="mt-2"><PhotoCredit photo={place.walkPhoto} locale={locale} /></figcaption>
               </figure>
             )}
-          </section>
-          <section>
-            <h2 className="font-display text-2xl font-semibold mb-3">{labels.faq}</h2>
-            <details className="rounded-xl p-4" style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}>
-              <summary className="cursor-pointer font-medium">{place.question[locale]}</summary>
-              <p className="mt-3 leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{place.answer[locale]}</p>
-            </details>
-          </section>
+          </GuideSection>
+          <GuideSection title={guide.stay} id="where-to-stay">
+            <p>{nearbyStays[place.stay][locale]}</p>
+          </GuideSection>
+          <GuideSection title={labels.reviews} id="visitor-reviews">
+            <p>{labels.reviewLink}</p>
+            <a href={visit.reviewMap} className="underline underline-offset-4" style={{ color: 'var(--accent)' }}>{labels.readReviews}</a>
+          </GuideSection>
+          <GuideSection title={guide.directions} id="location">
+            <address className="not-italic">{visit.address}</address>
+            <a href={visit.map} className="inline-flex items-center gap-2 underline underline-offset-4" style={{ color: 'var(--accent)' }}>
+              <MapPin size={18} aria-hidden="true" /> {labels.map}
+            </a>
+          </GuideSection>
           <section className="rounded-2xl p-6" style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}>
             <a href={`/${locale}#nearby`} className="inline-flex items-center gap-2 underline underline-offset-4">
               {labels.related} <ArrowRight size={17} aria-hidden="true" />

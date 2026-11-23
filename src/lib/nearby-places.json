@@ -49,6 +49,23 @@
       "es": "Son dos sedes distintas del Reina Sofía. Aquí el ladrillo y la cerámica dominan la fachada.",
       "en": "They are separate Reina Sofía venues. Brick and ceramic dominate the façade here.",
       "zh": "两处都是索菲亚王后艺术中心的展馆，各有独立馆舍。这里主要看砖墙和彩釉砖。"
+    },
+    "kind": "exhibition",
+    "stay": "east",
+    "tagline": {
+      "es": "Ladrillo, azulejos y arte contemporáneo junto al estanque",
+      "en": "Brickwork, glazed tiles and contemporary art by the pond",
+      "zh": "大池旁的砖砌展馆、彩釉砖与当代艺术"
+    },
+    "discovery": {
+      "es": "Busca los cambios de material entre el zócalo, los paños de ladrillo y las zonas cerámicas que rodean los arcos. La luz cenital explica por qué el pabellón funciona como sala de arte.",
+      "en": "Follow the changes from the base to the brick panels and ceramic surrounds of the arches. The overhead light helps explain why the pavilion works as an art gallery.",
+      "zh": "依次观察墙脚、砖墙和彩釉砖拱框，从拱顶天窗理解展馆如何利用自然光。"
+    },
+    "notice": {
+      "es": "Comprueba si hay montaje de exposición antes de contar con el interior.",
+      "en": "Check for exhibition installation dates before planning to go inside.",
+      "zh": "若计划入馆，先核对是否处于布展闭馆期。"
     }
   },
   {
@@ -101,6 +118,23 @@
       "es": "La primavera avanzada suele ser buena; el estado de los rosales depende del clima y la poda.",
       "en": "Late spring is usually a good bet; weather and pruning affect the display.",
       "zh": "晚春通常适合赏花，实际花况取决于天气和修剪。"
+    },
+    "kind": "garden",
+    "stay": "east",
+    "tagline": {
+      "es": "Una rosaleda histórica entre pérgolas y parterres",
+      "en": "A historic rose garden of pergolas and planted beds",
+      "zh": "花架与花坛之间的历史玫瑰园"
+    },
+    "discovery": {
+      "es": "Compara las variedades trepadoras con los rosales agrupados en los arriates. En época de floración, el efecto cambia con la altura de cada variedad.",
+      "en": "Compare the climbing roses with those planted in the beds. When in bloom, the varieties create different effects at different heights.",
+      "zh": "比较花架上的攀援玫瑰与花床里的丛生玫瑰。盛花时，两种布局分别形成高处花幕和低处花带。"
+    },
+    "notice": {
+      "es": "Sigue los caminos entre parterres y evita tocar o cortar las flores.",
+      "en": "Stay on the paths between beds and leave the flowers in place.",
+      "zh": "沿花坛间的小径走，避免触碰或采摘玫瑰。"
     }
   },
   {
@@ -153,6 +187,23 @@
       "es": "Obsérvalos desde el camino y deja que se alejen por sí solos.",
       "en": "Watch from the path and give them space to move away.",
       "zh": "在园路上观察，给孔雀留出自行离开的空间。"
+    },
+    "kind": "garden",
+    "stay": "east",
+    "tagline": {
+      "es": "Fuentes y patios en el lado oriental del Retiro",
+      "en": "Fountains and courtyards on Retiro’s eastern side",
+      "zh": "丽池公园东侧的水景与庭院"
+    },
+    "discovery": {
+      "es": "Desde los cruces de caminos se entiende cómo los setos dividen el recinto en espacios menores. Escucha el agua al pasar de una zona de sombra a otra abierta.",
+      "en": "Path intersections reveal how hedges divide the garden into smaller spaces. Listen for the water as you pass from shade into open courtyards.",
+      "zh": "在步道交会处观察树篱如何划分多个小庭院，从阴凉花架走到开敞水池时，可以留意水声的变化。"
+    },
+    "notice": {
+      "es": "Consulta la hora de cierre de este recinto antes de combinarlo con la Rosaleda.",
+      "en": "Check this garden's closing time before pairing it with the Rose Garden.",
+      "zh": "若与玫瑰园同游，请分别留意围门的关闭时间。"
     }
   },
   {
@@ -205,6 +256,23 @@
       "es": "El antiguo zoo dejó paso a jardines públicos. En el recinto también funciona una biblioteca municipal.",
       "en": "The former zoo made way for public gardens. The site also houses a municipal library.",
       "zh": "动物园旧址现为公共花园，区域内还有一座市立图书馆。"
+    },
+    "kind": "garden",
+    "stay": "east",
+    "tagline": {
+      "es": "Un jardín público en el recinto del antiguo zoo",
+      "en": "A public garden on the former zoo grounds",
+      "zh": "旧动物园范围内的公共花园"
+    },
+    "discovery": {
+      "es": "Fíjate en la diferencia entre los pasos actuales abiertos y los elementos que pertenecían al recinto zoológico. La biblioteca cercana ayuda a imaginar la escala de todo el conjunto.",
+      "en": "Compare the open paths today with structures left from the zoo enclosure. The nearby library helps put the size of the old grounds in perspective.",
+      "zh": "比较如今敞开的园路与旧动物园留下的围合构筑物，再借旁边图书馆的位置判断旧园范围。"
+    },
+    "notice": {
+      "es": "Observa las estructuras históricas desde los paseos del jardín.",
+      "en": "View the historic structures from the garden paths.",
+      "zh": "从花园开放步道观看旧构筑物。"
     }
   },
   {
@@ -257,6 +325,23 @@
       "es": "Puedes consultar el horario para una visita de lectura; el préstamo y otros servicios pueden requerir carné.",
       "en": "Check the hours for a reading visit. Borrowing and some other services may require a card.",
       "zh": "可按开放时间入馆阅读。借阅及部分服务可能需要读者证。"
+    },
+    "kind": "library",
+    "stay": "east",
+    "tagline": {
+      "es": "Una biblioteca de barrio en la antigua Casa de Fieras",
+      "en": "A neighbourhood library in the former Retiro zoo",
+      "zh": "由旧动物园建筑改成的公共图书馆"
+    },
+    "discovery": {
+      "es": "El uso actual convierte un vestigio del zoo en un espacio cotidiano del barrio. Combina la observación del edificio con una parada de lectura si está abierto.",
+      "en": "The library turns a surviving zoo building into an everyday neighbourhood space. Pair a look at the exterior with a reading stop if the building is open.",
+      "zh": "这座旧动物园建筑变成了附近居民日常使用的阅读空间。可以先看外观，开放时再入馆短读。"
+    },
+    "notice": {
+      "es": "Mantén el silencio en las salas y consulta al personal antes de fotografiar el interior.",
+      "en": "Keep quiet in the reading rooms and ask staff before taking indoor photos.",
+      "zh": "阅览区请保持安静，室内拍照先询问馆员。"
     }
   },
   {
@@ -309,6 +394,23 @@
       "es": "La programación cambia. Comprueba qué actividad se celebra y sus condiciones de entrada.",
       "en": "The programme changes. Check what is on and how admission works.",
       "zh": "展览和活动会更换，出发前查本期项目和入场安排。"
+    },
+    "kind": "exhibition",
+    "stay": "east",
+    "tagline": {
+      "es": "La antigua vaquería convertida en centro cultural",
+      "en": "A former dairy turned into a cultural centre",
+      "zh": "大池北侧由旧奶牛房改成的文化中心"
+    },
+    "discovery": {
+      "es": "La escala doméstica del edificio contrasta con la monumentalidad de alrededor del estanque. Da una vuelta desde el paseo para distinguir el volumen alargado.",
+      "en": "The building’s modest scale contrasts with the grand architecture around the pond. Walk along the path to see how long and low it is.",
+      "zh": "建筑低矮的体量与大池周围的纪念性建筑形成对照。沿大道走过外墙，能看清它狭长的轮廓。"
+    },
+    "notice": {
+      "es": "Consulta si el acto del día requiere inscripción o tiene aforo limitado.",
+      "en": "Check whether the day’s event requires registration or has limited capacity.",
+      "zh": "查看当天活动是否需要报名或有名额限制。"
     }
   },
   {
@@ -361,6 +463,23 @@
       "es": "Los puntos principales se ven desde el sendero exterior alrededor del agua.",
       "en": "You can see the main features from the path around the water.",
       "zh": "沿池边外部步道就能看到主要看点。"
+    },
+    "kind": "pavilion",
+    "stay": "east",
+    "tagline": {
+      "es": "Un pabellón pintoresco reflejado en un pequeño estanque",
+      "en": "A picturesque pavilion reflected in a small pool",
+      "zh": "小池倒映的彩色园林亭"
+    },
+    "discovery": {
+      "es": "Cambia de orilla para comparar la silueta del tejado con el reflejo de las fachadas. El tamaño reducido forma parte del carácter íntimo de este rincón.",
+      "en": "Change sides to compare the roofline with the reflected façades. The pavilion’s small scale gives this corner of the garden its intimacy.",
+      "zh": "沿池边换个角度，看屋顶轮廓与立面倒影怎样变化。小尺度是这里区别于大池景观的关键。"
+    },
+    "notice": {
+      "es": "Permanece en el sendero alrededor del estanque.",
+      "en": "Stay on the path around the pool.",
+      "zh": "在小池周围的步道上观看。"
     }
   },
   {
@@ -413,6 +532,23 @@
       "es": "El interior tiene su propio horario. Consulta el acceso antes de subir.",
       "en": "The interior has separate hours. Check access before heading up.",
       "zh": "内部另有开放安排，前往前请查市府公告。"
+    },
+    "kind": "pavilion",
+    "stay": "east",
+    "tagline": {
+      "es": "Rocas, agua y desniveles en un jardín romántico",
+      "en": "Rockwork, water and changing levels in a romantic garden",
+      "zh": "用叠石、水面和落差营造的浪漫主义园景"
+    },
+    "discovery": {
+      "es": "Observa desde el camino bajo cómo la roca oculta o revela el relieve al moverte. El efecto del jardín cambia según se mire desde el pie o desde un lado.",
+      "en": "From the lower path, see how the rocks hide and reveal the slope as you move. The setting looks different from the foot of the hill and from the side.",
+      "zh": "在低处步道边走边看，叠石会交替遮挡和显露山坡。从山脚和侧面观看，能读出不同的地形层次。"
+    },
+    "notice": {
+      "es": "Usa los caminos señalizados y comprueba el horario si quieres entrar.",
+      "en": "Stay on marked paths and check hours if you plan to go inside.",
+      "zh": "走标明的步道，若计划入内，请先核对开放时间。"
     }
   },
   {
@@ -465,6 +601,23 @@
       "es": "Los restos proceden de Ávila. Hoy se visitan desde los caminos exteriores del parque.",
       "en": "The remains came from Ávila. View them from the surrounding park paths.",
       "zh": "遗迹原在阿维拉，现在可以在公园步道上从外围参观。"
+    },
+    "kind": "ruins",
+    "stay": "east",
+    "tagline": {
+      "es": "Un ábside románico trasladado desde Ávila",
+      "en": "A Romanesque apse moved from Ávila",
+      "zh": "由阿维拉迁来的罗曼式后殿遗构"
+    },
+    "discovery": {
+      "es": "Sigue con la vista la curva del ábside y localiza dónde cambia a muros rectos. La diferencia ayuda a reconstruir en planta una iglesia que solo se conserva en parte.",
+      "en": "Trace the curve of the apse to where it meets the straight walls. The junction helps reconstruct the plan of a church that survives only in part.",
+      "zh": "顺着后殿弧线找到它与直墙相接的位置，就能从残存石墙想象原教堂的部分平面。"
+    },
+    "notice": {
+      "es": "Observa desde el perímetro y evita subirte a los muros.",
+      "en": "View from the perimeter and avoid climbing on the walls.",
+      "zh": "从外围观察，避免攀爬残墙。"
     }
   },
   {
@@ -517,6 +670,23 @@
       "es": "Busca el gran tronco cerca del extremo occidental, próximo a la Puerta de Felipe IV.",
       "en": "Look for the broad trunk near the west end, close to the Gate of Philip IV.",
       "zh": "在花园西端、费利佩四世门附近找粗壮的树干。"
+    },
+    "kind": "garden",
+    "stay": "west",
+    "tagline": {
+      "es": "Simetría francesa en la entrada occidental del parque",
+      "en": "French formal symmetry at the park’s western entrance",
+      "zh": "公园西入口的对称式法式花园"
+    },
+    "discovery": {
+      "es": "Mira primero a lo largo del eje y luego en transversal. En la segunda vista se ve cómo los bordes de los arriates separan recorridos y zonas plantadas.",
+      "en": "Look along the main axis, then across it. The second view reveals how the bed edges separate walking routes from planting.",
+      "zh": "先沿中轴看对称构图，再横向比较花坛边线如何区分园路与种植区。"
+    },
+    "notice": {
+      "es": "Para recorrer el eje deja libres los pasos estrechos junto a los parterres.",
+      "en": "Keep the narrow paths beside the beds clear when stopping.",
+      "zh": "在狭窄花坛边停留时给其他游客让路。"
     }
   },
   {
@@ -569,6 +739,23 @@
       "es": "El tamaño permite reconocerlo. Para la cronología, consulta la ficha botánica municipal.",
       "en": "Its size helps identify it. For its chronology, consult the city’s botanical guide.",
       "zh": "大小有助于辨认，树龄沿革可查市府植物指南。"
+    },
+    "kind": "tree",
+    "stay": "west",
+    "tagline": {
+      "es": "Una conífera mexicana histórica en el Parterre",
+      "en": "A historic Mexican conifer in the Parterre",
+      "zh": "法式花园里的历史墨西哥落羽杉"
+    },
+    "discovery": {
+      "es": "Observa por separado la forma de la copa y la base del tronco. El porte irregular resalta entre los setos recortados del jardín formal.",
+      "en": "Look separately at the canopy and base. The irregular tree stands out among the formally clipped hedges.",
+      "zh": "分别观察树冠和树干基部。古树不规则的轮廓与周围修剪整齐的树篱对比鲜明。"
+    },
+    "notice": {
+      "es": "No pises el entorno de las raíces ni atravieses el perímetro de protección.",
+      "en": "Keep off the root area and stay outside the protective boundary.",
+      "zh": "请在围护线外观察，避免踩踏古树根区。"
     }
   },
   {
@@ -621,6 +808,23 @@
       "es": "Desde la puerta de Murillo, el jardín y el Bosque del Recuerdo forman dos paradas contiguas.",
       "en": "The garden and Forest of Remembrance make adjoining stops from the Murillo gate.",
       "zh": "从穆里略门出发，可连走花园和相邻的纪念林。"
+    },
+    "kind": "garden",
+    "stay": "south",
+    "tagline": {
+      "es": "Un paseo arbolado cerca de la puerta de Murillo",
+      "en": "A wooded walk near the Murillo gate",
+      "zh": "穆里略门附近的林荫步行区"
+    },
+    "discovery": {
+      "es": "Entre un claro y otro, las alineaciones de árboles enmarcan vistas breves. Recorre un tramo dentro del jardín antes de acercarte al memorial.",
+      "en": "Between clearings, rows of trees frame short views. Walk a stretch within the garden before heading to the memorial.",
+      "zh": "林间空地之间，成列树木形成一段段短景。前往纪念林前，可以先沿园内小径走一段。"
+    },
+    "notice": {
+      "es": "Sigue los caminos y baja la voz cerca del memorial.",
+      "en": "Stay on the paths and lower your voice near the memorial.",
+      "zh": "沿开放小径走，靠近纪念林时放轻声音。"
     }
   },
   {
@@ -673,6 +877,23 @@
       "es": "Representa la caída de Lucifer. El cuerpo en torsión es la clave para leer la escena.",
       "en": "It depicts Lucifer’s fall. The twisted body conveys the movement of the scene.",
       "zh": "它表现路西法坠落，扭转的身体是理解场景的关键。"
+    },
+    "kind": "fountain",
+    "stay": "south",
+    "tagline": {
+      "es": "Una escultura en movimiento sobre la fuente del Retiro",
+      "en": "A sculpture in motion above a Retiro fountain",
+      "zh": "丽池喷泉上方的扭转铜像"
+    },
+    "discovery": {
+      "es": "El cuerpo del ángel ocupa el remate, mientras el pedestal desarrolla una segunda lectura con figuras a nivel de la pila. Da una vuelta para ver ambos niveles.",
+      "en": "The angel crowns the fountain while the pedestal introduces a second set of figures at basin level. Walk around to read both levels.",
+      "zh": "顶部是天使的坠落姿态，贴近池面的基座则有另一组雕刻。绕行一周才能兼顾两个高度。"
+    },
+    "notice": {
+      "es": "Mantén libre el paseo que cruza la glorieta y observa desde fuera del vaso.",
+      "en": "Keep the roundabout’s paths clear and view the fountain from outside the basin.",
+      "zh": "在池外观察，停留时给穿过广场的行人让路。"
     }
   },
   {
@@ -725,6 +946,23 @@
       "es": "La histórica que describe esta guía está en el Retiro. Atocha tiene otra versión en su glorieta.",
       "en": "This guide is for the historic fountain in Retiro. Atocha has a separate version in its roundabout.",
       "zh": "本页介绍丽池公园里的历史喷泉。阿托查广场另有一座版本。"
+    },
+    "kind": "fountain",
+    "stay": "west",
+    "tagline": {
+      "es": "La fuente histórica del extremo sur del Estanque Grande",
+      "en": "The historic fountain at the south end of the Great Pond",
+      "zh": "丽池大池南端的历史喷水雕塑"
+    },
+    "discovery": {
+      "es": "Mira primero la alcachofa del remate y después las figuras que sostienen visualmente la parte baja. Con el agua en marcha, observa cómo se lee cada nivel desde lejos.",
+      "en": "Start with the carved artichoke and then look at the figures lower down. When the fountain is running, step back to see how the water ties the levels together.",
+      "zh": "先辨认顶部朝鲜蓟，再看下方人物雕刻。喷水时退到广场外沿，观察各层如何由水流串联。"
+    },
+    "notice": {
+      "es": "Añade «Retiro» en el mapa para evitar la fuente homónima de Atocha.",
+      "en": "Include “Retiro” in map searches to distinguish it from the Atocha fountain.",
+      "zh": "导航时保留「Retiro」，以区分阿托查的同名喷泉。"
     }
   },
   {
@@ -777,6 +1015,23 @@
       "es": "El nombre alude a las tortugas esculpidas en la fuente.",
       "en": "The name refers to the sculpted turtles on the fountain.",
       "zh": "名称来自喷泉上的龟形雕刻。"
+    },
+    "kind": "fountain",
+    "stay": "west",
+    "tagline": {
+      "es": "Tortugas de piedra en la fuente de Isabel II",
+      "en": "Stone turtles on the Isabella II Fountain",
+      "zh": "伊莎贝尔二世喷泉上的石雕海龟"
+    },
+    "discovery": {
+      "es": "El conjunto se descubre desde abajo: localiza las tortugas y sigue las figuras que se agrupan alrededor de la pila. Cambia de lado para ver cómo quedan ocultas entre sí.",
+      "en": "Read the fountain from the bottom up: find the turtles first, then the figures around the basin. Move around to see which details overlap.",
+      "zh": "从低处看起，先找龟雕，再辨认水池周围其他构件。换一侧观察，可以看见原先被遮住的细节。"
+    },
+    "notice": {
+      "es": "Observa las figuras desde el borde exterior sin entrar en el agua.",
+      "en": "View the figures from outside the basin.",
+      "zh": "站在池外看雕刻，无需进入水池。"
     }
   },
   {
@@ -829,6 +1084,23 @@
       "es": "El nombre recuerda aquella estructura desaparecida. Hoy se observan el vaso y la rocalla.",
       "en": "The name recalls a vanished structure. The basin and rockwork are visible today.",
       "zh": "名字纪念已经消失的池心构筑物，如今可观察池岸和叠石。"
+    },
+    "kind": "fountain",
+    "stay": "west",
+    "tagline": {
+      "es": "El estanque lobulado de los antiguos jardines reales",
+      "en": "The scalloped pond of the former royal gardens",
+      "zh": "旧王家花园遗留的多瓣形水池"
+    },
+    "discovery": {
+      "es": "Recorre un tramo de la barandilla y fíjate en cómo se repite la curva del vaso. La rocalla ocupa el centro donde hubo otras estructuras a lo largo del tiempo.",
+      "en": "Follow part of the railing and watch the basin’s curved outline repeat. The rockwork occupies the centre where earlier structures once stood.",
+      "zh": "沿栏杆走一段，辨认池缘反复出现的弧线。池心叠石所在位置过去曾有不同构筑物。"
+    },
+    "notice": {
+      "es": "Mantente en el paseo exterior y deja paso junto a la barandilla.",
+      "en": "Stay on the outer path and leave room beside the railing.",
+      "zh": "从栏杆外观看，给经过的游客留出空间。"
     }
   },
   {
@@ -881,6 +1153,23 @@
       "es": "Desde la orilla sur se distingue el frente completo. Un paso lateral separa las figuras del fondo.",
       "en": "The south-bank path shows the complete façade. Step sideways to separate the figures from the background.",
       "zh": "南岸步道上能看到完整立面，向侧边移动可让雕像与背景错开。"
+    },
+    "kind": "fountain",
+    "stay": "west",
+    "tagline": {
+      "es": "Dos esfinges junto a la orilla sur del estanque",
+      "en": "Twin sphinxes on the Great Pond’s south bank",
+      "zh": "大池南岸的成对狮身人面像"
+    },
+    "discovery": {
+      "es": "Encuadra primero el frente como si fuera una pequeña fachada y, al acercarte por el paseo, distingue las esfinges a sus lados.",
+      "en": "First read the front as a small architectural façade, then move along the path to pick out the sphinxes on either side.",
+      "zh": "先把喷泉当作一座小型建筑立面观察，再沿步道靠近，辨认分列两侧的狮身人面像。"
+    },
+    "notice": {
+      "es": "Sigue por la orilla sur para distinguirla de las otras fuentes cercanas al agua.",
+      "en": "Follow the south bank to distinguish it from the other fountains near the pond.",
+      "zh": "沿南岸步道走，留意不要和大池旁其他喷泉混淆。"
     }
   },
   {
@@ -933,6 +1222,23 @@
       "es": "Sí, la alineación escultórica da al paseo de la Argentina su nombre popular.",
       "en": "Yes. The line of sculptures gives Paseo de la Argentina its popular name.",
       "zh": "是的，阿根廷大道因两旁成列的雕塑而获此俗称。"
+    },
+    "kind": "avenue",
+    "stay": "west",
+    "tagline": {
+      "es": "Una galería de monarcas entre hileras de árboles",
+      "en": "An outdoor gallery of monarchs beneath rows of trees",
+      "zh": "树列之间的君主雕像长廊"
+    },
+    "discovery": {
+      "es": "Alterna una vista general del eje con alguna parada para ver una figura y su inscripción. La repetición ordena el paseo sin borrar los detalles individuales.",
+      "en": "Alternate the long view down the avenue with a stop to read a figure and its inscription. The repeated arrangement makes the individual differences easier to spot.",
+      "zh": "先看大道纵深，再停下来读一两座雕像的题名。整齐列阵能反衬单座雕像姿态和细节的差异。"
+    },
+    "notice": {
+      "es": "Detente junto a los pedestales sin ocupar el carril principal de paso.",
+      "en": "Stop alongside the pedestals and leave the main walking line open.",
+      "zh": "在基座一侧停留，保持大道中央畅通。"
     }
   },
   {
@@ -992,6 +1298,23 @@
       "author": "Daderot",
       "license": "Public domain",
       "licenseUrl": ""
+    },
+    "kind": "avenue",
+    "stay": "east",
+    "tagline": {
+      "es": "La gran avenida histórica de carruajes del Retiro",
+      "en": "Retiro’s broad historic carriage avenue",
+      "zh": "丽池公园昔日的宽阔马车大道"
+    },
+    "discovery": {
+      "es": "Compara la fotografía de 1976 con la vista peatonal. El ancho del eje persiste y permite reconocer el diseño anterior aun cuando ha cambiado su uso.",
+      "en": "Compare the 1976 photo with the pedestrian view. The width remains a clue to its earlier layout even as the use of the avenue has changed.",
+      "zh": "对照1976年档案照片与步道实景，如今仍可凭尺度辨认道路早期的用途。"
+    },
+    "notice": {
+      "es": "Deja espacio para corredores y ciclistas en los tramos compartidos.",
+      "en": "Leave room for runners and cyclists on shared stretches.",
+      "zh": "在共享路段给跑步者和骑行者留出空间。"
     }
   },
   {
@@ -1044,6 +1367,23 @@
       "es": "Esta figura retrata a Martínez Campos. El monumento a Alfonso XII se alza junto al Estanque Grande.",
       "en": "This figure portrays Martínez Campos. The Alfonso XII monument stands beside the Great Pond.",
       "zh": "这里的人物是马丁内斯·坎波斯。阿方索十二世纪念碑在大池边。"
+    },
+    "kind": "memorial",
+    "stay": "east",
+    "tagline": {
+      "es": "Un conjunto ecuestre de Benlliure en la plaza de Guatemala",
+      "en": "Benlliure’s equestrian monument at Plaza de Guatemala",
+      "zh": "危地马拉广场上的贝尼柳雷骑马像"
+    },
+    "discovery": {
+      "es": "Desde lejos se reconoce la silueta del caballo. Al rodear el pedestal aparecen escenas de menor escala que se pierden en una mirada frontal.",
+      "en": "From a distance the horse’s silhouette is clearest. Circle the pedestal for smaller scenes that a head-on view misses.",
+      "zh": "远看先认出马的轮廓。绕基座观察，才能辨认正面远眺时容易漏掉的小幅浮雕。"
+    },
+    "notice": {
+      "es": "Rodea el pedestal desde la plaza sin subir a la base.",
+      "en": "Circle the pedestal from the square without climbing onto the base.",
+      "zh": "在广场地面绕看，不要登上基座。"
     }
   },
   {
@@ -1096,6 +1436,23 @@
       "es": "Está dedicado a Santiago Ramón y Cajal, conocido por sus investigaciones sobre el sistema nervioso.",
       "en": "It honours Santiago Ramón y Cajal, known for his research on the nervous system.",
       "zh": "它纪念以神经系统研究闻名的圣地亚哥·拉蒙-卡哈尔。"
+    },
+    "kind": "memorial",
+    "stay": "west",
+    "tagline": {
+      "es": "Una figura reclinada que homenajea a Ramón y Cajal",
+      "en": "A reclining figure in tribute to Ramón y Cajal",
+      "zh": "以斜卧人物致敬拉蒙-卡哈尔的纪念碑"
+    },
+    "discovery": {
+      "es": "Compara el plano bajo del agua con la postura reclinada del científico. Los relieves sirven de contrapunto a la figura horizontal.",
+      "en": "Compare the low plane of the basin with the scientist’s reclining posture. The reliefs provide a counterpoint to the horizontal figure.",
+      "zh": "对照低处水池和科学家的斜卧姿态，再看浮雕如何衬托横向布局。"
+    },
+    "notice": {
+      "es": "El borde del vaso es para observar desde fuera.",
+      "en": "View the basin from the surrounding path.",
+      "zh": "在池外步道观察水池和雕像。"
     }
   },
   {
@@ -1148,6 +1505,23 @@
       "es": "Es un lugar de memoria por las víctimas de los atentados del 11 de marzo de 2004.",
       "en": "It commemorates the victims of the attacks of 11 March 2004.",
       "zh": "纪念2004年3月11日袭击的遇难者。"
+    },
+    "kind": "memorial",
+    "stay": "south",
+    "tagline": {
+      "es": "Un memorial vivo en el sector suroeste del parque",
+      "en": "A living memorial in the park’s southwest corner",
+      "zh": "公园西南角以树木构成的纪念场所"
+    },
+    "discovery": {
+      "es": "Observa cómo las copas y el terreno forman un memorial continuo. Camina por el borde para comprender el conjunto sin interrumpir a otras personas.",
+      "en": "Notice how the trees and land form a continuous memorial. Walk its edge to understand the whole without disturbing others.",
+      "zh": "纪念空间由树木和地形连续组成。从边缘步行可以看清整体，也便于避开正在悼念的人。"
+    },
+    "notice": {
+      "es": "Mantén un tono de voz bajo y evita fotografiar a quienes rinden homenaje.",
+      "en": "Keep voices low and avoid photographing people paying their respects.",
+      "zh": "保持安静，避免拍摄正在悼念的人。"
     }
   },
   {
@@ -1200,6 +1574,23 @@
       "es": "El monumento se observa desde las aceras que rodean la glorieta. Utiliza los cruces señalizados.",
       "en": "View the monument from pavements around the roundabout and use marked crossings.",
       "zh": "从环岛外围人行道观赏，过街走标线通道。"
+    },
+    "kind": "gate",
+    "stay": "west",
+    "tagline": {
+      "es": "La puerta neoclásica de Sabatini frente al Retiro",
+      "en": "Sabatini’s neoclassical gate beside Retiro",
+      "zh": "丽池公园旁萨巴蒂尼设计的新古典主义城门"
+    },
+    "discovery": {
+      "es": "Compara el frente orientado a la ciudad con el que mira hacia el lado del parque. La ornamentación y el efecto de las figuras cambian según la cara y la distancia.",
+      "en": "Compare the city-facing side with the side toward the park. The two faces read differently as the ornament and sculptural details come into view.",
+      "zh": "比较朝城内和朝公园一侧的两面立面。靠近后再辨认两侧装饰与顶部雕像的差异。"
+    },
+    "notice": {
+      "es": "Cruza por pasos señalizados y permanece en las aceras alrededor de la glorieta.",
+      "en": "Use marked crossings and stay on the pavements around the roundabout.",
+      "zh": "走斑马线，并在人行道上观赏环岛内的城门。"
     }
   },
   {
@@ -1252,6 +1643,23 @@
       "es": "Esta entrada da al Parterre desde Alfonso XII. Puerta de Alcalá está en la plaza de la Independencia.",
       "en": "This entrance leads from Alfonso XII into the Parterre. Puerta de Alcalá stands at Plaza de la Independencia.",
       "zh": "这里从阿方索十二世街通往法式花园。阿尔卡拉门位于独立广场。"
+    },
+    "kind": "gate",
+    "stay": "west",
+    "tagline": {
+      "es": "La entrada monumental que alinea el Parterre y el Casón",
+      "en": "The monumental entrance framing the Parterre and the Casón",
+      "zh": "对齐法式花园与旧舞厅视线的古门"
+    },
+    "discovery": {
+      "es": "Mira desde dentro y desde la acera de Alfonso XII para apreciar dos lecturas de la misma abertura. Hacia el jardín destaca el eje de los parterres; hacia la calle, el Casón.",
+      "en": "Look from inside and from the Alfonso XII pavement. Through the gate one way is the garden axis, and through it the other way is the Casón.",
+      "zh": "从门内和阿方索十二世街人行道分别看。往园内是花坛中轴，向街道一侧则正对丽池宫旧舞厅。"
+    },
+    "notice": {
+      "es": "Si paras para tomar fotos, colócate a un lado de la entrada.",
+      "en": "Stand to one side of the entrance when taking photos.",
+      "zh": "停下拍照时请站在门口一侧。"
     }
   },
   {
@@ -1304,6 +1712,23 @@
       "es": "Cada librero fija su horario, por lo que la oferta visible cambia durante el día.",
       "en": "Each bookseller sets their hours, so the stalls open for browsing vary.",
       "zh": "营业时间由各摊主决定，不同时段开放的书摊会有变化。"
+    },
+    "kind": "market",
+    "stay": "south",
+    "tagline": {
+      "es": "Casetas de libros a medio camino entre Atocha y el Retiro",
+      "en": "Bookstalls on the slope between Atocha and Retiro",
+      "zh": "阿托查与丽池之间的坡道旧书摊"
+    },
+    "discovery": {
+      "es": "En la subida observa qué títulos se exponen fuera de las casetas; en la bajada mira sus rótulos, que se aprecian mejor como conjunto desde la parte baja.",
+      "en": "Browse the books displayed outside on the way up; look back at the signs on the way down, where the line of stalls is easier to see.",
+      "zh": "上坡慢慢看摊外书架，下坡再回望店招。在坡脚更容易看清整列书亭。"
+    },
+    "notice": {
+      "es": "Si buscas un librero concreto, comprueba su horario y deja paso al consultar los expositores.",
+      "en": "Check the individual seller’s hours if you have someone in mind, and leave room beside displays.",
+      "zh": "若要找特定书摊请先查其营业时间。浏览临街陈列时给行人留路。"
     }
   },
   {
@@ -1356,6 +1781,23 @@
       "es": "Consulta con el jardín qué invernaderos se pueden visitar y en qué condiciones.",
       "en": "Check with the garden for which greenhouses are open and how to enter.",
       "zh": "请查园方公告，确认具体开放的温室和进入条件。"
+    },
+    "kind": "garden",
+    "stay": "south",
+    "tagline": {
+      "es": "Terrazas botánicas y colecciones vivas junto al Prado",
+      "en": "Botanical terraces and living collections beside the Prado",
+      "zh": "普拉多旁分层台地上的活植物收藏"
+    },
+    "discovery": {
+      "es": "El recorrido cambia con la altura: detente en las etiquetas de los parterres bajos y luego compara la distribución de los niveles superiores desde un rellano.",
+      "en": "The walk changes as you climb: read labels in the lower beds, then compare the layout of the upper levels from a landing.",
+      "zh": "先读低处花坛里的植物标签，再走到台阶平台，对照上层种植区的布局。"
+    },
+    "notice": {
+      "es": "Consulta los itinerarios del recinto si necesitas evitar escaleras, y confirma aparte los accesos a invernaderos.",
+      "en": "Check the garden’s paths if you need a route without steps, and confirm greenhouse access separately.",
+      "zh": "如需避开台阶，先查园方路线图。温室开放请另行核对。"
     }
   },
   {
@@ -1408,6 +1850,23 @@
       "es": "El museo indica la puerta de acceso en las instrucciones de visita o de reserva.",
       "en": "Follow the entrance named in the museum’s visitor or booking instructions.",
       "zh": "按馆方参观说明或预约单所指定的入口走。"
+    },
+    "kind": "museum",
+    "stay": "west",
+    "tagline": {
+      "es": "Arquitectura neoclásica y pintura europea en el Paseo del Arte",
+      "en": "Neoclassical architecture and European painting on the Art Walk",
+      "zh": "艺术大道上的新古典主义馆舍与欧洲绘画"
+    },
+    "discovery": {
+      "es": "La fachada de Velázquez permite reconocer el edificio histórico desde el paseo. Dentro, elige de antemano unas pocas salas o autores para no intentar abarcar toda la colección en una sola parada.",
+      "en": "The Velázquez façade identifies the historic building from the promenade. Inside, pick a few galleries or artists in advance so the collection fits the time you have.",
+      "zh": "从大道辨认委拉斯开兹门所在的历史馆舍。入馆后可预选几个展厅或艺术家，让参观重点符合可用时间。"
+    },
+    "notice": {
+      "es": "Revisa la puerta de tu reserva y las normas de fotografía antes de entrar en las salas.",
+      "en": "Check the entrance on your booking and the photography rules before entering the galleries.",
+      "zh": "入馆前核对预约指定的入口和馆内摄影规定。"
     }
   },
   {
@@ -1460,6 +1919,23 @@
       "es": "Respeta el culto. Si se está celebrando, puedes ver el exterior y volver después.",
       "en": "Respect worship. View the exterior and return after the service.",
       "zh": "礼拜期间可先看外观，结束后再按堂区安排参观。"
+    },
+    "kind": "church",
+    "stay": "west",
+    "tagline": {
+      "es": "Una iglesia histórica sobre el entorno del Prado",
+      "en": "A historic church overlooking the Prado precinct",
+      "zh": "普拉多旁高处的历史教堂"
+    },
+    "discovery": {
+      "es": "Desde Moreto, la subida de la escalinata subraya la posición de la iglesia. Busca el contraste entre sus torres y los volúmenes del museo vecino.",
+      "en": "The staircase on Moreto emphasises the church’s raised position. Compare the towers with the massing of the neighbouring museum.",
+      "zh": "从莫雷托街看，层层台阶强调了教堂高出街道的位置。抬头比较双塔和邻近博物馆的体量。"
+    },
+    "notice": {
+      "es": "Si hay culto, mantén el paso despejado y vuelve para una visita interior cuando se permita.",
+      "en": "During a service leave the entrance clear and return for an interior visit when permitted.",
+      "zh": "举行礼拜时保持入口畅通，可待结束后按堂区安排入内。"
     }
   },
   {
@@ -1512,6 +1988,23 @@
       "es": "Consulta por separado la programación de visitas guiadas y las condiciones de la biblioteca.",
       "en": "Check the Casón’s guided visits and library access separately.",
       "zh": "请单独核对旧舞厅的导览安排和图书馆入内条件。"
+    },
+    "kind": "pavilion",
+    "stay": "west",
+    "tagline": {
+      "es": "El antiguo salón de baile que mira al Parterre",
+      "en": "The former royal ballroom facing the Parterre",
+      "zh": "面向法式花园的丽池宫旧舞厅"
+    },
+    "discovery": {
+      "es": "La vista desde el lado del parque ayuda a situar un edificio que formaba parte de un palacio mucho mayor. Alterna la fachada de frente con la vista hacia la verja de Felipe IV.",
+      "en": "The view from the park side helps place a building that once belonged to a much larger palace. Compare a frontal view with the sightline toward the Gate of Philip IV.",
+      "zh": "从公园侧可理解这座现存馆舍在昔日更大宫殿群中的位置。先看正立面，再回望费利佩四世门方向。"
+    },
+    "notice": {
+      "es": "Organiza la visita exterior por separado y consulta las condiciones para actividades de interior.",
+      "en": "Plan the exterior visit separately and check requirements for indoor activities.",
+      "zh": "外观可独立安排。若参加馆内项目，请先查看具体开放条件。"
     }
   },
   {
@@ -1564,6 +2057,23 @@
       "es": "También incluye textiles, muebles y otros objetos de uso cotidiano de distintas épocas.",
       "en": "It also includes textiles, furniture and everyday objects from different periods.",
       "zh": "还有纺织品、家具和不同时期的日用器物。"
+    },
+    "kind": "museum",
+    "stay": "west",
+    "tagline": {
+      "es": "Muebles, textiles y cerámica en interiores de época",
+      "en": "Furniture, textiles and ceramics in period interiors",
+      "zh": "在历史室内陈设中看家具、纺织品和陶瓷"
+    },
+    "discovery": {
+      "es": "Elige un conjunto de época y observa cómo se relacionan los objetos entre sí: una mesa, un tejido y una pieza cerámica cuentan más en la misma sala que vistos por separado.",
+      "en": "Pick a period room and notice how the objects relate: a table, fabric and ceramic piece tell more together than viewed separately.",
+      "zh": "选一间历史陈设展室，观察桌子、织物和陶瓷如何共同服务于居室，而不是只看单件展品。"
+    },
+    "notice": {
+      "es": "Consulta qué plantas o salas están abiertas antes de elegir un recorrido de interior.",
+      "en": "Check which floors and rooms are open before choosing your indoor route.",
+      "zh": "进馆前先查开放楼层和展厅，再决定馆内路线。"
     }
   },
   {
@@ -1616,6 +2126,23 @@
       "es": "CentroCentro publica condiciones separadas para el mirador, las exposiciones y otras actividades.",
       "en": "CentroCentro lists separate conditions for the lookout, exhibitions and other activities.",
       "zh": "CentroCentro 分别公布观景台、展览及其他活动的开放和入场条件。"
+    },
+    "kind": "exhibition",
+    "stay": "west",
+    "tagline": {
+      "es": "Un antiguo palacio de comunicaciones convertido en espacio cívico",
+      "en": "A former communications palace turned into a civic space",
+      "zh": "由通信宫转型而来的市政与文化空间"
+    },
+    "discovery": {
+      "es": "Mira las torres desde el exterior y compara esa escala monumental con el uso actual de CentroCentro. La plaza permite leer la relación del palacio con las avenidas que desembocan en ella.",
+      "en": "Look at the towers from outside, then consider how CentroCentro uses the monumental building today. From the square you can see how the palace relates to the avenues that converge there.",
+      "zh": "从广场先读塔楼与主立面的尺度，再了解文化中心如何使用这座建筑。也可观察多条大道汇入广场时与宫殿形成的视线关系。"
+    },
+    "notice": {
+      "es": "Reserva por separado si el mirador o una actividad lo requieren.",
+      "en": "Book separately when the lookout or a particular activity requires it.",
+      "zh": "观景台或特定活动如需预约，请分别办理。"
     }
   }
 ]

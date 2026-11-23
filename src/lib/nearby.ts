@@ -1,3 +1,4 @@
+import type { nearbyStays, placeKinds } from './nearby-guide';
 import rawPlaces from './nearby-places.json';
 import type { TopicLocale } from './topics';
 import { getAccess, mapsLink, pondMap } from './visit';
@@ -14,6 +15,11 @@ export interface PlacePhoto {
 interface Place {
   slug: string;
   title: Localized;
+  kind: keyof typeof placeKinds;
+  stay: keyof typeof nearbyStays;
+  tagline: Localized;
+  discovery: Localized;
+  notice: Localized;
   history: Localized;
   tips: Localized;
   features: Localized;
@@ -28,7 +34,7 @@ interface Place {
   walkPhoto?: PlacePhoto & { src: string };
 }
 
-export const nearbyPlaces: Place[] = rawPlaces;
+export const nearbyPlaces = rawPlaces as Place[];
 
 const stations: Record<string, string> = {
   Retiro: 'Retiro (L2)',
