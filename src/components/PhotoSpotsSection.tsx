@@ -58,7 +58,7 @@ function PhotoSpotCard({ title, description, image, location, index }: { title: 
         {image ? (
           <img
             src={image}
-            alt={`${title} - Photo spot near Estanque Grande del Retiro, Madrid`}
+            alt={title}
             className="w-full h-full object-cover transition-transform hover:scale-105"
             loading="lazy"
           />

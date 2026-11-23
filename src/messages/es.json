@@ -299,7 +299,7 @@
     "title": "Reseñas de Visitantes",
     "reviewsLabel": "reseñas",
     "declaration": "Los comentarios de los visitantes se pueden ver a través de Google Maps.",
-    "asOf": "Datos recopilados en octubre de 2026.",
+    "asOf": "Datos actualizados en este sitio el 23 de noviembre de 2026.",
     "ratingSnapshot": "4.8",
     "reviewCountSnapshot": "36,017",
     "moreReviews": "Ver más reseñas en Google Maps",
@@ -441,5 +441,14 @@
   "disclaimerHome": {
     "title": "Aviso",
     "text": "Sitio web independiente sin ánimo de lucro de información turística de terceros. No estamos afiliados con el Ayuntamiento de Madrid ni con la entidad gestora del parque."
+  },
+  "accessibility": {
+    "language": "Cambiar idioma",
+    "theme": "Cambiar tema",
+    "heroAlt": "Vista principal del Estanque Grande de Madrid",
+    "previous": "Foto anterior",
+    "next": "Foto siguiente",
+    "close": "Cerrar visor de fotos",
+    "breadcrumb": "Ruta de navegación"
   }
 }

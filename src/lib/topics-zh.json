@@ -1,0 +1,398 @@
+{
+  "barcas-retiro": {
+    "h1": "丽池大池划船指南",
+    "metaTitle": "丽池大池划船：票价、预约与码头",
+    "metaDescription": "丽池公园划船的费用、时长、预约方式及登船地点。",
+    "intro": "从大池北岸划船出发，可以从水面回望阿方索十二世纪念碑和公园树冠。",
+    "sections": [
+      {
+        "id": "precios",
+        "title": "票价与时长",
+        "content": "平日每艘船 €6，周末和节假日 €8。每次45分钟，每艘最多4人。在码头办理付款。"
+      },
+      {
+        "id": "reserva",
+        "title": "如何预约",
+        "content": "可以在码头现场租船，也可以通过 Madrid Móvil 或马德里市政府体育预约平台预约。周末和节假日建议提前预约。"
+      },
+      {
+        "id": "embarque",
+        "title": "码头与划船体验",
+        "content": "码头在大池东北端，靠近哥伦比亚大道。这里使用传统木制划艇，无需划船经验。"
+      }
+    ],
+    "faq": [
+      {
+        "question": "可以提前预约吗？",
+        "answer": "可以，通过 Madrid Móvil、市府体育预约平台或码头现场办理。"
+      },
+      {
+        "question": "划船要多久？",
+        "answer": "每次45分钟，可在阿方索十二世纪念碑前的水域划行。"
+      },
+      {
+        "question": "儿童可以乘船吗？",
+        "answer": "可以由成人陪同，每船最多4人。成人应照看同行儿童。"
+      }
+    ],
+    "related": [
+      "horarios",
+      "como-llegar",
+      "monumento-alfonso-xii"
+    ]
+  },
+  "horarios": {
+    "h1": "丽池大池与公园开放时间",
+    "metaTitle": "丽池大池开放时间：入园与划船",
+    "metaDescription": "丽池公园季节性开园时间、大池划船班次与临时闭园安排。",
+    "intro": "公园开放和大池租船是不同的时刻表。若行程包括划船，两项都应核对。",
+    "sections": [
+      {
+        "id": "parque",
+        "title": "公园开放时间",
+        "content": "10月至次年3月 06:00–22:00，4月至9月 06:00–次日00:00。"
+      },
+      {
+        "id": "barcas",
+        "title": "租船时间",
+        "content": "常见租船时段约为10:00–18:30，夏季可能延长。实际开放以市府预订系统为准。"
+      },
+      {
+        "id": "cierres",
+        "title": "天气导致的关闭",
+        "content": "遇到暴风雨等恶劣天气，公园或部分区域可能临时关闭。"
+      }
+    ],
+    "faq": [
+      {
+        "question": "公园几点开门？",
+        "answer": "通常06:00开门，闭园时间随季节变化。"
+      },
+      {
+        "question": "全年都能划船吗？",
+        "answer": "运营取决于季节与天气，出发前请核对可预约班次。"
+      },
+      {
+        "question": "公园会临时关门吗？",
+        "answer": "遇到恶劣天气，市府可能封闭公园或部分区域。"
+      }
+    ],
+    "related": [
+      "barcas-retiro",
+      "mapa",
+      "como-llegar"
+    ]
+  },
+  "como-llegar": {
+    "h1": "如何前往丽池大池",
+    "metaTitle": "前往丽池大池：地铁、公交和步行",
+    "metaDescription": "从丽池站、伊维萨站或马德里市中心前往大池的方式。",
+    "intro": "根据入园所走的门，从园门到水边约需步行5–15分钟。",
+    "sections": [
+      {
+        "id": "metro",
+        "title": "搭乘地铁",
+        "content": "丽池站（2号线）和伊维萨站（9号线）较近，入园后约步行5–10分钟。也可以从韦尔加拉王子站或阿托查一带前往。"
+      },
+      {
+        "id": "autobus",
+        "title": "公交与步行",
+        "content": "多条市区公交线路沿公园外围行驶。从太阳门广场步行约20–25分钟。"
+      },
+      {
+        "id": "coche",
+        "title": "停车",
+        "content": "公园内没有公共停车场，阿尔卡拉街、梅嫩德斯·佩拉约大道及阿托查周边有收费停车场。"
+      }
+    ],
+    "faq": [
+      {
+        "question": "哪座地铁站最近？",
+        "answer": "可选丽池站或伊维萨站，两处都要走一段园路。"
+      },
+      {
+        "question": "可以从市中心走到大池吗？",
+        "answer": "可以。从太阳门广场出发约20–25分钟。"
+      }
+    ],
+    "related": [
+      "mapa",
+      "horarios",
+      "monumento-alfonso-xii"
+    ]
+  },
+  "mapa": {
+    "h1": "丽池大池及周边地图",
+    "metaTitle": "丽池大池地图：码头、纪念碑与出口",
+    "metaDescription": "了解大池、租船码头、阿方索十二世纪念碑以及周边餐饮街区的位置。",
+    "intro": "先用纪念碑和码头辨认方位。阿方索十二世纪念碑在大池东岸，租船码头靠近东北岸。",
+    "sections": [
+      {
+        "id": "claves",
+        "title": "主要地标",
+        "content": "东岸是纪念碑，东北岸的码头靠近哥伦比亚大道。往南和往西可沿园路走到花园。"
+      },
+      {
+        "id": "puertas",
+        "title": "园门与入口",
+        "content": "丽池站一侧可从阿尔卡拉街附近入园。由伊维萨站来，可从梅嫩德斯·佩拉约大道一侧进入。"
+      },
+      {
+        "id": "comer",
+        "title": "步行去用餐",
+        "content": "从公园东侧出园可步行前往伊维萨街区。北侧也可沿阿尔卡拉街找餐饮。"
+      }
+    ],
+    "faq": [
+      {
+        "question": "码头在哪里？",
+        "answer": "在大池东北岸，靠近哥伦比亚大道。"
+      },
+      {
+        "question": "用餐时该走哪个出口？",
+        "answer": "去伊维萨街区时优先找靠近伊维萨街的东侧园门。"
+      }
+    ],
+    "related": [
+      "como-llegar",
+      "donde-comer",
+      "monumento-alfonso-xii"
+    ]
+  },
+  "monumento-alfonso-xii": {
+    "h1": "丽池大池阿方索十二世纪念碑",
+    "metaTitle": "阿方索十二世纪念碑：历史与大池景色",
+    "metaDescription": "了解纪念碑的设计者、落成年份以及大池观景位置。",
+    "intro": "纪念碑位于大池东岸，半圆形柱廊围出面向水面的开阔视线。",
+    "sections": [
+      {
+        "id": "historia",
+        "title": "历史",
+        "content": "纪念碑由何塞·格拉塞斯·列拉设计，1922年落成。国王骑马像由马里亚诺·贝尼柳雷创作，纪念1874年至1885年在位的阿方索十二世。"
+      },
+      {
+        "id": "arquitectura",
+        "title": "建筑",
+        "content": "科林斯式柱廊沿半圆形展开，两侧有寓意雕像。可沿临水栏杆看柱廊与水面之间的关系。"
+      },
+      {
+        "id": "vistas",
+        "title": "观景",
+        "content": "从栏杆可沿大池长边看向对岸。日出或傍晚可观察水面和柱廊的光线变化。"
+      }
+    ],
+    "faq": [
+      {
+        "question": "纪念碑何时落成？",
+        "answer": "1922年。"
+      },
+      {
+        "question": "谁设计了纪念碑？",
+        "answer": "何塞·格拉塞斯·列拉设计整体，马里亚诺·贝尼柳雷创作骑马像。"
+      },
+      {
+        "question": "它在大池哪一侧？",
+        "answer": "东岸，柱廊面向大池。"
+      }
+    ],
+    "related": [
+      "barcas-retiro",
+      "mapa",
+      "palacio-cristal"
+    ]
+  },
+  "palacio-cristal": {
+    "h1": "丽池公园水晶宫",
+    "metaTitle": "丽池水晶宫：历史与开放现状",
+    "metaDescription": "了解水晶宫的建造背景、修缮期间的情况及从大池步行前往的路线。",
+    "intro": "水晶宫于1887年建成，如今是索菲亚王后国家艺术中心的展览场地之一。",
+    "sections": [
+      {
+        "id": "historia",
+        "title": "历史",
+        "content": "里卡多·贝拉斯克斯·博斯科为1887年菲律宾群岛展览设计了这座铁与玻璃建筑。"
+      },
+      {
+        "id": "estado",
+        "title": "开放现状",
+        "content": "馆方通常在此举办当代艺术展。室内因修缮暂时关闭，可按馆方公告从外围步道观看室外艺术装置。"
+      },
+      {
+        "id": "ruta",
+        "title": "从大池步行",
+        "content": "从大池西岸经园路向南步行约10–15分钟，可到水晶宫及其旁边的小池。"
+      }
+    ],
+    "faq": [
+      {
+        "question": "要买门票吗？",
+        "answer": "公园室外区域和馆方常规展览通常免费，活动安排以馆方公告为准。"
+      },
+      {
+        "question": "现在能进馆吗？",
+        "answer": "室内因修缮暂闭，外围步道通行请核对馆方信息。"
+      },
+      {
+        "question": "从大池怎么走？",
+        "answer": "沿园路向南步行约10–15分钟。"
+      }
+    ],
+    "related": [
+      "mapa",
+      "ruta-una-hora",
+      "monumento-alfonso-xii"
+    ]
+  },
+  "donde-comer": {
+    "h1": "丽池大池周边用餐指南",
+    "metaTitle": "丽池大池附近吃什么",
+    "metaDescription": "从园内的 Florida Park 到伊维萨街区的小食酒馆，安排划船前后的用餐。",
+    "intro": "从园内到伊维萨街区，有餐厅、露台和适合短暂停留的咖啡馆。",
+    "sections": [
+      {
+        "id": "dentro",
+        "title": "公园内",
+        "content": "Florida Park 位于园内，设有室内场地和露台，并安排娱乐活动。适合希望留在园内用餐的游客。"
+      },
+      {
+        "id": "ibiza",
+        "title": "伊维萨街区",
+        "content": "可在 Doctor Castelo 街找 La Castela 和 Laredo，在 Menorca 街找 La Catapa。"
+      },
+      {
+        "id": "clasicos",
+        "title": "正餐与咖啡",
+        "content": "可在 Lope de Rueda 街的 La Montería 吃西班牙正餐，或在 Columela 街附近的 Magasand 选择早餐和咖啡。"
+      }
+    ],
+    "faq": [
+      {
+        "question": "划完船可以去哪里吃？",
+        "answer": "可留在园内去 Florida Park，或从东侧出园前往伊维萨街区。"
+      },
+      {
+        "question": "有适合家庭的选择吗？",
+        "answer": "可考虑宽敞露台或有日常菜式的街区餐馆，并核对营业时间。"
+      }
+    ],
+    "related": [
+      "tapas-barrio-ibiza",
+      "planes-con-ninos",
+      "ruta-una-hora"
+    ]
+  },
+  "tapas-barrio-ibiza": {
+    "h1": "伊维萨街区小食路线",
+    "metaTitle": "丽池伊维萨街区：西班牙小食与酒馆",
+    "metaDescription": "从丽池大池走到伊维萨街区，了解 La Castela、La Catapa 和 Laredo 一带的餐饮选择。",
+    "intro": "丽池公园东侧的伊维萨街区聚集了传统酒馆与新餐馆，适合接在大池游览后。",
+    "sections": [
+      {
+        "id": "zona",
+        "title": "街区范围",
+        "content": "Doctor Castelo 街、Menorca 街和 Lope de Rueda 街一带有多家酒馆，从大池附近步行约10–15分钟。"
+      },
+      {
+        "id": "sitios",
+        "title": "几处用餐地点",
+        "content": "La Castela 以西班牙小食和街区酒馆氛围见长。La Catapa 提供葡萄酒与创意小食。Laredo 供应时令菜，La Montería 也可安排一顿正餐。"
+      },
+      {
+        "id": "ruta",
+        "title": "从大池步行",
+        "content": "从公园东侧出园，沿伊维萨街进入街区。周末热门餐厅建议提前订位。"
+      }
+    ],
+    "faq": [
+      {
+        "question": "离大池远吗？",
+        "answer": "从公园东侧步行约10–15分钟。"
+      },
+      {
+        "question": "需要订位吗？",
+        "answer": "周末和节假日去热门餐厅时建议提前订位。"
+      }
+    ],
+    "related": [
+      "donde-comer",
+      "planes-con-ninos",
+      "ruta-una-hora"
+    ]
+  },
+  "ruta-una-hora": {
+    "h1": "丽池大池一小时路线",
+    "metaTitle": "一小时游丽池大池：环池步行路线",
+    "metaDescription": "串联阿方索十二世纪念碑、北岸码头和园路的短程步行方案。",
+    "intro": "时间有限时，可把重点放在纪念碑、北岸和水边步道。若想划船，请预留额外时间。",
+    "sections": [
+      {
+        "id": "pasos",
+        "title": "路线步骤",
+        "content": "入园后先到东岸纪念碑，在栏杆附近停留约10分钟。沿北岸到码头约15分钟，随后可沿花园步道再走约20分钟，从合适的园门离开。"
+      },
+      {
+        "id": "tiempo",
+        "title": "时间安排",
+        "content": "纯步行约45–60分钟。选划船时再加45分钟，并为登记登船留出约15分钟。"
+      },
+      {
+        "id": "consejos",
+        "title": "游览建议",
+        "content": "想避开人流可早点到。夏天带水，计划划船时先核对班次。"
+      }
+    ],
+    "faq": [
+      {
+        "question": "能在一小时内完成吗？",
+        "answer": "可以。不划船时，纪念碑和北岸一圈约45分钟。"
+      },
+      {
+        "question": "划船得留多久？",
+        "answer": "水上时段约45分钟，还要预留预约核对与登船时间。"
+      }
+    ],
+    "related": [
+      "como-llegar",
+      "mapa",
+      "planes-con-ninos"
+    ]
+  },
+  "planes-con-ninos": {
+    "h1": "带孩子游览丽池大池",
+    "metaTitle": "丽池大池亲子指南：划船、木偶剧与休息",
+    "metaDescription": "适合家庭的丽池大池游览安排，包括划船、木偶剧和休息设施。",
+    "intro": "可把开阔步道、划船和适合孩子的活动排进同一次公园行程。",
+    "sections": [
+      {
+        "id": "barcas",
+        "title": "家庭划船",
+        "content": "每艘船最多乘坐4人。由成人划桨并照看儿童，可从水面看阿方索十二世纪念碑。"
+      },
+      {
+        "id": "titeres",
+        "title": "木偶剧",
+        "content": "丽池公园有户外木偶剧。周末和节假日的场次以市府节目表为准。"
+      },
+      {
+        "id": "servicios",
+        "title": "洗手间与休息",
+        "content": "公园内有公共洗手间与标示的休息区。炎热时可带水、防晒用品，并安排阴凉处停留。"
+      }
+    ],
+    "faq": [
+      {
+        "question": "可以带婴儿车吗？",
+        "answer": "主要园路适合推车，尽量避开起伏草坡。"
+      },
+      {
+        "question": "儿童乘船有什么要求？",
+        "answer": "未成年人应由成人陪同照看，并在登船前核对码头当日规则。"
+      }
+    ],
+    "related": [
+      "barcas-retiro",
+      "ruta-una-hora",
+      "donde-comer"
+    ]
+  }
+}

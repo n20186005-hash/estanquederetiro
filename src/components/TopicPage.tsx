@@ -4,6 +4,8 @@ import PhotoCredit from './PhotoCredit';
 import type { TopicContent, TopicLocale } from '@/lib/topics';
 import { visitLabels } from '@/lib/visit';
 import VisitDetails from './VisitDetails';
+import Header from './Header';
+import Footer from './Footer';
 
 export interface RelatedTopic {
   slug: string;
@@ -32,7 +34,9 @@ export default function TopicPage({
   const photo = photos[slug as keyof typeof photos];
 
   return (
-    <div className="min-h-screen" style={{ background: 'var(--bg-primary)' }}>
+    <>
+      <Header overlay={false} />
+      <main className="min-h-screen pt-16" style={{ background: 'var(--bg-primary)' }}>
       <div className="max-w-3xl mx-auto px-4 sm:px-6 py-16 sm:py-24">
         <a
           href={`/${locale}`}
@@ -151,6 +155,8 @@ export default function TopicPage({
           </section>
         )}
       </div>
-    </div>
+      </main>
+      <Footer />
+    </>
   );
 }

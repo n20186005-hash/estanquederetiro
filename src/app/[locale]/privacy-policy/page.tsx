@@ -1,4 +1,6 @@
-import { setRequestLocale } from 'next-intl/server';
+import Header from '@/components/Header';
+import Footer from '@/components/Footer';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import { useTranslations, useLocale, useMessages } from 'next-intl';
 import type { Metadata } from 'next';
 
@@ -14,7 +16,10 @@ export async function generateMetadata({
   const esUrl = `${baseUrl}/es/privacy-policy`;
   const selfUrl = locale === 'zh' ? zhUrl : locale === 'es' ? esUrl : enUrl;
 
+  const t = await getTranslations({ locale, namespace: 'privacy' });
+
   return {
+    title: t('title'),
     alternates: {
       canonical: selfUrl,
       languages: {
@@ -80,5 +85,11 @@ export default async function PrivacyPage({
 }) {
   const { locale } = await params;
   setRequestLocale(locale);
-  return <PrivacyContent />;
+  return (
+    <>
+      <Header overlay={false} />
+      <main className="pt-16"><PrivacyContent /></main>
+      <Footer />
+    </>
+  );
 }

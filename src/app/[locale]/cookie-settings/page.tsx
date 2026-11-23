@@ -1,4 +1,6 @@
-import { setRequestLocale } from 'next-intl/server';
+import Header from '@/components/Header';
+import Footer from '@/components/Footer';
+import { getTranslations, setRequestLocale } from 'next-intl/server';
 import type { Metadata } from 'next';
 import CookieSettingsClient from './CookieSettingsClient';
 
@@ -14,7 +16,10 @@ export async function generateMetadata({
   const esUrl = `${baseUrl}/es/cookie-settings`;
   const selfUrl = locale === 'zh' ? zhUrl : locale === 'es' ? esUrl : enUrl;
 
+  const t = await getTranslations({ locale, namespace: 'cookieSettings' });
+
   return {
+    title: t('title'),
     alternates: {
       canonical: selfUrl,
       languages: {
@@ -34,5 +39,11 @@ export default async function CookiePage({
 }) {
   const { locale } = await params;
   setRequestLocale(locale);
-  return <CookieSettingsClient />;
+  return (
+    <>
+      <Header overlay={false} />
+      <main className="pt-16"><CookieSettingsClient /></main>
+      <Footer />
+    </>
+  );
 }

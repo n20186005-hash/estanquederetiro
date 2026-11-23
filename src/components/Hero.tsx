@@ -3,6 +3,7 @@ import { GALLERY_HERO } from '@/constants/gallery';
 
 export default function Hero() {
   const t = useTranslations('hero');
+  const a11y = useTranslations('accessibility');
 
   return (
     <section className="relative min-h-screen flex items-end pb-16 sm:pb-24 overflow-hidden">
@@ -10,7 +11,7 @@ export default function Hero() {
       <div className="absolute inset-0">
         <img
           src={GALLERY_HERO}
-          alt="Estanque Grande del Retiro - Main view in Madrid, Spain"
+          alt={a11y('heroAlt')}
           className="w-full h-full object-cover"
           loading="eager"
           fetchPriority="high"

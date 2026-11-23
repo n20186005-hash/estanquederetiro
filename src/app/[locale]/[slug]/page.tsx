@@ -60,7 +60,7 @@ export async function generateMetadata({
         title: place.title[language],
         description: place.history[language],
         url,
-        images: [`${BASE_URL}/nearby/${slug}.webp`],
+        images: [{ url: `${BASE_URL}/nearby/${slug}.webp`, alt: place.title[language] }],
       },
     };
   }

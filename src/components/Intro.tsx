@@ -2,6 +2,7 @@ import { useTranslations, useMessages } from 'next-intl';
 
 export default function Intro() {
   const t = useTranslations('intro');
+  const a11y = useTranslations('accessibility');
   const tOff = useTranslations('officialManagement');
   const tBc = useTranslations('breadcrumb');
   const messages = useMessages() as any;
@@ -17,7 +18,7 @@ export default function Intro() {
           <p className="mb-2 font-medium" style={{ color: 'var(--text-muted)' }}>
             {tBc('label')}
           </p>
-          <nav aria-label="Breadcrumb">
+          <nav aria-label={a11y('breadcrumb')}>
             <ol className="flex flex-wrap items-center gap-x-2 gap-y-1">
               {breadcrumbItems.map((label, i) => (
                 <li key={i} className="flex items-center gap-2">

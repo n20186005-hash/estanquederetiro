@@ -6,6 +6,7 @@ import { getNearby, getVisitInfo, nearbyPlaces } from '@/lib/nearby';
 import type { TopicLocale } from '@/lib/topics';
 import { visitLabels } from '@/lib/visit';
 import Footer from './Footer';
+import Header from './Header';
 import PhotoCredit from './PhotoCredit';
 
 
@@ -34,8 +35,9 @@ export function NearbyLinks({ locale }: { locale: TopicLocale }) {
 
 function GuideSection({ title, id, children }: { title: string; id?: string; children: ReactNode }) {
   return (
-    <section id={id} className="scroll-mt-8">
+    <section id={id} className="scroll-mt-24 rounded-2xl p-5 sm:p-8 border" style={{ background: 'var(--card-bg)', borderColor: 'var(--border-color)', boxShadow: 'var(--card-shadow)' }}>
       <h2 className="font-display text-2xl sm:text-3xl font-semibold mb-3">{title}</h2>
+      <div aria-hidden="true" className="w-10 h-0.5 mb-4" style={{ background: 'var(--accent)' }} />
       <div className="space-y-3 leading-relaxed" style={{ color: 'var(--text-secondary)' }}>{children}</div>
     </section>
   );
@@ -57,26 +59,27 @@ export function NearbyPage({ place, locale }: { place: (typeof nearbyPlaces)[num
   ];
   return (
     <>
+      <Header />
       <main style={{ background: 'var(--bg-primary)' }}>
-        <section className="relative isolate min-h-[28rem] flex items-end overflow-hidden text-white">
+        <section className="relative isolate min-h-[min(42rem,85svh)] flex items-end pt-20 overflow-hidden text-white">
           <Image src={`/nearby/${place.slug}.webp`} alt={title} fill priority unoptimized className="object-cover" />
-          <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/45 to-black/35" />
-          <div className="relative w-full max-w-5xl mx-auto px-5 sm:px-8 py-10">
+          <div className="absolute inset-0" style={{ background: 'var(--hero-overlay)' }} />
+          <div className="relative w-full max-w-6xl mx-auto px-5 sm:px-8 pb-10 pt-8 sm:pb-16">
             <a href={`/${locale}#nearby`} className="inline-block mb-6 text-sm underline underline-offset-4">{labels.nearby}</a>
-            <h1 className="font-display text-4xl sm:text-6xl font-semibold mb-4">{title}</h1>
-            <p className="max-w-3xl text-base sm:text-lg mb-4 leading-relaxed">{place.tagline[locale]}</p>
-            <p className="text-sm mb-3">{labels.hours} · {visit.hours}</p>
+            <h1 className="font-display text-4xl sm:text-5xl lg:text-7xl font-bold leading-tight mb-4 max-w-4xl">{title}</h1>
+            <p className="max-w-3xl text-lg sm:text-xl text-white/90 font-light mb-5 leading-relaxed">{place.tagline[locale]}</p>
+            <p className="inline-block text-sm mb-3 bg-white/15 rounded-full px-4 py-2 backdrop-blur-sm">{labels.hours} · {visit.hours}</p>
             <div className="flex flex-wrap gap-x-5 gap-y-2">
-              <a href={visit.map} className="inline-flex items-center gap-2 text-sm underline underline-offset-4">
+              <a href={visit.map} className="inline-flex items-center gap-2 text-sm rounded-full px-4 py-2 bg-white/15 hover:bg-white/25 backdrop-blur-sm">
                 <MapPin size={18} aria-hidden="true" className="shrink-0" /> {visit.address}
               </a>
-              <a href="#visitor-reviews" className="inline-flex items-center gap-2 text-sm underline underline-offset-4">
+              <a href="#visitor-reviews" className="inline-flex items-center gap-2 text-sm rounded-full px-4 py-2 bg-white/15 hover:bg-white/25 backdrop-blur-sm">
                 <Star size={17} aria-hidden="true" /> {guide.reviews}
               </a>
             </div>
           </div>
         </section>
-        <div className="max-w-3xl mx-auto px-5 sm:px-8 py-8 sm:py-12 space-y-8">
+        <div className="max-w-4xl mx-auto px-4 sm:px-8 py-8 sm:py-12 space-y-5 sm:space-y-7">
           <p><PhotoCredit photo={place.photo} locale={locale} archive={place.slug === 'paseo-de-coches'} /></p>
           <GuideSection title={guide.intro} id="introduction">
             <p>{place.history[locale]}</p>

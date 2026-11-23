@@ -299,7 +299,7 @@
     "title": "Visitor Reviews",
     "reviewsLabel": "reviews",
     "declaration": "Visitor feedback can be viewed via Google Maps.",
-    "asOf": "Figures collected in October 2026.",
+    "asOf": "Figures updated on this site on 23 November 2026.",
     "ratingSnapshot": "4.8",
     "reviewCountSnapshot": "36,017",
     "moreReviews": "View more reviews on Google Maps",
@@ -441,5 +441,14 @@
   "disclaimerHome": {
     "title": "Notice",
     "text": "An independent, non-profit, third-party travel-information website. We are not affiliated with the Madrid City Council or the park's operating entity."
+  },
+  "accessibility": {
+    "language": "Switch language",
+    "theme": "Toggle theme",
+    "heroAlt": "Main view of the Great Pond in Madrid",
+    "previous": "Previous photo",
+    "next": "Next photo",
+    "close": "Close photo viewer",
+    "breadcrumb": "Breadcrumb"
   }
 }

@@ -1,3 +1,5 @@
+import chinese from './topics-zh.json';
+
 export type TopicLocale = 'es' | 'en' | 'zh';
 
 export interface TopicSection {
@@ -898,7 +900,8 @@ export const TOPICS: Record<string, TopicData> = {
 export const TOPIC_SLUGS = Object.keys(TOPICS);
 
 export function getTopic(slug: string): TopicData | undefined {
-  return TOPICS[slug];
+  const topic = TOPICS[slug];
+  return topic && { ...topic, zh: chinese[slug as keyof typeof chinese] };
 }
 
-export const BUILT_TOPIC_LOCALES: TopicLocale[] = ['es', 'en'];
+export const BUILT_TOPIC_LOCALES: TopicLocale[] = ['es', 'en', 'zh'];

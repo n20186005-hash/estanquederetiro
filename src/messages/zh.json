@@ -178,10 +178,10 @@
     "horarios": "开放时间与季节",
     "como-llegar": "如何到达",
     "mapa": "池塘地图",
-    "monumento-alfonso-xii": "阿尔方索十二世纪念碑",
+    "monumento-alfonso-xii": "阿方索十二世纪念碑",
     "palacio-cristal": "水晶宫",
     "donde-comer": "附近用餐",
-    "tapas-barrio-ibiza": "伊比萨区 Tapas",
+    "tapas-barrio-ibiza": "伊维萨街区小食",
     "ruta-una-hora": "一小时路线",
     "planes-con-ninos": "亲子游览"
   },
@@ -299,7 +299,7 @@
     "title": "游客评价",
     "reviewsLabel": "条评价",
     "declaration": "评价信息可通过Google地图查看。",
-    "asOf": "数据收集于 2026 年 10 月。",
+    "asOf": "本站数据更新于 2026 年 11 月 23 日。",
     "ratingSnapshot": "4.8",
     "reviewCountSnapshot": "36,017",
     "moreReviews": "在Google地图上查看更多评价",
@@ -441,5 +441,14 @@
   "disclaimerHome": {
     "title": "免责声明",
     "text": "本站为独立的非官方、非营利的第三方旅游科普网站，与马德里市政厅及景点运营机构无任何隶属关系。"
+  },
+  "accessibility": {
+    "language": "切换语言",
+    "theme": "切换主题",
+    "heroAlt": "马德里丽池公园大池全景",
+    "previous": "上一张照片",
+    "next": "下一张照片",
+    "close": "关闭照片查看器",
+    "breadcrumb": "面包屑导航"
   }
 }

@@ -134,7 +134,7 @@ export async function generateMetadata({
           url: HERO_IMAGE,
           width: 1200,
           height: 800,
-          alt: `Estanque Grande del Retiro - Main view in Madrid, Spain`,
+          alt: meta.ogTitle,
         },
       ],
     },
@@ -254,11 +254,6 @@ export default async function LocaleLayout({
   return (
     <html lang={locale === 'zh' ? 'zh-CN' : locale === 'es' ? 'es' : 'en'} suppressHydrationWarning>
       <head>
-        <meta property="og:image" content={HERO_IMAGE} />
-        <meta property="og:image:alt" content="Estanque Grande del Retiro in Madrid, Spain" />
-        <meta property="og:image:width" content="1200" />
-        <meta property="og:image:height" content="800" />
-
         <script
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: JSON.stringify(touristAttractionJsonLd) }}
