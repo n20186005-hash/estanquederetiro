@@ -3,40 +3,25 @@ import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
 import { routing } from '@/i18n/routing';
 import {
-  TOPIC_SLUGS,
   getTopic,
   BUILT_TOPIC_LOCALES,
   type TopicData,
   type TopicContent,
   type TopicLocale,
 } from '@/lib/topics';
-import { getNearby, nearbyPlaces } from '@/lib/nearby';
+import { getNearby } from '@/lib/nearby';
 import { NearbyPage } from '@/components/Nearby';
 import TopicPage, { type RelatedTopic } from '@/components/TopicPage';
 
 const BASE_URL = 'https://estanquederetiro.com';
 
-export const dynamicParams = false;
+// Keep guide lookup independent of prerendered dynamic-route cache entries on Workers.
+export const dynamic = 'force-dynamic';
 
 function resolveContent(slug: string, locale: string): TopicContent | undefined {
   const data = getTopic(slug);
   if (!data) return undefined;
   return data[locale as keyof TopicData] as TopicContent | undefined;
-}
-
-export function generateStaticParams() {
-  const params: { locale: string; slug: string }[] = [];
-  for (const locale of BUILT_TOPIC_LOCALES) {
-    for (const slug of TOPIC_SLUGS) {
-      params.push({ locale, slug });
-    }
-  }
-  for (const locale of routing.locales) {
-    for (const place of nearbyPlaces) {
-      params.push({ locale, slug: place.slug });
-    }
-  }
-  return params;
 }
 
 export async function generateMetadata({
