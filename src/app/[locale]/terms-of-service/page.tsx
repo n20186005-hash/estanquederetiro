@@ -33,7 +33,7 @@ function TermsContent() {
   const locale = useLocale();
   const messages = useMessages() as any;
   const homeHref = `/${locale}`;
-  const sections = (messages?.terms?.sections || []) as Array<{ heading: string; content: string }>;
+  const sections = (messages?.terms?.sections || []) as Array<{ title: string; content: string }>;
 
   return (
     <div className="min-h-screen" style={{ background: 'var(--bg-primary)' }}>
