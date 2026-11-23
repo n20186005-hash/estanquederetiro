@@ -14,6 +14,8 @@ import Gallery from '@/components/Gallery';
 import Reviews from '@/components/Reviews';
 import DisclaimerBanner from '@/components/DisclaimerBanner';
 import FAQSection from '@/components/FAQSection';
+import { NearbyLinks } from '@/components/Nearby';
+import type { TopicLocale } from '@/lib/topics';
 import TopicLinks from '@/components/TopicLinks';
 import MapEmbed from '@/components/MapEmbed';
 import Footer from '@/components/Footer';
@@ -45,6 +47,7 @@ export default async function HomePage({
         <DisclaimerBanner />
         <FAQSection />
         <TopicLinks />
+        <NearbyLinks locale={locale as TopicLocale} />
         <MapEmbed />
       </main>
       <Footer />

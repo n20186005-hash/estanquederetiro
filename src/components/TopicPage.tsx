@@ -1,4 +1,9 @@
-import type { TopicContent } from '@/lib/topics';
+import Image from 'next/image';
+import photos from '@/lib/topic-photos.json';
+import PhotoCredit from './PhotoCredit';
+import type { TopicContent, TopicLocale } from '@/lib/topics';
+import { visitLabels } from '@/lib/visit';
+import VisitDetails from './VisitDetails';
 
 export interface RelatedTopic {
   slug: string;
@@ -13,15 +18,19 @@ export interface TopicPageLabels {
 
 export default function TopicPage({
   topic,
+  slug,
   locale,
   related,
   labels,
 }: {
   topic: TopicContent;
-  locale: string;
+  slug: string;
+  locale: TopicLocale;
   related: RelatedTopic[];
   labels: TopicPageLabels;
 }) {
+  const photo = photos[slug as keyof typeof photos];
+
   return (
     <div className="min-h-screen" style={{ background: 'var(--bg-primary)' }}>
       <div className="max-w-3xl mx-auto px-4 sm:px-6 py-16 sm:py-24">
@@ -51,6 +60,18 @@ export default function TopicPage({
         >
           {topic.intro}
         </p>
+
+        {photo && (
+          <figure className="mb-8">
+            <Image src={`/nearby/${slug}.webp`} alt={topic.h1} width={1200} height={800} unoptimized
+              className="w-full h-auto max-h-[28rem] object-cover rounded-2xl" />
+            <figcaption className="mt-2"><PhotoCredit photo={photo} locale={locale} /></figcaption>
+          </figure>
+        )}
+
+        <div className="mb-12">
+          <VisitDetails slug={slug} locale={locale} />
+        </div>
 
         <div className="space-y-10">
           {topic.sections.map((section) => (
@@ -97,6 +118,10 @@ export default function TopicPage({
             </div>
           </section>
         )}
+
+        <a href={`/${locale}#nearby`} className="mt-10 inline-block underline underline-offset-4" style={{ color: 'var(--accent)' }}>
+          {visitLabels[locale].nearby}
+        </a>
 
         {related.length > 0 && (
           <section className="mt-12">

@@ -1,4 +1,6 @@
 import type { MetadataRoute } from 'next';
+import { nearbyPlaces } from '@/lib/nearby';
+import { routing } from '@/i18n/routing';
 import { TOPIC_SLUGS, BUILT_TOPIC_LOCALES } from '@/lib/topics';
 
 const BASE_URL = 'https://estanquederetiro.com';
@@ -44,5 +46,11 @@ export default function sitemap(): MetadataRoute.Sitemap {
     }
   }
 
-  return [...staticHome, ...legal, ...topics];
+  const nearby: MetadataRoute.Sitemap = nearbyPlaces.flatMap(({ slug }) => {
+    const languages = Object.fromEntries(routing.locales.map((locale) => [locale, `${BASE_URL}/${locale}/${slug}`]));
+    languages['x-default'] = languages.en;
+    return routing.locales.map((locale) => ({ url: languages[locale], alternates: { languages } }));
+  });
+
+  return [...staticHome, ...legal, ...topics, ...nearby];
 }

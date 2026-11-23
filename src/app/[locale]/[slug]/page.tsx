@@ -8,7 +8,10 @@ import {
   BUILT_TOPIC_LOCALES,
   type TopicData,
   type TopicContent,
+  type TopicLocale,
 } from '@/lib/topics';
+import { getNearby, nearbyPlaces } from '@/lib/nearby';
+import { NearbyPage } from '@/components/Nearby';
 import TopicPage, { type RelatedTopic } from '@/components/TopicPage';
 
 const BASE_URL = 'https://estanquederetiro.com';
@@ -28,6 +31,11 @@ export function generateStaticParams() {
       params.push({ locale, slug });
     }
   }
+  for (const locale of routing.locales) {
+    for (const place of nearbyPlaces) {
+      params.push({ locale, slug: place.slug });
+    }
+  }
   return params;
 }
 
@@ -37,6 +45,25 @@ export async function generateMetadata({
   params: Promise<{ locale: string; slug: string }>;
 }): Promise<Metadata> {
   const { locale, slug } = await params;
+  const place = getNearby(slug);
+  if (place && routing.locales.includes(locale as TopicLocale)) {
+    const language = locale as TopicLocale;
+    const url = `${BASE_URL}/${locale}/${slug}`;
+    const languages = Object.fromEntries(routing.locales.map((l) => [l, `${BASE_URL}/${l}/${slug}`]));
+    languages['x-default'] = `${BASE_URL}/en/${slug}`;
+
+    return {
+      title: place.title[language],
+      description: place.history[language],
+      alternates: { canonical: url, languages },
+      openGraph: {
+        title: place.title[language],
+        description: place.history[language],
+        url,
+        images: [`${BASE_URL}/nearby/${slug}.webp`],
+      },
+    };
+  }
   const content = resolveContent(slug, locale);
   if (!content) return {};
 
@@ -74,6 +101,11 @@ export default async function TopicRoute({
 }) {
   const { locale, slug } = await params;
   setRequestLocale(locale);
+
+  const place = getNearby(slug);
+  if (place && routing.locales.includes(locale as TopicLocale)) {
+    return <NearbyPage place={place} locale={locale as TopicLocale} />;
+  }
 
   const content = resolveContent(slug, locale);
   if (!content) notFound();
@@ -153,7 +185,8 @@ export default async function TopicRoute({
       />
       <TopicPage
         topic={content}
-        locale={locale}
+        slug={slug}
+        locale={locale as TopicLocale}
         related={related}
         labels={{
           home: common('home'),

@@ -1,0 +1,839 @@
+[
+  {
+    "slug": "palacio-velazquez",
+    "title": {
+      "es": "Palacio de Velázquez",
+      "en": "Velázquez Palace",
+      "zh": "委拉斯开兹宫"
+    },
+    "history": {
+      "es": "El pabellón de ladrillo y cerámica se construyó para la Exposición Nacional de Minería de 1883 y hoy acoge exposiciones del Reina Sofía.",
+      "en": "Built for the 1883 National Mining Exhibition, the brick-and-ceramic pavilion now hosts Reina Sofía exhibitions.",
+      "zh": "这座砖砌展馆为1883年全国矿业博览会而建，如今由索菲亚王后艺术中心用于办展。"
+    },
+    "tips": {
+      "es": "Rodea la fachada para observar los azulejos y deja la visita interior para cuando el museo confirme que hay muestra abierta.",
+      "en": "Walk around to see the tiles and check the museum programme before planning an interior visit.",
+      "zh": "绕建筑一圈看彩釉砖，再查馆方展讯安排入内。"
+    },
+    "address": "Paseo de Venezuela, 2, Parque del Retiro",
+    "station": "Retiro",
+    "next": "fuente-de-la-alcachofa",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Palacio_de_Vel%C3%A1zquez%2C_Parque_del_Retiro%2C_Madrid%2C_Espa%C3%B1a%2C_2017-05-18%2C_DD_20.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "slug": "rosaleda-retiro",
+    "title": {
+      "es": "La Rosaleda del Retiro",
+      "en": "Retiro Rose Garden",
+      "zh": "丽池玫瑰园"
+    },
+    "history": {
+      "es": "La Rosaleda, impulsada por Cecilio Rodríguez a comienzos del siglo XX, combina rosales trepadores, arcos y parterres.",
+      "en": "Cecilio Rodríguez developed the rose garden in the early twentieth century with climbing roses, arches and planted beds.",
+      "zh": "这座玫瑰园由塞西利奥·罗德里格斯于20世纪初主持营建，有攀援玫瑰、拱架和花坛。"
+    },
+    "tips": {
+      "es": "Recorre los caminos entre los macizos y encuadra los arcos desde el eje central. La floración varía con el tiempo y la poda.",
+      "en": "Follow the paths between beds and frame the arches from the central axis. Flowering varies with weather and pruning.",
+      "zh": "沿花坛间的小径走，从主轴拍连续拱架。赏花效果随天气和修剪变化。"
+    },
+    "address": "Paseo del Duque de Fernán Núñez, Parque del Retiro",
+    "station": "Ibiza",
+    "next": "fuente-del-angel-caido",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Rosaleda_del_Retiro_%28Madrid%29_06.jpg",
+      "author": "Luis García ( Zaqarbal )",
+      "license": "CC BY-SA 3.0 es",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/es/deed.en"
+    }
+  },
+  {
+    "slug": "jardines-cecilio-rodriguez",
+    "title": {
+      "es": "Jardines de Cecilio Rodríguez",
+      "en": "Cecilio Rodríguez Gardens",
+      "zh": "塞西利奥·罗德里格斯花园"
+    },
+    "history": {
+      "es": "Los jardines de Cecilio Rodríguez tienen trazado formal, setos recortados y fuentes.",
+      "en": "The Cecilio Rodríguez Gardens pair formal paths and clipped hedges with fountains.",
+      "zh": "这片花园以对称园路、修剪整齐的树篱和喷泉见长。"
+    },
+    "tips": {
+      "es": "Entra desde el paseo de Uruguay y sigue el eje entre los estanques. Fotografía las pérgolas desde los caminos y deja espacio a los pavos reales si se acercan.",
+      "en": "Enter from Paseo de Uruguay and follow the axis between the pools. Photograph the pergolas from the path and give peacocks space if they approach.",
+      "zh": "从乌拉圭大道一侧进入，沿水池之间的中轴走，在小径上取景花架。遇到孔雀靠近时留出距离。"
+    },
+    "address": "Paseo de Uruguay, Parque del Retiro",
+    "station": "Ibiza",
+    "next": "rosaleda-retiro",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Jardines_de_Cecilio_Rodr%C3%ADguez_%2816_de_noviembre_de_2014%2C_Madrid%29_01.JPG",
+      "author": "Discasto",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "slug": "jardines-herrero-palacios",
+    "title": {
+      "es": "Jardines del Arquitecto Herrero Palacios",
+      "en": "Herrero Palacios Gardens",
+      "zh": "埃雷罗·帕拉西奥斯花园"
+    },
+    "history": {
+      "es": "Estos jardines conservan vestigios de la antigua Casa de Fieras.",
+      "en": "These gardens retain traces of Madrid’s former zoo.",
+      "zh": "这里保留了马德里旧动物园的部分遗迹。"
+    },
+    "tips": {
+      "es": "Busca las estructuras que recuerdan el antiguo recinto zoológico y continúa hacia la biblioteca. Una vista oblicua permite relacionar los restos con los paseos actuales.",
+      "en": "Look for the surviving structures before continuing to the library. A side angle shows how the remnants sit among today’s park paths.",
+      "zh": "先寻找旧设施留下的构筑物，再顺路走到图书馆。从侧面取景，可把遗迹与如今的公园步道放在同一画面。"
+    },
+    "address": "Paseo de Fernán Núñez, Parque del Retiro",
+    "station": "Ibiza",
+    "next": "biblioteca-eugenio-trias",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Jardines_del_Arquitecto_Herrero_Palacios_%2816_de_noviembre_de_2014%2C_Madrid%29_02.JPG",
+      "author": "Discasto",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "slug": "biblioteca-eugenio-trias",
+    "title": {
+      "es": "Biblioteca Eugenio Trías",
+      "en": "Eugenio Trías Library",
+      "zh": "欧亨尼奥·特里亚斯图书馆"
+    },
+    "history": {
+      "es": "La biblioteca pública ocupa un edificio de la antigua Casa de Fieras y lleva el nombre del filósofo Eugenio Trías.",
+      "en": "Named for philosopher Eugenio Trías, the public library occupies a building of the former zoo.",
+      "zh": "公共图书馆利用原动物园建筑开设，以哲学家欧亨尼奥·特里亚斯命名。"
+    },
+    "tips": {
+      "es": "Observa la fachada desde el parque. Si entras a consultar la colección, respeta las zonas de lectura y las normas de fotografía.",
+      "en": "View the façade from the park. Visitors using the collection should respect the quiet reading areas and photography rules.",
+      "zh": "从园路可以看外立面。入馆查阅时请遵守阅览区的安静要求和拍照规定。"
+    },
+    "address": "Paseo de Fernán Núñez, 24",
+    "station": "Ibiza",
+    "next": "jardines-herrero-palacios",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Madrid_-_Parque_del_Retiro%2C_Biblioteca_p%C3%BAblica_municipal_Eugenio_Tr%C3%ADas_2.jpg",
+      "author": "Zarateman",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+    }
+  },
+  {
+    "slug": "casa-de-vacas",
+    "title": {
+      "es": "Casa de Vacas",
+      "en": "Casa de Vacas Cultural Centre",
+      "zh": "奶牛房文化中心"
+    },
+    "history": {
+      "es": "La antigua vaquería del Retiro se reconvirtió en un centro cultural municipal.",
+      "en": "The park’s former dairy became a municipal cultural centre.",
+      "zh": "公园原来的奶牛房如今是市立文化中心。"
+    },
+    "tips": {
+      "es": "Desde el paseo de Colombia se distingue su perfil bajo y alargado. Consulta la agenda de exposiciones antes de organizar la parada junto al estanque.",
+      "en": "Its low, elongated silhouette is visible from Paseo de Colombia. Check the exhibition calendar before pairing a visit with the pond.",
+      "zh": "从哥伦比亚大道可看清横向展开的低层建筑。可和大池一起安排，入内前先查市府展览日程。"
+    },
+    "address": "Paseo de Colombia, 1",
+    "station": "Retiro",
+    "next": "fuente-de-los-galapagos",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Casa_de_Vacas_-_01.jpg",
+      "author": "Carlos Delgado",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "slug": "casita-del-pescador",
+    "title": {
+      "es": "Casita del Pescador",
+      "en": "Fisherman’s Cottage",
+      "zh": "渔人小屋"
+    },
+    "history": {
+      "es": "Esta pequeña construcción pintoresca formaba parte del Reservado de Fernando VII.",
+      "en": "This small ornamental building belonged to Ferdinand VII’s private garden.",
+      "zh": "这座小巧的景观建筑原属费尔南多七世的私人花园。"
+    },
+    "tips": {
+      "es": "Da la vuelta por el camino del estanque para ver cómo cambian el reflejo y el color de la fachada. La visita se puede hacer desde el exterior.",
+      "en": "Follow the path around its pond to see the reflection and coloured façade from different angles. The exterior is the focus of the stop.",
+      "zh": "沿小池边走一段，观察彩色墙面与倒影随角度变化。主要看点从室外就能欣赏。"
+    },
+    "address": "Paseo de Panamá, Parque del Retiro",
+    "station": "Retiro",
+    "next": "montana-artificial",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Casita_del_Pescador_%28Retiro%2C_Madrid%29_02.jpg",
+      "author": "Felipe Gabaldón",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  {
+    "slug": "montana-artificial",
+    "title": {
+      "es": "Montaña Artificial del Retiro",
+      "en": "Retiro’s Artificial Mountain",
+      "zh": "丽池公园人工山"
+    },
+    "history": {
+      "es": "La montaña artificial, llamada también Montaña de los Gatos, es una pieza del jardín romántico de Fernando VII.",
+      "en": "Also called Cat Mountain, this artificial hill belongs to Ferdinand VII’s romantic garden.",
+      "zh": "人工山又称猫山，是费尔南多七世时期浪漫主义园林的一部分。"
+    },
+    "tips": {
+      "es": "Desde el sendero bajo se aprecia mejor el relieve y la relación entre piedra, vegetación y agua. Comprueba el horario si quieres acceder al interior.",
+      "en": "The lower path shows the relationship between rockwork, vegetation and water. Check the schedule for any interior access.",
+      "zh": "低处步道更能看清叠石、植被与水景的关系。如想参观内部，先核对开放安排。"
+    },
+    "address": "Paseo de Panamá, Parque del Retiro",
+    "station": "Retiro",
+    "next": "ermita-san-pelayo-san-isidoro",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:01_Madrid_El_Retiro_Monta%C3%B1a_artificial_lou.JPG",
+      "author": "Lourdes Cardenal",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "slug": "ermita-san-pelayo-san-isidoro",
+    "title": {
+      "es": "Ruinas de San Pelayo y San Isidoro",
+      "en": "Ruins of San Pelayo and San Isidoro",
+      "zh": "圣佩拉约与圣伊西多罗教堂遗址"
+    },
+    "history": {
+      "es": "Los restos románicos proceden de Ávila y se trasladaron a Madrid.",
+      "en": "These Romanesque remains came from Ávila and were moved to Madrid.",
+      "zh": "这组罗曼式遗迹原在阿维拉，后来移至马德里。"
+    },
+    "tips": {
+      "es": "Recorre el perímetro para identificar el ábside curvo y los vanos estrechos. Una perspectiva lateral muestra mejor la profundidad de la ruina.",
+      "en": "Walk around them to pick out the curved apse and narrow openings. A side view helps show the depth of the surviving walls.",
+      "zh": "沿外围辨认弧形后殿和狭窄窗口，从侧面拍更容易表现残墙的纵深。"
+    },
+    "address": "Paseo de Panamá, Parque del Retiro",
+    "station": "Retiro",
+    "next": "casita-del-pescador",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Ermita_de_San_Pelayo_y_San_Isidro_1.jpg",
+      "author": "J.L. de Diegp (User:Gato de Madridpedia)",
+      "license": "Public domain",
+      "licenseUrl": ""
+    }
+  },
+  {
+    "slug": "parterre-frances",
+    "title": {
+      "es": "Parterre del Retiro",
+      "en": "Retiro’s French Parterre",
+      "zh": "丽池法式花园"
+    },
+    "history": {
+      "es": "El jardín formal traza un eje entre la Puerta de Felipe IV y el interior del parque.",
+      "en": "The formal garden runs on an axis from the Gate of Philip IV into the park.",
+      "zh": "法式花园从费利佩四世门向园内展开。"
+    },
+    "tips": {
+      "es": "Observa la simetría de los caminos y los parterres desde el acceso occidental. Reserva una parada para el ahuehuete histórico.",
+      "en": "Start at the western entrance to see the symmetrical paths and beds, and leave time for the historic Montezuma cypress.",
+      "zh": "由西侧入口看步道和花坛的对称布局，途中可专门停留看历史悠久的墨西哥落羽杉。"
+    },
+    "address": "Puerta de Felipe IV, calle de Alfonso XII",
+    "station": "Banco de España",
+    "next": "ahuehuete-retiro",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Plaza_Parterre%2C_Parque_del_Retiro%2C_Madrid%2C_Espa%C3%B1a%2C_2017-05-18%2C_DD_28.jpg",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "slug": "ahuehuete-retiro",
+    "title": {
+      "es": "Ahuehuete del Retiro",
+      "en": "Retiro’s Montezuma Cypress",
+      "zh": "丽池墨西哥落羽杉"
+    },
+    "history": {
+      "es": "El ahuehuete es una conífera originaria de México.",
+      "en": "The Montezuma cypress is native to Mexico.",
+      "zh": "这种落羽杉原产墨西哥。"
+    },
+    "tips": {
+      "es": "Su tronco ancho y su copa son fáciles de reconocer cerca del extremo occidental del Parterre. Encuadra el árbol entero desde el camino y evita pisar el entorno de las raíces.",
+      "en": "Look for its broad trunk and canopy near the western end of the Parterre. Frame the whole tree from the path and stay clear of its root area.",
+      "zh": "在法式花园西端附近，可凭粗壮树干和宽阔树冠辨认这棵古树。从步道拍全树，避免踩踏根部周围。"
+    },
+    "address": "Parterre, junto a la Puerta de Felipe IV",
+    "station": "Banco de España",
+    "next": "puerta-de-felipe-iv",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Ahuehuete%2C_Taxodium_mucronatum%2C_en_el_parque_de_El_Retiro%2C_2.jpg",
+      "author": "Malopez 21",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "slug": "jardin-de-los-planteles",
+    "title": {
+      "es": "Jardín de los Planteles",
+      "en": "Planteles Garden",
+      "zh": "普兰特莱斯花园"
+    },
+    "history": {
+      "es": "Este jardín del sector suroeste ofrece un paseo arbolado entre el acceso de Murillo y el Bosque del Recuerdo.",
+      "en": "This southwestern garden offers a shaded walk between the Murillo entrance and the Forest of Remembrance.",
+      "zh": "这片绿地位于公园西南侧，可由穆里略入口步行前往纪念林。"
+    },
+    "tips": {
+      "es": "Sigue el trazado exterior y fíjate en cómo cambian los claros, las alineaciones de árboles y la sombra.",
+      "en": "Follow the outside paths and look for changes in tree alignment, openings and shade.",
+      "zh": "沿外围步道走，留意林间空地、成列树木和树荫的变化。"
+    },
+    "address": "Paseo de Cuba, Parque del Retiro",
+    "station": "Estación del Arte",
+    "next": "bosque-del-recuerdo",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Jard%C3%ADn_de_los_planteles_en_el_Parque_de_El_Retiro%2C_Madrid%2C_Espa%C3%B1a.jpg",
+      "author": "Gorilaenlaniebla",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "slug": "fuente-del-angel-caido",
+    "title": {
+      "es": "Fuente del Ángel Caído",
+      "en": "Fountain of the Fallen Angel",
+      "zh": "堕落天使喷泉"
+    },
+    "history": {
+      "es": "La figura de Ricardo Bellver representa la caída de Lucifer.",
+      "en": "Ricardo Bellver’s sculpture depicts Lucifer’s fall.",
+      "zh": "里卡多·贝尔韦尔创作的雕像表现路西法坠落。"
+    },
+    "tips": {
+      "es": "Recorre la glorieta para ver la torsión del cuerpo y las figuras de la base. Una toma abierta desde el borde de la plaza incluye la fuente y su entorno.",
+      "en": "Walk around the roundabout to see the twisting body and figures on the base. A wide shot from the edge includes both fountain and setting.",
+      "zh": "绕广场看人物扭转的姿态与基座造型，从广场边缘用广角把喷泉和周边环境一同收入画面。"
+    },
+    "address": "Glorieta del Ángel Caído, Parque del Retiro",
+    "station": "Estación del Arte",
+    "next": "rosaleda-retiro",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Fuente_del_%C3%81ngel_Ca%C3%ADdo_-_03.jpg",
+      "author": "Carlos Delgado",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "slug": "fuente-de-la-alcachofa",
+    "title": {
+      "es": "Fuente de la Alcachofa",
+      "en": "Artichoke Fountain",
+      "zh": "朝鲜蓟喷泉"
+    },
+    "history": {
+      "es": "La fuente histórica está en el borde meridional del Estanque Grande.",
+      "en": "The historic fountain stands by the southern edge of the Great Pond.",
+      "zh": "历史喷泉位于大池南缘。"
+    },
+    "tips": {
+      "es": "Busca la alcachofa que corona el conjunto y los personajes de la parte inferior. En Madrid existe otra versión en la glorieta de Atocha.",
+      "en": "Look for the artichoke at the top and the figures below it. There is another version at the Atocha roundabout.",
+      "zh": "先认顶部的朝鲜蓟，再看下方人物雕刻。阿托查环岛还有另一座版本，导航时认准丽池公园内的位置。"
+    },
+    "address": "Plaza de Honduras, Parque del Retiro",
+    "station": "Retiro",
+    "next": "palacio-velazquez",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Fuente_de_la_Alcachofa_%28Retiro%2C_Madrid%29_01.jpg",
+      "author": "Jim Anzalone from U.S.A.",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  {
+    "slug": "fuente-de-los-galapagos",
+    "title": {
+      "es": "Fuente de los Galápagos",
+      "en": "Turtle Fountain",
+      "zh": "海龟喷泉"
+    },
+    "history": {
+      "es": "La fuente, también llamada de Isabel II, recibe su nombre popular de sus tortugas de piedra.",
+      "en": "Also called the Isabella II Fountain, it takes its popular name from its stone turtles.",
+      "zh": "这座喷泉也称伊莎贝尔二世喷泉，俗名来自石雕海龟。"
+    },
+    "tips": {
+      "es": "Haz una parada en la plaza de Nicaragua y observa los animales desde el borde de la pila.",
+      "en": "Stop at Plaza de Nicaragua and look for the animals around the basin.",
+      "zh": "到尼加拉瓜广场后沿水池边寻找龟形雕刻。"
+    },
+    "address": "Plaza de Nicaragua, Parque del Retiro",
+    "station": "Retiro",
+    "next": "casa-de-vacas",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Fuente_de_los_Gal%C3%A1pagos_-_Parque_del_Retiro%2C_Madrid_004.jpg",
+      "author": "Américo Toledano",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "slug": "fuente-de-las-campanillas",
+    "title": {
+      "es": "Estanque de las Campanillas",
+      "en": "Bell Pond (Estanque Ochavado)",
+      "zh": "铃铛池（八瓣池）"
+    },
+    "history": {
+      "es": "El Estanque Ochavado conserva la traza lobulada del jardín real del siglo XVII. Su nombre recuerda las campanillas de una antigua estructura en el centro.",
+      "en": "The Bell Pond retains the lobed outline of a seventeenth-century royal garden feature. Its name recalls bells that once hung from a structure in the centre.",
+      "zh": "水池保留了17世纪王家花园的多瓣轮廓，名字源于池心旧建筑曾悬挂的铃铛。"
+    },
+    "tips": {
+      "es": "Desde la Puerta de Felipe IV, bordea el lado norte del Parterre y sigue las indicaciones al paseo del Paraguay. Desde la barandilla puedes ver la rocalla central y el contorno de la lámina de agua.",
+      "en": "From the Gate of Philip IV, follow the north side of the Parterre toward Paseo del Paraguay. The railing gives you a view of the central rockwork and the scalloped outline.",
+      "zh": "由费利佩四世门进入后，沿法式花园北侧走向巴拉圭大道。站在栏杆外可同时观察中央叠石和花瓣形池缘。"
+    },
+    "address": "Paseo del Paraguay, junto al Paseo de la Argentina",
+    "station": "Banco de España",
+    "next": "parterre-frances",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:La_fuente_del_estanque_ochavado._El_Retiro._Madrid_%282445885342%29.jpg",
+      "author": "losmininos",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  {
+    "slug": "fuente-egipcia",
+    "title": {
+      "es": "Fuente Egipcia",
+      "en": "Egyptian Fountain",
+      "zh": "埃及式喷泉"
+    },
+    "history": {
+      "es": "Isidro González Velázquez diseñó esta fuente de inspiración egipcia en la orilla sur del Estanque Grande. Dos esfinges flanquean su frente arquitectónico.",
+      "en": "Isidro González Velázquez designed this Egyptian-inspired fountain on the Great Pond’s south bank. A pair of sphinxes flank the architectural front.",
+      "zh": "这座埃及风格喷泉位于大池南岸，由伊西德罗·冈萨雷斯·贝拉斯克斯设计，建筑式立面两边各有一座狮身人面像。"
+    },
+    "tips": {
+      "es": "Acércate por la orilla sur para observar el conjunto de frente. Cambia de ángulo para distinguir las esfinges y los relieves.",
+      "en": "Approach along the south bank to see the composition head-on. Step sideways to pick out the sphinxes and relief details.",
+      "zh": "从南岸步道接近，先看正面全景，再从侧面辨认狮身人面像和浮雕。"
+    },
+    "address": "Orilla sur del Estanque Grande, Parque del Retiro",
+    "station": "Retiro",
+    "next": "palacio-velazquez",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Fuente_Egipcia_-_Parque_del_Retiro%2C_Madrid_001.jpg",
+      "author": "Américo Toledano",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "slug": "paseo-de-las-estatuas",
+    "title": {
+      "es": "Paseo de las Estatuas",
+      "en": "Statue Walk",
+      "zh": "雕像大道"
+    },
+    "history": {
+      "es": "En el paseo de la Argentina se alinean esculturas de monarcas realizadas para el Palacio Real.",
+      "en": "Along Paseo de la Argentina are statues of monarchs originally made for the Royal Palace.",
+      "zh": "阿根廷大道两侧排列着原为王宫制作的君主雕像。"
+    },
+    "tips": {
+      "es": "Camina desde la Puerta de España y mira cómo los pedestales forman una perspectiva continua bajo el arbolado.",
+      "en": "Start from Puerta de España to see the line of pedestals receding beneath the trees.",
+      "zh": "从西班牙门走入林荫大道，可看基座在树下形成连续透视。"
+    },
+    "address": "Paseo de la Argentina, Parque del Retiro",
+    "station": "Retiro",
+    "next": "parterre-frances",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Parque_del_Retiro_%28Madrid%29_%2826238322812%29.jpg",
+      "author": "Jose Luis Cernadas Iglesias from Coruña, España",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+    }
+  },
+  {
+    "slug": "paseo-de-coches",
+    "title": {
+      "es": "Paseo de Coches",
+      "en": "Carriage Drive",
+      "zh": "马车大道"
+    },
+    "history": {
+      "es": "El paseo de Fernán Núñez fue trazado para carruajes en el siglo XIX.",
+      "en": "Paseo de Fernán Núñez was laid out for carriages in the nineteenth century.",
+      "zh": "费尔南·努涅斯大道于19世纪辟作马车通道。"
+    },
+    "tips": {
+      "es": "Su anchura y las filas de árboles lo distinguen de los senderos del parque. Recorre un tramo desde la entrada de O’Donnell hacia los jardines del este.",
+      "en": "Its width and tree rows distinguish it from the smaller garden paths. Walk a stretch from the O’Donnell entrance toward the eastern gardens.",
+      "zh": "道路宽，沿线树列整齐。从奥唐奈街入口朝东侧花园走一段，更容易体会它与普通园路的尺度差异。"
+    },
+    "address": "Paseo de Fernán Núñez, Parque del Retiro",
+    "station": "Ibiza",
+    "next": "jardines-herrero-palacios",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Madrid%2C_El_Retiro_1976_04.jpg",
+      "author": "LBM1948",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "slug": "monumento-martinez-campos",
+    "title": {
+      "es": "Monumento a Martínez Campos",
+      "en": "Martínez Campos Monument",
+      "zh": "马丁内斯·坎波斯纪念碑"
+    },
+    "history": {
+      "es": "El grupo ecuestre de Mariano Benlliure muestra a Martínez Campos con uniforme militar.",
+      "en": "Mariano Benlliure’s equestrian sculpture depicts Martínez Campos in military uniform.",
+      "zh": "马里亚诺·贝尼柳雷塑造了身着军装的坎波斯骑马像。"
+    },
+    "tips": {
+      "es": "En la plaza de Guatemala, mira el perfil del caballo desde un lado y rodea el pedestal para ver sus relieves.",
+      "en": "At Plaza de Guatemala, look at the horse in profile and walk around the pedestal for its reliefs.",
+      "zh": "到危地马拉广场后先从侧面看马的轮廓，再绕基座找浮雕。"
+    },
+    "address": "Plaza de Guatemala, Parque del Retiro",
+    "station": "Ibiza",
+    "next": "biblioteca-eugenio-trias",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Monumento_a_Mart%C3%ADnez_Campos.jpg",
+      "author": "Alberto-g-rovi",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+    }
+  },
+  {
+    "slug": "monumento-ramon-y-cajal",
+    "title": {
+      "es": "Monumento a Ramón y Cajal",
+      "en": "Ramón y Cajal Monument",
+      "zh": "拉蒙-卡哈尔纪念碑"
+    },
+    "history": {
+      "es": "Victorio Macho representa al científico Santiago Ramón y Cajal en posición reclinada.",
+      "en": "Victorio Macho shows scientist Santiago Ramón y Cajal reclining.",
+      "zh": "维克托里奥·马乔将科学家圣地亚哥·拉蒙-卡哈尔塑造成斜卧姿态。"
+    },
+    "tips": {
+      "es": "Acércate desde el paseo de Venezuela para ver cómo la figura baja y el agua organizan el conjunto. La vista diagonal ayuda a leer la composición.",
+      "en": "Approach from Paseo de Venezuela to see how the low figure and water organise the monument. A diagonal view makes the composition easier to read.",
+      "zh": "从委内瑞拉大道接近，可看低矮的人物像如何与水池组成整体。斜侧面便于观察。"
+    },
+    "address": "Paseo de Venezuela, Parque del Retiro",
+    "station": "Retiro",
+    "next": "fuente-egipcia",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Monumento_a_Santiago_Ramon_y_Cajal_-_Parque_del_Retiro_-_Madrid_02.jpg",
+      "author": "Javier Perez Montes",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "slug": "bosque-del-recuerdo",
+    "title": {
+      "es": "Bosque del Recuerdo",
+      "en": "Forest of Remembrance",
+      "zh": "纪念林"
+    },
+    "history": {
+      "es": "El Bosque del Recuerdo conmemora a las víctimas de los atentados del 11 de marzo de 2004.",
+      "en": "The Forest of Remembrance commemorates victims of the 11 March 2004 attacks.",
+      "zh": "纪念林悼念2004年3月11日袭击的遇难者。"
+    },
+    "tips": {
+      "es": "Recorre despacio el camino y observa el conjunto arbolado desde sus bordes. Mantén el tono de voz bajo y deja espacio a quienes vienen a recordar.",
+      "en": "Walk slowly and take in the planted memorial from the path. Keep voices low and give people space to pay their respects.",
+      "zh": "沿步道慢走，从边缘观察纪念林的整体布局。保持安静，给前来悼念的人留出空间。"
+    },
+    "address": "Jardín de los Planteles, Paseo de Cuba",
+    "station": "Estación del Arte",
+    "next": "cuesta-de-moyano",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Bosque_del_Recuerdo_-_01.jpg",
+      "author": "Carlos Delgado",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "slug": "puerta-de-alcala",
+    "title": {
+      "es": "Puerta de Alcalá",
+      "en": "Alcalá Gate",
+      "zh": "阿尔卡拉门"
+    },
+    "history": {
+      "es": "La puerta neoclásica de Sabatini se levantó para Carlos III.",
+      "en": "Sabatini designed this neoclassical gate for Charles III.",
+      "zh": "这座新古典主义城门由萨巴蒂尼为卡洛斯三世设计，两面的雕刻细节各异。"
+    },
+    "tips": {
+      "es": "Sus dos caras tienen detalles escultóricos distintos. Compara las fachadas desde los pasos y aceras que rodean la plaza, sin entrar en el anillo de tráfico.",
+      "en": "The two faces have different sculptural details. Compare them from the marked crossings and pavements around the square, away from the traffic circle.",
+      "zh": "在广场外围人行道和标线过街处比较两面，不要进入车行环岛。"
+    },
+    "address": "Plaza de la Independencia",
+    "station": "Retiro",
+    "next": "paseo-de-las-estatuas",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Puerta_de_Alcal%C3%A1_2025.jpg",
+      "author": "Fernando Pascullo",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "slug": "puerta-de-felipe-iv",
+    "title": {
+      "es": "Puerta de Felipe IV",
+      "en": "Gate of Philip IV",
+      "zh": "费利佩四世门"
+    },
+    "history": {
+      "es": "La puerta monumental enmarca la entrada occidental al Parterre.",
+      "en": "The monumental gate frames the western approach to the Parterre.",
+      "zh": "这座古门是法式花园的西入口。"
+    },
+    "tips": {
+      "es": "Vista desde el interior, abre una perspectiva hacia el Casón del Buen Retiro al otro lado de Alfonso XII. Mantén libre el paso cuando te detengas a fotografiar.",
+      "en": "Looking out from the garden, it opens a view toward the Casón across Calle de Alfonso XII. Leave the entrance clear when stopping for photos.",
+      "zh": "从园内朝外可隔着阿方索十二世街望向丽池宫旧舞厅。拍照时请让出入口通道。"
+    },
+    "address": "Calle de Alfonso XII, frente a la calle de Felipe IV",
+    "station": "Banco de España",
+    "next": "cason-del-buen-retiro",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Puerta_de_Felipe_IV_1.JPG",
+      "author": "Gryffindor",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "slug": "cuesta-de-moyano",
+    "title": {
+      "es": "Cuesta de Moyano",
+      "en": "Cuesta de Moyano Bookstalls",
+      "zh": "莫亚诺坡道旧书摊"
+    },
+    "history": {
+      "es": "Las casetas libreras de la calle de Claudio Moyano forman una hilera en la cuesta entre Atocha y el Retiro.",
+      "en": "Booksellers’ stalls line the slope of Calle de Claudio Moyano between Atocha and Retiro.",
+      "zh": "克劳迪奥·莫亚诺街连接阿托查一带和丽池公园，坡道旁排着旧书摊。"
+    },
+    "tips": {
+      "es": "Sube mirando los expositores de libros y vuelve por la misma acera para ver los rótulos desde abajo. Cada librero fija su horario.",
+      "en": "Browse uphill and look back from the pavement for a view of the stall signs. Hours vary by seller.",
+      "zh": "可往上走慢慢浏览，再从坡下回望书摊招牌。营业时间因摊位而异。"
+    },
+    "address": "Calle de Claudio Moyano",
+    "station": "Estación del Arte",
+    "next": "real-jardin-botanico",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Bookstalls_in_Madrid.JPG",
+      "author": "Daderot",
+      "license": "Public domain",
+      "licenseUrl": ""
+    }
+  },
+  {
+    "slug": "real-jardin-botanico",
+    "title": {
+      "es": "Real Jardín Botánico",
+      "en": "Royal Botanical Garden",
+      "zh": "皇家植物园"
+    },
+    "history": {
+      "es": "El jardín botánico del CSIC ocupa un recinto de terrazas junto al Prado.",
+      "en": "The CSIC botanical garden occupies a terraced plot beside the Prado.",
+      "zh": "西班牙国家研究委员会的植物园位于普拉多旁，由多层台地组成。"
+    },
+    "tips": {
+      "es": "Entra por plaza de Murillo y empieza por los parterres con etiquetas de especies. Reserva tiempo para subir a los niveles superiores y consulta las condiciones de acceso a los invernaderos.",
+      "en": "Enter from Plaza de Murillo and start with the labelled beds. Leave time for the upper terraces and check greenhouse access before visiting.",
+      "zh": "从穆里略广场进入，先看标有物种名的花坛，再留时间走上层台地。温室开放以园方安排为准。"
+    },
+    "address": "Plaza de Murillo, 2",
+    "station": "Estación del Arte",
+    "next": "museo-del-prado",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Jardin-Botanico-Madrid-Linneo.jpg",
+      "author": "FDV",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "slug": "museo-del-prado",
+    "title": {
+      "es": "Museo Nacional del Prado",
+      "en": "Prado Museum",
+      "zh": "普拉多博物馆"
+    },
+    "history": {
+      "es": "El edificio de Juan de Villanueva alberga una de las principales colecciones de pintura europea.",
+      "en": "Juan de Villanueva’s building houses a major collection of European painting.",
+      "zh": "胡安·德·比利亚努埃瓦设计的馆舍收藏了大量欧洲绘画。"
+    },
+    "tips": {
+      "es": "El paseo del Prado permite ver la fachada de Velázquez. Consulta la entrada indicada en tu reserva, que puede ser distinta de la fachada fotografiada.",
+      "en": "View the Velázquez façade from Paseo del Prado and follow the entrance named on your booking for admission.",
+      "zh": "从普拉多大道可看委拉斯开兹门立面，实际入馆时请按预约所注明的入口走。"
+    },
+    "address": "Calle de Ruiz de Alarcón, 23",
+    "station": "Banco de España",
+    "next": "san-jeronimo-el-real",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Museo_del_Prado_2016_%2825185969599%29.jpg",
+      "author": "Emilio J. Rodríguez Posada",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+    }
+  },
+  {
+    "slug": "san-jeronimo-el-real",
+    "title": {
+      "es": "San Jerónimo el Real",
+      "en": "San Jerónimo el Real Church",
+      "zh": "圣赫罗尼莫皇家教堂"
+    },
+    "history": {
+      "es": "La iglesia de los Jerónimos conserva el vínculo histórico con el antiguo monasterio y el entorno cortesano del Retiro.",
+      "en": "The church recalls the former Jerónimos monastery and the royal precinct that grew around it.",
+      "zh": "圣赫罗尼莫教堂保留了旧修道院与丽池王室建筑群的历史联系。"
+    },
+    "tips": {
+      "es": "Desde Moreto se ven las torres y la escalinata. Si hay culto, limita la visita al exterior o vuelve después.",
+      "en": "The towers and staircase are visible from Calle de Moreto. During worship, view the exterior or come back afterward.",
+      "zh": "从莫雷托街可看双塔与台阶。遇到礼拜时可先看外观，结束后再来。"
+    },
+    "address": "Calle de Moreto, 4",
+    "station": "Banco de España",
+    "next": "cason-del-buen-retiro",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:MadridAgosto201320100101000011SAM_3038.jpg",
+      "author": "Rowanwindwhistler",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  },
+  {
+    "slug": "cason-del-buen-retiro",
+    "title": {
+      "es": "Casón del Buen Retiro",
+      "en": "Casón del Buen Retiro",
+      "zh": "丽池宫旧舞厅"
+    },
+    "history": {
+      "es": "El Casón fue el salón de baile del antiguo palacio y ahora forma parte del Prado.",
+      "en": "The Casón was the ballroom of the former palace and now belongs to the Prado.",
+      "zh": "这座建筑原为丽池宫舞厅，现属普拉多博物馆。"
+    },
+    "tips": {
+      "es": "Mira su fachada desde el lado del Parterre. La visita exterior encaja en un paseo entre la iglesia de los Jerónimos y la puerta de Felipe IV.",
+      "en": "View its façade from the Parterre side as part of a walk between San Jerónimo el Real and the Gate of Philip IV.",
+      "zh": "可从法式花园一侧看立面，把外观参观排进皇家教堂至费利佩四世门的步行路线。"
+    },
+    "address": "Calle de Alfonso XII, 28",
+    "station": "Banco de España",
+    "next": "parterre-frances",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Cas%C3%B3n_del_Buen_Retiro_-_Este.jpg",
+      "author": "Fernando",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+    }
+  },
+  {
+    "slug": "museo-de-artes-decorativas",
+    "title": {
+      "es": "Museo Nacional de Artes Decorativas",
+      "en": "National Museum of Decorative Arts",
+      "zh": "西班牙国家装饰艺术博物馆"
+    },
+    "history": {
+      "es": "El museo reúne mobiliario, textiles, cerámica y otros objetos de la vida doméstica.",
+      "en": "The museum collects furniture, textiles, ceramics and other domestic objects.",
+      "zh": "馆藏涵盖家具、纺织品、陶瓷等生活器物。"
+    },
+    "tips": {
+      "es": "Entra por la calle de Montalbán y consulta qué salas están abiertas. Los conjuntos de época permiten comparar cómo se amueblaban viviendas de distintos periodos.",
+      "en": "Enter from Calle de Montalbán and check which galleries are open. Period interiors let visitors compare how homes were furnished across eras.",
+      "zh": "从蒙塔尔班街入馆前可查开放展厅。馆内的历史陈设能帮助比较不同时期的居室布置。"
+    },
+    "address": "Calle de Montalbán, 12",
+    "station": "Banco de España",
+    "next": "palacio-de-cibeles",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Museo_Nacional_de_Artes_Decorativas_%28Madrid%29_02.jpg",
+      "author": "Luis García ( Zaqarbal )",
+      "license": "GFDL",
+      "licenseUrl": "http://www.gnu.org/copyleft/fdl.html"
+    }
+  },
+  {
+    "slug": "palacio-de-cibeles",
+    "title": {
+      "es": "Palacio de Cibeles",
+      "en": "Cibeles Palace",
+      "zh": "西贝莱斯宫"
+    },
+    "history": {
+      "es": "El antiguo Palacio de Comunicaciones alberga hoy dependencias municipales y CentroCentro.",
+      "en": "The former communications palace now houses municipal offices and CentroCentro.",
+      "zh": "原通信宫现设市政办公区和 CentroCentro 文化中心。"
+    },
+    "tips": {
+      "es": "Desde la plaza se ve la fachada completa, pero conviene usar los cruces señalizados. Las exposiciones y el mirador tienen condiciones de acceso propias.",
+      "en": "The square offers a full view of the façade from its marked crossings and pavements. Exhibitions and the lookout have separate access conditions.",
+      "zh": "可从广场周边人行道看完整立面，过街走斑马线。展览和观景台各有入场规定。"
+    },
+    "address": "Plaza de Cibeles, 1",
+    "station": "Banco de España",
+    "next": "museo-de-artes-decorativas",
+    "photo": {
+      "source": "https://commons.wikimedia.org/wiki/File:Palacio_de_Comunicaciones_-_46.jpg",
+      "author": "Carlos Delgado",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+    }
+  }
+]

@@ -2,10 +2,12 @@
 
 import { useTranslations, useLocale } from 'next-intl';
 import LanguageToggle from './LanguageToggle';
+import { visitLabels } from '@/lib/visit';
+import type { TopicLocale } from '@/lib/topics';
 import ThemeToggle from './ThemeToggle';
 import { useState, useEffect } from 'react';
 
-const NAV_ITEMS = ['gallery', 'reviews', 'map', 'faq'] as const;
+const NAV_ITEMS = ['nearby', 'gallery', 'reviews', 'map', 'faq'] as const;
 
 export default function Header() {
   const t = useTranslations('header');
@@ -30,7 +32,7 @@ export default function Header() {
       }}
     >
       <div className="max-w-6xl mx-auto px-4 sm:px-6 h-16 flex items-center justify-between">
-        <a href={prefix} className="font-display text-lg font-semibold tracking-tight" style={{ color: scrolled ? 'var(--text-primary)' : '#fff' }}>
+        <a href={prefix} className="font-display text-sm sm:text-lg font-semibold tracking-tight" style={{ color: scrolled ? 'var(--text-primary)' : '#fff' }}>
           Estanque Grande del Retiro
         </a>
 
@@ -38,16 +40,21 @@ export default function Header() {
           {NAV_ITEMS.map((section) => (
             <a
               key={section}
-              href={`${prefix}/#${section}`}
+              href={`${prefix}#${section}`}
               className="text-sm font-medium transition-colors hover:opacity-80"
               style={{ color: scrolled ? 'var(--text-secondary)' : 'rgba(255,255,255,0.85)' }}
             >
-              {t(section)}
+              {section === 'nearby' ? visitLabels[locale as TopicLocale].nearby : t(section)}
             </a>
           ))}
         </nav>
 
         <div className="flex items-center gap-2">
+          <a href={`${prefix}#nearby`} aria-label={visitLabels[locale as TopicLocale].nearby}
+            className="md:hidden text-xs underline underline-offset-4"
+            style={{ color: scrolled ? 'var(--text-secondary)' : '#fff' }}>
+            {locale === 'zh' ? '周边' : locale === 'es' ? 'Cerca' : 'Nearby'}
+          </a>
           <ThemeToggle />
           <LanguageToggle />
         </div>

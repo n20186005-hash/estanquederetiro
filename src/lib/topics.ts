@@ -482,7 +482,7 @@ export const TOPICS: Record<string, TopicData> = {
           id: 'estado',
           title: 'Estado actual',
           content:
-            'Gestionado por el Museo Reina Sofía, el palacio suele albergar exposiciones temporales de arte contemporáneo. El entorno y la fachada se pueden visitar; el acceso a las salas depende de la programación vigente. Conviene verificar fechas y horarios en la web del museo.',
+            'Gestionado por el Museo Reina Sofía, el palacio suele albergar exposiciones temporales de arte contemporáneo. El interior está cerrado temporalmente por restauración. El entorno permite ver la intervención artística exterior. Conviene verificar fechas y horarios en la web del museo.',
         },
         {
           id: 'ruta',
@@ -500,11 +500,11 @@ export const TOPICS: Record<string, TopicData> = {
         {
           question: '¿Está abierto por dentro?',
           answer:
-            'Depende de la exposición en curso. El edificio y sus alrededores se pueden recorrer; verifica el horario antes de ir.',
+            'El interior está cerrado temporalmente por restauración. Consulta al museo antes de acercarte al entorno.',
         },
         {
           question: '¿Cómo llego desde el estanque?',
-          answer: 'A pie por los jardines, unos 10–15 minutos hacia el oeste.',
+          answer: 'A pie por los jardines, unos 10–15 minutos hacia el sur.',
         },
       ],
       related: ['mapa', 'ruta-una-hora', 'monumento-alfonso-xii'],
@@ -527,7 +527,7 @@ export const TOPICS: Record<string, TopicData> = {
           id: 'estado',
           title: 'Current status',
           content:
-            'Managed by the Reina Sofía Museum, the palace usually hosts temporary contemporary-art exhibitions. The surroundings and façade can be visited; access to the rooms depends on the current programme. Check dates and times on the museum website.',
+            'Managed by the Reina Sofía Museum, the palace usually hosts temporary contemporary-art exhibitions. The interior is temporarily closed for restoration. The museum’s art installation can be viewed from the surrounding paths. Check dates and times on the museum website.',
         },
         {
           id: 'ruta',
@@ -545,11 +545,11 @@ export const TOPICS: Record<string, TopicData> = {
         {
           question: 'Is it open inside?',
           answer:
-            'It depends on the exhibition on show. The building and grounds can be explored; verify hours before going.',
+            'The interior is temporarily closed for restoration. Check the museum for access to the surrounding paths.',
         },
         {
           question: 'How do I get there from the pond?',
-          answer: 'On foot through the gardens, about 10–15 minutes west.',
+          answer: 'On foot through the gardens, about 10–15 minutes south.',
         },
       ],
       related: ['mapa', 'ruta-una-hora', 'monumento-alfonso-xii'],
